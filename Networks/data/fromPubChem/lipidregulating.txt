@@ -1,0 +1,932 @@
+
+1. gamma-Oryzanol; 11042-64-1; BCP13528
+MW: 602.900 g/mol HBDC: 1 HBAC: 4 XLogP: 12.1 TFC: 0 MF: C40H58O4
+CID: 134693151
+
+2. GR 79236; BCP14200
+MW: 351.363 g/mol HBDC: 5 HBAC: 9 XLogP: -0.1 TFC: 0 MF: C15H21N5O5
+CID: 134693095
+
+3. gamma-Oryzanol; 11042-64-1; (E)-((1R,3aS,7S,91R,12aR)-3a,6,6,12a-tetramethyl-1-((R)-6-methylhept-5-en-2-yl)hexadecahydrocyclopenta[a]cyclopropa[e]phenanthren-7-yl) 3-(4-hydroxy-3-methoxyphenyl)acrylate
+MW: 602.900 g/mol HBDC: 1 HBAC: 4 XLogP: 12.1 TFC: 0 MF: C40H58O4
+CID: 134689750
+
+4. Mipomersen sodium
+MW: 7594.764 g/mol HBDC: 26 HBAC: 157 TFC: 0 MF: C230H305N67Na19O122P19S19
+CID: 129734999
+
+5. 3ALPHA-HYDROXY PRAVASTATIN LACTONE; 85798-96-5; ZINC5924511
+MW: 406.519 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C23H34O6
+CID: 124306862
+
+6. Mipomersen sodium [USAN]; ISIS301012; 629167-92-6 ...
+MW: 7594.764 g/mol HBDC: 26 HBAC: 157 TFC: 0 MF: C230H305N67Na19O122P19S19
+CID: 118984460
+
+7. Asarinin; MolPort-039-339-149
+MW: 354.358 g/mol HBDC: 0 HBAC: 6 XLogP: 2.7 TFC: 0 MF: C20H18O6
+CID: 102004873
+
+8. ATORVASTATIN CALCIUM; 134523-03-8; AKOS030627500 ...
+MW: 1155.363 g/mol HBDC: 6 HBAC: 13 TFC: 0 MF: C66H68CaF2N4O10
+CID: 101610369
+
+9. L-647318; 87770-13-6
+MW: 422.606 g/mol HBDC: 1 HBAC: 5 XLogP: 5.9 TFC: 0 MF: C25H42O5
+CID: 101607775
+
+10. 77517-29-4; MSD-883
+MW: 406.563 g/mol HBDC: 1 HBAC: 5 XLogP: 5 TFC: 0 MF: C24H38O5
+CID: 100969459
+
+11. Choline O-sulfate
+MW: 184.230 g/mol HBDC: 1 HBAC: 4 TFC: 1 MF: C5H14NO4S+
+CID: 100914982
+
+12. Lovastatin EP Impurity E; 77517-29-4; ZINC97743729
+MW: 406.563 g/mol HBDC: 1 HBAC: 5 XLogP: 5 TFC: 0 MF: C24H38O5
+CID: 97938126
+
+13. STIGMASTANOL; LGJMUZUPVCAVPU-BMPQYNDWSA-N
+MW: 416.734 g/mol HBDC: 1 HBAC: 1 XLogP: 10.2 TFC: 0 MF: C29H52O
+CID: 91746710
+
+14. Volixibat potassium; UNII-YWU8J6O8J0; YWU8J6O8J0 ...
+MW: 844.045 g/mol HBDC: 5 HBAC: 13 TFC: 0 MF: C38H50KN3O12S2
+CID: 89522394
+
+15. Rosuvastatin; Rosuvastatin calcium; 147098-20-2 ...
+MW: 1003.157 g/mol HBDC: 6 HBAC: 20 TFC: 0 MF: C44H56CaF2N6O12S2
+CID: 87071853
+
+16. UNII-3C39BY17Y6; SCHEMBL1033983; 3C39BY17Y6
+MW: 324.530 g/mol HBDC: 0 HBAC: 6 TFC: 0 MF: C12H20O2S4
+CID: 76966351
+
+17. SQ 31906 Lactone; 6-Hydroxyisocompactin; 6-Hydroxy-isocompactin ...
+MW: 406.519 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C23H34O6
+CID: 72792429
+
+18. Mipomersen; D08CVQ; GTPL7364
+MW: 7157.958 g/mol HBDC: 26 HBAC: 157 XLogP: -38.1 TFC: -19 MF: C230H305N67O122P19S19-19
+CID: 71301230
+
+19. Cholestyramine; CHEMBL2110633; HGMSJMJPXGGEBP-UHFFFAOYSA-N
+MW: 296.478 g/mol HBDC: 0 HBAC: 0 XLogP: 5.7 TFC: 1 MF: C21H30N+
+CID: 70695641
+
+20. Colestyramine; Cholestyramine chloride; CHOLESTYRAMINE RESIN ...
+MW: 331.928 g/mol HBDC: 0 HBAC: 1 TFC: 0 MF: C21H30ClN
+CID: 70695640
+
+21. Pitavastatin Lactone; 141750-63-2
+MW: 403.453 g/mol HBDC: 1 HBAC: 5 XLogP: 4.3 TFC: 0 MF: C25H22FNO3
+CID: 70105374
+
+22. Atorvastatin calcium hydrate; SCHEMBL1402150
+MW: 576.665 g/mol HBDC: 5 HBAC: 7 TFC: 0 MF: C33H37FN2O6
+CID: 67019418
+
+23. FLUVASTATIN SODIUM; 93957-55-2; KS-00000JS0 ...
+MW: 433.455 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C24H25FNNaO4
+CID: 66587062
+
+24. Pitavastatin Lactone; 141750-63-2; BC657659
+MW: 403.453 g/mol HBDC: 1 HBAC: 5 XLogP: 4.3 TFC: 0 MF: C25H22FNO3
+CID: 59036960
+
+25. 4-(2-(1-(4-chlorocinnamyl)piperazin-4-yl)ethyl)benzoic acid; BM15766; 4-(2-(1-(4-chlorocinnamyl)piperazin-4-yl)ethyl)benzoate ...
+MW: 384.904 g/mol HBDC: 1 HBAC: 3 XLogP: 2.7 TFC: 0 MF: C22H25ClN2O2
+CID: 54758559
+
+26. Pannorin; 137023-81-5; AC1NUPH9 ...
+MW: 258.229 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C14H10O5
+CID: 54692973
+
+27. Ascorbate 2-sulfate; Ascorbic acid 2-sulfate; L-Ascorbyl-2-sulfate ...
+MW: 256.181 g/mol HBDC: 4 HBAC: 9 XLogP: -2.2 TFC: 0 MF: C6H8O9S
+CID: 54676864
+
+28. Rosuvastatin calcium; Crestor (TN); ZD4522 ...
+MW: 521.617 g/mol HBDC: 3 HBAC: 10 TFC: 2 MF: C22H28CaFN3O6S+2
+CID: 54613184
+
+29. NSC123019; trans-1,4-Bis(2-dichlorobenzylaminoethyl)cyclohexane hydrochloride; AY9944 ...
+MW: 427.838 g/mol HBDC: 3 HBAC: 2 TFC: 0 MF: C22H29Cl3N2
+CID: 54602908
+
+30. 153321-50-7; 6-Heptenoic acid,7-[7-([1,1'-biphenyl]-4-ylmethyl)-2-(4-fluorophenyl)-4,5,6,7-tetrahydro-2H-indazol-3-yl]-3,5-dihydroxy-,[3(3S*,5R*,7E),7R*]- (9CI); ACMC-1C95H ...
+MW: 540.635 g/mol HBDC: 3 HBAC: 6 XLogP: 5.7 TFC: 0 MF: C33H33FN2O4
+CID: 54048818
+
+31. 73390-02-0; CTK5D7933; Cholest-8-ene-3,15-diol,(3b,5a,15a)- (9CI)
+MW: 402.663 g/mol HBDC: 2 HBAC: 2 XLogP: 6.6 TFC: 0 MF: C27H46O2
+CID: 53471323
+
+32. 151106-12-6; 6-Heptenoic acid,7-[3-bromo-4,5-bis(4-fluorophenyl)-2-(1-methylethyl)-1H-pyrrol-1-yl]-3,5-dihydroxy-,methyl ester, (3R,5S,6E)-rel-; ACMC-20n64j ...
+MW: 548.425 g/mol HBDC: 2 HBAC: 6 XLogP: 5.2 TFC: 0 MF: C27H28BrF2NO4
+CID: 53435973
+
+33. CHEMBL1800808; SCHEMBL531706; Anacetrapib,cas:875446-37-0 ...
+MW: 623.491 g/mol HBDC: 0 HBAC: 13 XLogP: 8.4 TFC: 0 MF: C29H23F10NO3
+CID: 53363909
+
+34. gamma-Oryzanol; 11042-64-1; C40H58O4 ...
+MW: 602.900 g/mol HBDC: 1 HBAC: 4 XLogP: 12.1 TFC: 0 MF: C40H58O4
+CID: 51346127
+
+35. Evacetrapib; 1186486-62-3; LY2484595 ...
+MW: 638.659 g/mol HBDC: 1 HBAC: 13 XLogP: 7.7 TFC: 0 MF: C31H36F6N6O2
+CID: 49836058
+
+36. Pitavastatin Lactone; 141750-63-2; BCP11656 ...
+MW: 403.453 g/mol HBDC: 1 HBAC: 5 XLogP: 4.3 TFC: 0 MF: C25H22FNO3
+CID: 46782766
+
+37. Laminarin; 9008-22-4; SCHEMBL17408801 ...
+MW: 504.438 g/mol HBDC: 11 HBAC: 16 XLogP: -5.8 TFC: 0 MF: C18H32O16
+CID: 46173707
+
+38. ATORVASTATIN CALCIUM; 134523-03-8; Atorvastatin     Calcium ...
+MW: 1195.441 g/mol HBDC: 6 HBAC: 12 TFC: 0 MF: C66H68Ca2F2N4O10
+CID: 45790066
+
+39. Rosuvastatin; Rosuvastatin calcium; Crestor ...
+MW: 520.609 g/mol HBDC: 2 HBAC: 10 TFC: 1 MF: C22H27CaFN3O6S+
+CID: 45114162
+
+40. Mipomersen; CHEMBL2219536
+MW: 7177.110 g/mol HBDC: 45 HBAC: 157 XLogP: -36.5 TFC: 0 MF: C230H324N67O122P19S19
+CID: 44564108
+
+41. Mipomersen sodium; CHEMBL502097
+MW: 7594.764 g/mol HBDC: 26 HBAC: 157 TFC: 0 MF: C230H305N67Na19O122P19S19
+CID: 44564107
+
+42. CHEMBL116903; GR 79236; SCHEMBL9791896 ...
+MW: 351.363 g/mol HBDC: 5 HBAC: 9 XLogP: -0.1 TFC: 0 MF: C15H21N5O5
+CID: 44343895
+
+43. ML236B; Compactin_120180; SCHEMBL8277387 ...
+MW: 390.520 g/mol HBDC: 1 HBAC: 5 XLogP: 3.9 TFC: 0 MF: C23H34O5
+CID: 44335616
+
+44. Cholest-8-ene-3,15-diol; 5-Cedo; 73390-02-0 ...
+MW: 402.663 g/mol HBDC: 2 HBAC: 2 XLogP: 6.6 TFC: 0 MF: C27H46O2
+CID: 44145735
+
+45. SQ 31906 Lactone; 3|A-iso-Pravastatin; 85798-96-5 ...
+MW: 406.519 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C23H34O6
+CID: 29981992
+
+46. Volixibat; UNII-X2JZ0451H8; X2JZ0451H8 ...
+MW: 805.955 g/mol HBDC: 6 HBAC: 13 XLogP: 3.1 TFC: 0 MF: C38H51N3O12S2
+CID: 24987688
+
+47. IN1025; U-18666A; 3beta-(2-DIETHYLAMINOETHOXY)ANDROSTENONE HYDROCHLORIDE
+MW: 424.066 g/mol HBDC: 1 HBAC: 3 TFC: 0 MF: C25H42ClNO2
+CID: 24906257
+
+48. 15-ketocholestane; 3beta-hydroxy-5alpha-cholestan-15-one; CHEBI:61835 ...
+MW: 402.663 g/mol HBDC: 1 HBAC: 2 XLogP: 7.7 TFC: 0 MF: C27H46O2
+CID: 24003426
+
+49. 3-Hydroxy-3,5-dihydro ML-236C; 154417-69-3; 3alpha-Hydroxy-3,5-dihydro-ML-236C sodium salt ...
+MW: 348.415 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C18H29NaO5
+CID: 23695975
+
+50. Tddcph; 141267-47-2; 2,6,7-Trideoxy-7-C-(2,4-dichlorophenyl)heptonic acid ...
+MW: 345.148 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C13H15Cl2NaO5
+CID: 23695972
+
+51. PD 123244-15; 148750-02-1; 1H-Pyrrole-1-heptanoic acid, 3,4-dibromo-2-(4-fluorophenyl)-beta,delta-dihydroxy-5-(1-methylethyl)-, monosodium salt, (R*,R*)-(+-)- ...
+MW: 543.203 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C20H23Br2FNNaO4
+CID: 23689273
+
+52. Lithium nicotinate; Nicotinic acid, lithium salt; 3-Pyridinecarboxylic acid, lithium salt ...
+MW: 129.043 g/mol HBDC: 0 HBAC: 3 TFC: 0 MF: C6H4LiNO2
+CID: 23686395
+
+53. FLUVASTATIN SODIUM; 93957-55-2; Lymetel ...
+MW: 433.455 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C24H25FNNaO4
+CID: 23679527
+
+54. Bmy 21950; Bmy-21950; D04NCJ ...
+MW: 478.432 g/mol HBDC: 2 HBAC: 9 TFC: 0 MF: C23H21F2N4NaO4
+CID: 23665941
+
+55. CERIVASTATIN SODIUM; Rivastatin; Lipobay ...
+MW: 481.540 g/mol HBDC: 2 HBAC: 7 TFC: 0 MF: C26H33FNNaO5
+CID: 23663992
+
+56. FLUVASTATIN SODIUM; Lescol; 93957-55-2 ...
+MW: 433.455 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C24H25FNNaO4
+CID: 23663976
+
+57. Betaine hydrochloride; SR-01000075714; Betaine hydrochloride, >=99% ...
+MW: 154.614 g/mol HBDC: 2 HBAC: 2 TFC: 1 MF: C5H13ClNO2+
+CID: 23617112
+
+58. N-2-Hydroxycyclopentyladenosine; GR 79236; CHEBI:131303 ...
+MW: 351.363 g/mol HBDC: 5 HBAC: 9 XLogP: -0.1 TFC: 0 MF: C15H21N5O5
+CID: 23581828
+
+59. CRILVASTATIN; PMD-387; Crilvastatina ...
+MW: 253.342 g/mol HBDC: 1 HBAC: 3 XLogP: 2.6 TFC: 0 MF: C14H23NO3
+CID: 22845140
+
+60. CHITIN, DEACETYLATED; A843451; methyl N-[5-[3-azanyl-5-[3-azanyl-5-[3-azanyl-5-[3-azanyl-5-[3-azanyl-5-[3-azanyl-6-(hydroxymethyl)-4,5-bis(oxidanyl)oxan-2-yl]oxy-6-(hydroxymethyl)-4-oxidanyl-oxan-2-yl]oxy-6-(hydroxymethyl)-4-oxidanyl-oxan-2-yl]oxy-6-(hydroxymethyl)-4-oxidanyl-oxan-2-yl ...
+MW: 1526.464 g/mol HBDC: 29 HBAC: 47 XLogP: -21.4 TFC: 0 MF: C56H103N9O39
+CID: 21896651
+
+61. 144535-22-8; Cholesta-8(14),24-dien-15-one,3-hydroxy-, (3b,5a)- (9CI); CTK4C4121
+MW: 398.631 g/mol HBDC: 1 HBAC: 2 XLogP: 6.6 TFC: 0 MF: C27H42O2
+CID: 21121620
+
+62. 120185-34-4; Cholest-8(14)-en-15-one,3,25-dihydroxy-, (3b,5a)- (9CI); CTK4B1735
+MW: 416.646 g/mol HBDC: 2 HBAC: 3 XLogP: 5.3 TFC: 0 MF: C27H44O3
+CID: 21121089
+
+63. 120171-12-2; Cholest-8(14)-en-15-one,3,24-dihydroxy-, (3b,5a)- (9CI); CTK4B1727
+MW: 416.646 g/mol HBDC: 2 HBAC: 3 XLogP: 5.5 TFC: 0 MF: C27H44O3
+CID: 21121088
+
+64. 136320-61-1; Chol-8(14)-en-15-one,24-(dimethylamino)-3-hydroxy-, (3b,5a)- (9CI); CTK4C0251
+MW: 401.635 g/mol HBDC: 1 HBAC: 3 XLogP: 4.9 TFC: 0 MF: C26H43NO2
+CID: 21120672
+
+65. STIGMASTANOL; Stigmastan-3-ol; Stigmastan-3.beta.-ol ...
+MW: 416.734 g/mol HBDC: 1 HBAC: 1 XLogP: 10.2 TFC: 0 MF: C29H52O
+CID: 20849398
+
+66. 141263-69-6; Benzenehexanesulfonicacid, 2,4-dichloro-b,d-dihydroxy-, monopotassium salt,[R-(R*,R*)]- (9CI); ACMC-1CCD0 ...
+MW: 343.215 g/mol HBDC: 3 HBAC: 5 XLogP: 1.8 TFC: 0 MF: C12H16Cl2O5S
+CID: 20835986
+
+67. gamma-Oryzanol; ZINC118912839; J-521407
+MW: 602.900 g/mol HBDC: 1 HBAC: 4 XLogP: 12.1 TFC: 0 MF: C40H58O4
+CID: 20056814
+
+68. 120185-34-4; ACMC-20mos9; Cholest-8(14)-en-15-one,3,25-dihydroxy-, (3b,5a)- (9CI) ...
+MW: 416.646 g/mol HBDC: 2 HBAC: 3 XLogP: 5.3 TFC: 0 MF: C27H44O3
+CID: 18953389
+
+69. 136320-61-1; ACMC-20mw44; Chol-8(14)-en-15-one,24-(dimethylamino)-3-hydroxy-, (3b,5a)- (9CI) ...
+MW: 401.635 g/mol HBDC: 1 HBAC: 3 XLogP: 4.9 TFC: 0 MF: C26H43NO2
+CID: 18953379
+
+70. 120171-12-2; ACMC-20mos3; Cholest-8(14)-en-15-one,3,24-dihydroxy-, (3b,5a)- (9CI)
+MW: 416.646 g/mol HBDC: 2 HBAC: 3 XLogP: 5.5 TFC: 0 MF: C27H44O3
+CID: 18953377
+
+71. 144535-22-8; ACMC-20n43i; Cholesta-8(14),24-dien-15-one,3-hydroxy-, (3b,5a)- (9CI)
+MW: 398.631 g/mol HBDC: 1 HBAC: 2 XLogP: 6.6 TFC: 0 MF: C27H42O2
+CID: 18953376
+
+72. FLUVASTATIN SODIUM; Fluvastatin, Sodium Salt; Fluvastatin sodium salt ...
+MW: 433.455 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C24H25FNNaO4
+CID: 16760425
+
+73. GR 79236X; GR 79236; CHEMBL1590464 ...
+MW: 351.363 g/mol HBDC: 5 HBAC: 9 XLogP: -0.1 TFC: 0 MF: C15H21N5O5
+CID: 16759592
+
+74. PRAVASTATIN SODIUM; 81131-70-6; Mevalotin ...
+MW: 446.516 g/mol HBDC: 3 HBAC: 7 TFC: 0 MF: C23H35NaO7
+CID: 16759173
+
+75. STIGMASTANOL; SCHEMBL14404969; AKOS024319193 ...
+MW: 416.734 g/mol HBDC: 1 HBAC: 1 XLogP: 10.2 TFC: 0 MF: C29H52O
+CID: 16219965
+
+76. STIGMASTANOL; Fucostanol; Stigmastan-3-ol ...
+MW: 416.734 g/mol HBDC: 1 HBAC: 1 XLogP: 10.2 TFC: 0 MF: C29H52O
+CID: 15559396
+
+77. ATORVASTATIN CALCIUM; 134523-03-8; Lipitor ...
+MW: 1155.363 g/mol HBDC: 6 HBAC: 12 TFC: 0 MF: C66H68CaF2N4O10
+CID: 15378998
+
+78. 3,24-Dihydroxycholest-8(14)-en-15-one; 120171-12-2; 3,24-Dhac-8-en-15-one ...
+MW: 416.646 g/mol HBDC: 2 HBAC: 3 XLogP: 5.5 TFC: 0 MF: C27H44O3
+CID: 15231300
+
+79. 3beta,25-Dihydroxy-5alpha-cholest-8(14)-en-15-one; 3,25-DCeO; 120185-34-4 ...
+MW: 416.646 g/mol HBDC: 2 HBAC: 3 XLogP: 5.3 TFC: 0 MF: C27H44O3
+CID: 15125800
+
+80. 79691-18-2; 6-(2-(8-( -4-hydroxy-3,4,5,6-tetrahydro-2H-pyran-2-one; (4R)-Tetrahydro-4alpha-hydroxy-6beta-[2-[[(1S)-1,2,6,7,8,8abeta-hexahydro-2beta,6alpha-dimethyl-8alpha-(4-fluorobenzyloxy)naphthalen]-1beta-yl]ethyl]-2H-pyran-2-one
+MW: 428.544 g/mol HBDC: 1 HBAC: 5 XLogP: 4.4 TFC: 0 MF: C26H33FO4
+CID: 14863781
+
+81. 6-(2-(2,4-Dichloro-6-hydroxyphenyl)ethyl)-3,4,5,6-tetrahydro-4-hydroxy-2H-pyran-2-one; 6-[2-(2,4-dichloro-6-hydroxyphenyl)ethyl]-3,4,5,6-tetrahydro-4-hydroxy-2H-pyran-2-one; 6-{2-(2,4-Dichloro-6-hydroxyphenyl)ethyl}-3,4,5,6-tetrahydro-4-hydroxy-2H-pyran-2-one ...
+MW: 305.151 g/mol HBDC: 2 HBAC: 4 XLogP: 2.8 TFC: 0 MF: C13H14Cl2O4
+CID: 13553196
+
+82. CHEMBL120354; 6-[2-(2,4-dichlorophenyl)ethyl]-4-hydroxyoxan-2-one; SCHEMBL8846334 ...
+MW: 289.152 g/mol HBDC: 1 HBAC: 3 XLogP: 3.2 TFC: 0 MF: C13H14Cl2O3
+CID: 13186031
+
+83. Bendazac L-lysine; Bendazac lysine; 81919-14-4 ...
+MW: 428.489 g/mol HBDC: 4 HBAC: 8 TFC: 0 MF: C22H28N4O5
+CID: 13041095
+
+84. Rosuvastatin; Rosuvastatin calcium; 147098-20-2 ...
+MW: 1001.141 g/mol HBDC: 4 HBAC: 20 TFC: 0 MF: C44H54CaF2N6O12S2
+CID: 12086784
+
+85. Amlodipine/atorvastatin; Amlodipine mixture with atorvastatin; amlodipine, atorvastatin drug combination ...
+MW: 1722.413 g/mol HBDC: 9 HBAC: 22 TFC: 0 MF: C92H99CaClF2N6O18S
+CID: 11982821
+
+86. Azacosterol hydrochloride; Azacosterol HCl; 1249-84-9 ...
+MW: 461.556 g/mol HBDC: 3 HBAC: 3 TFC: 0 MF: C25H46Cl2N2O
+CID: 11954297
+
+87. (-)-Asarinin; Asarinin; 133-04-0 ...
+MW: 354.358 g/mol HBDC: 0 HBAC: 6 XLogP: 2.7 TFC: 0 MF: C20H18O6
+CID: 11869417
+
+88. Anacetrapib; 875446-37-0; MK-0859 ...
+MW: 637.518 g/mol HBDC: 0 HBAC: 13 XLogP: 8.8 TFC: 0 MF: C30H25F10NO3
+CID: 11556427
+
+89. ATORVASTATIN CALCIUM; MolPort-005-943-724; AKOS025149638 ...
+MW: 597.720 g/mol HBDC: 3 HBAC: 6 TFC: 1 MF: C33H34CaFN2O5+
+CID: 11227182
+
+90. Dihydromevinolin; 4a,5-Dihydro Lovastatin; CHEMBL76114 ...
+MW: 406.563 g/mol HBDC: 1 HBAC: 5 XLogP: 5 TFC: 0 MF: C24H38O5
+CID: 11080021
+
+91. Pitavastatin Lactone; SCHEMBL9301248; 141750-63-2
+MW: 403.453 g/mol HBDC: 1 HBAC: 5 XLogP: 4.3 TFC: 0 MF: C25H22FNO3
+CID: 11003967
+
+92. Asarinin; (?)-Epiasarinin; ZINC3874952 ...
+MW: 354.358 g/mol HBDC: 0 HBAC: 6 XLogP: 2.7 TFC: 0 MF: C20H18O6
+CID: 10937118
+
+93. ETC-1002; bempedoic acid; 738606-46-7 ...
+MW: 344.492 g/mol HBDC: 3 HBAC: 5 XLogP: 4.8 TFC: 0 MF: C19H36O5
+CID: 10472693
+
+94. CHOLINE BITARTRATE; 87-67-2; CHOLINI BITARTRAS ...
+MW: 253.251 g/mol HBDC: 4 HBAC: 7 TFC: 0 MF: C9H19NO7
+CID: 10198924
+
+95. COLESTOLONE; Colestolonum; Colestolona ...
+MW: 400.647 g/mol HBDC: 1 HBAC: 2 XLogP: 7.1 TFC: 0 MF: C27H44O2
+CID: 10046567
+
+96. Azacosterol; 313-05-3; 20,25-Diazacholesterol ...
+MW: 388.640 g/mol HBDC: 1 HBAC: 3 XLogP: 4.7 TFC: 0 MF: C25H44N2O
+CID: 10023199
+
+97. U 18666A; 3039-71-2; U18666A ...
+MW: 424.066 g/mol HBDC: 1 HBAC: 3 TFC: 0 MF: C25H42ClNO2
+CID: 9954082
+
+98. Cetilistat; 282526-98-1; Citilistat ...
+MW: 401.591 g/mol HBDC: 0 HBAC: 4 XLogP: 9.8 TFC: 0 MF: C25H39NO3
+CID: 9952916
+
+99. 94061-80-0; SCHEMBL41662; SCHEMBL246750 ...
+MW: 434.463 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C24H26FNNaO4
+CID: 9932627
+
+100. GR79236; 124555-18-6; GR-79236 ...
+MW: 351.363 g/mol HBDC: 5 HBAC: 9 XLogP: -0.1 TFC: 0 MF: C15H21N5O5
+CID: 9884817
+
+101. PRAVASTATIN SODIUM; Pravastatin Sodium Salt; Eptastatin sodium salt ...
+MW: 447.524 g/mol HBDC: 4 HBAC: 7 TFC: 0 MF: C23H36NaO7
+CID: 9868292
+
+102. ATORVASTATIN CALCIUM; 134523-03-8; 523A038
+MW: 1157.379 g/mol HBDC: 8 HBAC: 12 TFC: 0 MF: C66H70CaF2N4O10
+CID: 9833468
+
+103. Vytorin; 444313-53-5; INEGY ...
+MW: 828.007 g/mol HBDC: 3 HBAC: 10 TFC: 0 MF: C49H59F2NO8
+CID: 9832423
+
+104. 24-Ethylcholesterol; 19044-06-5; EINECS 242-776-5 ...
+MW: 414.718 g/mol HBDC: 1 HBAC: 1 XLogP: 9.3 TFC: 0 MF: C29H50O
+CID: 9823110
+
+105. L-669262; Simvastatin 6-Oxo Isomer; NPDFVGFXQSJBAA-ZBDDBYLNSA- ...
+MW: 432.557 g/mol HBDC: 1 HBAC: 6 XLogP: 3.3 TFC: 0 MF: C25H36O6
+CID: 9802864
+
+106. Pitavastatin Lactone; 141750-63-2; UNII-ULK88EV7VQ ...
+MW: 403.453 g/mol HBDC: 1 HBAC: 5 XLogP: 4.3 TFC: 0 MF: C25H22FNO3
+CID: 9801294
+
+107. Dalcetrapib; 211513-37-0; JTT-705 ...
+MW: 389.598 g/mol HBDC: 1 HBAC: 3 XLogP: 7.1 TFC: 0 MF: C23H35NO2S
+CID: 6918540
+
+108. Ginsenoside Rb2; 11021-13-9; Ginsenoside C ...
+MW: 1079.281 g/mol HBDC: 14 HBAC: 22 XLogP: 0.3 TFC: 0 MF: C53H90O22
+CID: 6917976
+
+109. BUTOXAMINE HYDROCHLORIDE; MLS000028672; SMR000058900 ...
+MW: 303.827 g/mol HBDC: 3 HBAC: 4 TFC: 0 MF: C15H26ClNO3
+CID: 6602683
+
+110. GR95030X; 6-Heptenoic acid, 7-(4,5-bis(4-fluorophenyl)-2-(1-methylethyl)-1H-imidazol-1-yl)-3,5-dihydroxy-, (S-(R*,S*-(E)))-; GR 95030X ...
+MW: 456.490 g/mol HBDC: 3 HBAC: 7 XLogP: 3.5 TFC: 0 MF: C25H26F2N2O4
+CID: 6449152
+
+111. UNII-ARK1M2C75Y; ARK1M2C75Y; RP-61969 ...
+MW: 421.468 g/mol HBDC: 1 HBAC: 5 XLogP: 3.4 TFC: 0 MF: C25H24FNO4
+CID: 6443973
+
+112. Biphme-tidha sodium; AC1O5UFZ; (E,3R,5S)-7-[(7S)-2-(4-fluorophenyl)-7-[(4-phenylphenyl)methyl]-4,5,6,7-tetrahydroindazol-3-yl]-3,5-dihydroxyhept-6-enoic acid ...
+MW: 540.635 g/mol HBDC: 3 HBAC: 6 XLogP: 5.7 TFC: 0 MF: C33H33FN2O4
+CID: 6440931
+
+113. 7-Bbfp-mpdh methyl ester; 151106-12-6; AC1O5U3I ...
+MW: 548.425 g/mol HBDC: 2 HBAC: 6 XLogP: 5.2 TFC: 0 MF: C27H28BrF2NO4
+CID: 6440726
+
+114. CHEMBL440891; L 645164; L-645164 ...
+MW: 354.421 g/mol HBDC: 1 HBAC: 4 XLogP: 4.6 TFC: 0 MF: C22H23FO3
+CID: 6439709
+
+115. GR 92549; GR-92549; AC1O5RQK ...
+MW: 456.490 g/mol HBDC: 3 HBAC: 7 XLogP: 3.5 TFC: 0 MF: C25H26F2N2O4
+CID: 6439471
+
+116. Zaragozic acid A; squalestatin 1; Squalestatin ...
+MW: 690.739 g/mol HBDC: 5 HBAC: 14 XLogP: 4.9 TFC: 0 MF: C35H46O14
+CID: 6438355
+
+117. BM 15766; BM-15766; CHEMBL189871 ...
+MW: 384.904 g/mol HBDC: 1 HBAC: 4 XLogP: 2 TFC: 0 MF: C22H25ClN2O2
+CID: 6437849
+
+118. STIGMASTANOL; Stigmastan-3-ol, (3.beta.)-; Stigmastan-3.beta.-ol ...
+MW: 416.734 g/mol HBDC: 1 HBAC: 1 XLogP: 10.2 TFC: 0 MF: C29H52O
+CID: 6432213
+
+119. 6-(2,4-Dichlorophenyl)-2,4-dihydroxyhexane-1-sulfonic acid; Dcphhs; AC1O3S9G ...
+MW: 382.313 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C12H16Cl2KO5S
+CID: 6336040
+
+120. Betaine hydrochloride; Acidol; 2-(Trimethylammonio)acetate hydrochloride ...
+MW: 153.606 g/mol HBDC: 1 HBAC: 2 TFC: 0 MF: C5H12ClNO2
+CID: 5702209
+
+121. ACIPIMOX; 51037-30-0; Olbetam ...
+MW: 154.125 g/mol HBDC: 1 HBAC: 4 XLogP: -1 TFC: 0 MF: C6H6N2O3
+CID: 5310993
+
+122. Rosuvastatin calcium; 147098-20-2; Crestor ...
+MW: 1001.141 g/mol HBDC: 4 HBAC: 20 TFC: 0 MF: C44H54CaF2N6O12S2
+CID: 5282455
+
+123. Pitavastatin; Itavastatin; 147511-69-1 ...
+MW: 421.468 g/mol HBDC: 3 HBAC: 6 XLogP: 3.5 TFC: 0 MF: C25H24FNO4
+CID: 5282452
+
+124. Pitavastatin calcium; 147526-32-7; Livalo ...
+MW: 880.999 g/mol HBDC: 4 HBAC: 12 TFC: 0 MF: C50H46CaF2N2O8
+CID: 5282451
+
+125. gamma-Oryzanol; gamma Oryzanol; HI-Z ...
+MW: 602.900 g/mol HBDC: 1 HBAC: 4 XLogP: 12.1 TFC: 0 MF: C40H58O4
+CID: 5282164
+
+126. Glenvastatin; UNII-X98U22RT62; HR 780 ...
+MW: 431.507 g/mol HBDC: 1 HBAC: 5 XLogP: 5.2 TFC: 0 MF: C27H26FNO3
+CID: 5281970
+
+127. GR 79236; AC1ND7MV; SCHEMBL14829984 ...
+MW: 351.363 g/mol HBDC: 5 HBAC: 9 XLogP: -0.1 TFC: 0 MF: C15H21N5O5
+CID: 4545575
+
+128. Etiroxate hydrochloride; Etiroxate HCl; EINECS 259-593-1 ...
+MW: 855.413 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C18H18ClI4NO4
+CID: 3085082
+
+129. Colestid; Colestipol hydrochloride; Colestipol HCl ...
+MW: 225.765 g/mol HBDC: 6 HBAC: 5 TFC: 0 MF: C8H24ClN5
+CID: 3084661
+
+130. Stea 16; AC1MJ2HD; EINECS 245-750-1 ...
+MW: 303.399 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C15H29NO5
+CID: 3084405
+
+131. Hoet-PO; 159014-70-7; AC1MJ0P7 ...
+MW: 518.735 g/mol HBDC: 3 HBAC: 6 XLogP: 5.4 TFC: 0 MF: C31H50O6
+CID: 3083482
+
+132. Momc acid; CHEMBL148721; 117678-63-4 ...
+MW: 356.459 g/mol HBDC: 2 HBAC: 6 XLogP: 2.6 TFC: 0 MF: C19H32O6
+CID: 3082870
+
+133. Phospho-ADP ribose; 13552-81-3; 2'-P-5'-ADP-Ribose ...
+MW: 639.296 g/mol HBDC: 9 HBAC: 21 XLogP: -7.2 TFC: 0 MF: C15H24N5O17P3
+CID: 3080692
+
+134. Dcphhp; 141263-54-9; 6-(2,4-Dichlorophenyl)-erythro-2,4-dihydroxyhexylphosphonic acid ...
+MW: 343.137 g/mol HBDC: 4 HBAC: 5 XLogP: 1.1 TFC: 0 MF: C12H17Cl2O5P
+CID: 3036097
+
+135. 5alpha-Cholest-8(14)-en-3beta-ol-15-one; 50673-97-7; AC1MHV3K ...
+MW: 400.647 g/mol HBDC: 1 HBAC: 2 XLogP: 7.1 TFC: 0 MF: C27H44O2
+CID: 3033012
+
+136. 50673-97-7; 3-hydroxy-10,13-dimethyl-17-(6-methylheptan-2-yl)-2,3,4,5,6,7,10,11,12,13,16,17-dodecahydro-1h-cyclopenta[a]phenanthren-15(9h)-one; NCGC00160536-01 ...
+MW: 400.647 g/mol HBDC: 1 HBAC: 2 XLogP: 7.1 TFC: 0 MF: C27H44O2
+CID: 2738130
+
+137. Fluvastatina; Fluvastatine; Fluvastatinum ...
+MW: 411.473 g/mol HBDC: 3 HBAC: 5 XLogP: 3.5 TFC: 0 MF: C24H26FNO4
+CID: 1548972
+
+138. atorvastatin calcium trihydrate; 344423-98-9; Torvast ...
+MW: 1209.408 g/mol HBDC: 9 HBAC: 15 TFC: 0 MF: C66H74CaF2N4O13
+CID: 656846
+
+139. Betaine hydrochloride; Acidol; Acidol-Pepsin (Salt/Mix) ...
+MW: 153.606 g/mol HBDC: 1 HBAC: 3 TFC: 0 MF: C5H12ClNO2
+CID: 521862
+
+140. Clionasterol; GAMMA-SITOSTEROL; beta-Dihydrofucosterol ...
+MW: 414.718 g/mol HBDC: 1 HBAC: 1 XLogP: 9.3 TFC: 0 MF: C29H50O
+CID: 457801
+
+141. 9008-22-4; AC1L9S9I; VA11143 ...
+MW: 504.438 g/mol HBDC: 11 HBAC: 16 XLogP: -5.8 TFC: 0 MF: C18H32O16
+CID: 455149
+
+142. Rosuvastatin; 287714-41-4; Crestor ...
+MW: 481.539 g/mol HBDC: 3 HBAC: 10 XLogP: 1.6 TFC: 0 MF: C22H28FN3O6S
+CID: 446157
+
+143. cerivastatin; Baycol; cerivastatin acid ...
+MW: 459.558 g/mol HBDC: 3 HBAC: 7 XLogP: 3.6 TFC: 0 MF: C26H34FNO5
+CID: 446156
+
+144. fluvastatin; 93957-54-1; Lescol ...
+MW: 411.473 g/mol HBDC: 3 HBAC: 5 XLogP: 3.5 TFC: 0 MF: C24H26FNO4
+CID: 446155
+
+145. Laminaran; Laminarin; 9008-22-4 ...
+MW: 504.438 g/mol HBDC: 11 HBAC: 16 XLogP: -5.8 TFC: 0 MF: C18H32O16
+CID: 439306
+
+146. Fucostanol; STIGMASTANOL; Dihydrositosterin ...
+MW: 416.734 g/mol HBDC: 1 HBAC: 1 XLogP: 10.2 TFC: 0 MF: C29H52O
+CID: 241572
+
+147. Asarinin; NSC31773; AC1L5PT5 ...
+MW: 354.358 g/mol HBDC: 0 HBAC: 6 XLogP: 2.7 TFC: 0 MF: C20H18O6
+CID: 233333
+
+148. BETA-SITOSTEROL; Sitosterol; 83-46-5 ...
+MW: 414.718 g/mol HBDC: 1 HBAC: 1 XLogP: 9.3 TFC: 0 MF: C29H50O
+CID: 222284
+
+149. Benfluorex hydrochloride; 23642-66-2; Lipophoral ...
+MW: 387.827 g/mol HBDC: 2 HBAC: 6 TFC: 0 MF: C19H21ClF3NO2
+CID: 198015
+
+150. 4a,5-Dihydromevinolin; 77517-29-4; AC1L51VD ...
+MW: 406.563 g/mol HBDC: 1 HBAC: 5 XLogP: 5 TFC: 0 MF: C24H38O5
+CID: 196514
+
+151. Dihydrocompactin; 4a,5-Dihydrocompactin; AC1L514M ...
+MW: 392.536 g/mol HBDC: 1 HBAC: 5 XLogP: 4.5 TFC: 0 MF: C23H36O5
+CID: 196089
+
+152. 62055-05-4; Magnesium-pyridoxal-5'-phosphate glutamate; Magnesium pyridoxal phosphate glutamine complex ...
+MW: 393.289 g/mol HBDC: 6 HBAC: 11 TFC: 0 MF: C13H20N3O9P
+CID: 173846
+
+153. 114801-27-3; L 157012; AC1Q5WYI ...
+MW: 434.573 g/mol HBDC: 2 HBAC: 6 XLogP: 3.5 TFC: 0 MF: C25H38O6
+CID: 163941
+
+154. Welchol; CholestaGel; GT 31-104HB ...
+MW: 618.254 g/mol HBDC: 4 HBAC: 5 TFC: 0 MF: C31H67Cl3N4O
+CID: 160051
+
+155. Torcetrapib; 262352-17-0; CP-529414 ...
+MW: 600.482 g/mol HBDC: 0 HBAC: 13 XLogP: 7 TFC: 0 MF: C26H25F9N2O4
+CID: 159325
+
+156. Ezetimibe; 163222-33-1; Zetia ...
+MW: 409.433 g/mol HBDC: 2 HBAC: 5 XLogP: 4 TFC: 0 MF: C24H21F2NO3
+CID: 150311
+
+157. DCPHH; 90761-31-2; AC1L3SST ...
+MW: 289.152 g/mol HBDC: 1 HBAC: 3 XLogP: 3.2 TFC: 0 MF: C13H14Cl2O3
+CID: 146230
+
+158. L-647318; 87770-13-6; L 647318 ...
+MW: 422.606 g/mol HBDC: 1 HBAC: 5 XLogP: 5.9 TFC: 0 MF: C25H42O5
+CID: 137350
+
+159. 85798-96-5; AC1L35U5; 3I+/--Hydroxy Pravastatin Lactone ...
+MW: 406.519 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C23H34O6
+CID: 135102
+
+160. BUTOXAMINE; (1r,2s)-2-(tert-butylamino)-1-(2,5-dimethoxyphenyl)propan-1-ol; Butoxamine [INN] ...
+MW: 267.369 g/mol HBDC: 2 HBAC: 4 XLogP: 2 TFC: 0 MF: C15H25NO3
+CID: 134495
+
+161. 24-Ketolanosterol; Lanost-8-en-3-ol-24-one; AC1L32Z3 ...
+MW: 442.728 g/mol HBDC: 1 HBAC: 2 XLogP: 7.5 TFC: 0 MF: C30H50O2
+CID: 133542
+
+162. 6-Fnpo; (4R,6R)-6-[2-[(1R,2R,8R,8aS)-8-[(4-fluorophenyl)methoxy]-2,6-dimethyl-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]ethyl]-4-hydroxyoxan-2-one; 79691-18-2 ...
+MW: 428.544 g/mol HBDC: 1 HBAC: 5 XLogP: 4.4 TFC: 0 MF: C26H33FO4
+CID: 133260
+
+163. CBABDIQZPIMJTP-HSZKHUOXSA-N; 153463-20-8; 3-Hhceo ...
+MW: 526.580 g/mol HBDC: 1 HBAC: 9 XLogP: 7.8 TFC: 0 MF: C27H37F7O2
+CID: 132962
+
+164. 3-Hac-8,24-dien-15-one; 144535-22-8; 3-Hydroxycholest-8(14),24-dien-15-one ...
+MW: 398.631 g/mol HBDC: 1 HBAC: 2 XLogP: 6.6 TFC: 0 MF: C27H42O2
+CID: 132637
+
+165. Dcpths; 141240-46-2; D-xylo-Hexitol,1,5,6-trideoxy-6-(2,4-dichlorophenyl)-1-sulfo-, monosodium salt (9CI) ...
+MW: 359.214 g/mol HBDC: 4 HBAC: 6 XLogP: 0.8 TFC: 0 MF: C12H16Cl2O6S
+CID: 132338
+
+166. UNII-3KF8M81W01; 3KF8M81W01; SQ-33600 ...
+MW: 487.375 g/mol HBDC: 1 HBAC: 6 TFC: 0 MF: C23H21FNNa2O5P
+CID: 131696
+
+167. Ibrolipim; NO-1886; 133208-93-2 ...
+MW: 451.257 g/mol HBDC: 1 HBAC: 5 XLogP: 3.5 TFC: 0 MF: C19H20BrN2O4P
+CID: 131601
+
+168. L 669262; 130468-11-0; L-669262 ...
+MW: 432.557 g/mol HBDC: 1 HBAC: 6 XLogP: 3.3 TFC: 0 MF: C25H36O6
+CID: 131221
+
+169. GR 79236X; GR 79236; AC1L2WZN ...
+MW: 351.363 g/mol HBDC: 5 HBAC: 9 XLogP: -0.1 TFC: 0 MF: C15H21N5O5
+CID: 130214
+
+170. Mpoe cholesterol; 3-(2-Methoxyethoxy)cholest-5-ene; Methoxypolyethoxylated cholesterol ...
+MW: 444.744 g/mol HBDC: 0 HBAC: 2 XLogP: 8.9 TFC: 0 MF: C30H52O2
+CID: 127365
+
+171. 3-Hdceo; 136320-61-1; AC1L2PY8 ...
+MW: 401.635 g/mol HBDC: 1 HBAC: 3 XLogP: 4.9 TFC: 0 MF: C26H43NO2
+CID: 126222
+
+172. 95465-60-4; Dchpepo; 6-(2-(2,4-Dichloro-6-hydroxyphenyl)ethyl)-3,4,5,6-tetrahydro-4-hydroxy-2H-pyran-2-one ...
+MW: 305.151 g/mol HBDC: 2 HBAC: 4 XLogP: 2.8 TFC: 0 MF: C13H14Cl2O4
+CID: 125334
+
+173. xymedon; Xymedone; Ximedon ...
+MW: 168.196 g/mol HBDC: 1 HBAC: 2 XLogP: -0.5 TFC: 0 MF: C8H12N2O2
+CID: 121931
+
+174. MEDICA 16; 87272-20-6; Medic-16 ...
+MW: 342.520 g/mol HBDC: 2 HBAC: 4 XLogP: 7 TFC: 0 MF: C20H38O4
+CID: 121871
+
+175. Cholestane-3,5,6-triol; 115510-05-9; Cholestane-3,5,6-triol(9CI) ...
+MW: 420.678 g/mol HBDC: 3 HBAC: 3 XLogP: 7 TFC: 0 MF: C27H48O3
+CID: 115361
+
+176. TOFA; 54857-86-2; 5-(Tetradecyloxy)-2-furoic acid ...
+MW: 324.461 g/mol HBDC: 1 HBAC: 4 XLogP: 7.8 TFC: 0 MF: C19H32O4
+CID: 115175
+
+177. 86621-92-3; AC1L3G5N; CHEMBL1736614 ...
+MW: 384.904 g/mol HBDC: 1 HBAC: 4 XLogP: 2 TFC: 0 MF: C22H25ClN2O2
+CID: 114892
+
+178. Cholestane-3beta,5alpha,6beta-triol; 3beta,5alpha,6beta-Trihydroxycholestane; 1253-84-5 ...
+MW: 420.678 g/mol HBDC: 3 HBAC: 3 XLogP: 7 TFC: 0 MF: C27H48O3
+CID: 91498
+
+179. gamma-Oryzanol; AC1L3HXU; 11042-64-1 ...
+MW: 602.900 g/mol HBDC: 1 HBAC: 4 XLogP: 12.1 TFC: 0 MF: C40H58O4
+CID: 89468
+
+180. 1H-Pyrazolo[3,4-d]pyrimidin-4-amine; 2380-63-4; 4-Aminopyrazolo[3,4-d]pyrimidine ...
+MW: 135.130 g/mol HBDC: 2 HBAC: 4 XLogP: -0.2 TFC: 0 MF: C5H5N5
+CID: 75420
+
+181. sesamin; 607-80-7; Fagarol ...
+MW: 354.358 g/mol HBDC: 0 HBAC: 6 XLogP: 2.7 TFC: 0 MF: C20H18O6
+CID: 72307
+
+182. Chitosan; Poliglusam; Deacetylchitin ...
+MW: 1526.464 g/mol HBDC: 29 HBAC: 47 XLogP: -21.4 TFC: 0 MF: C56H103N9O39
+CID: 71853
+
+183. Niacin hydrochloride; Nicotinic acid hydrochloride; 636-79-3 ...
+MW: 159.569 g/mol HBDC: 2 HBAC: 3 TFC: 0 MF: C6H6ClNO2
+CID: 71558
+
+184. Binifibrate; Biniwas; Binifibrato ...
+MW: 498.916 g/mol HBDC: 0 HBAC: 9 XLogP: 4.1 TFC: 0 MF: C25H23ClN2O7
+CID: 68884
+
+185. Plafibride; Idonor; Perifunal ...
+MW: 355.819 g/mol HBDC: 2 HBAC: 5 XLogP: 2.4 TFC: 0 MF: C16H22ClN3O4
+CID: 68822
+
+186. Etofibrate; 31637-97-5; ethofibrate ...
+MW: 363.794 g/mol HBDC: 0 HBAC: 6 XLogP: 3.5 TFC: 0 MF: C18H18ClNO5
+CID: 65777
+
+187. Etiroxate; 17365-01-4; CG-635 ...
+MW: 818.955 g/mol HBDC: 2 HBAC: 5 XLogP: 5.5 TFC: 0 MF: C18H17I4NO4
+CID: 65683
+
+188. Allicin; 539-86-6; Diallyl thiosulfinate ...
+MW: 162.265 g/mol HBDC: 0 HBAC: 3 XLogP: 1.3 TFC: 0 MF: C6H10OS2
+CID: 65036
+
+189. Clofop; 26129-32-8; HCG-004 ...
+MW: 292.715 g/mol HBDC: 1 HBAC: 4 XLogP: 3.8 TFC: 0 MF: C15H13ClO4
+CID: 64928
+
+190. Mevastatin; compactin; 73573-88-3 ...
+MW: 390.520 g/mol HBDC: 1 HBAC: 5 XLogP: 3.9 TFC: 0 MF: C23H34O5
+CID: 64715
+
+191. COLESTIPOL; Cholestabyl; Colestipolum ...
+MW: 281.829 g/mol HBDC: 5 HBAC: 6 TFC: 0 MF: C11H28ClN5O
+CID: 62816
+
+192. atorvastatin; 134523-00-5; Cardyl ...
+MW: 558.650 g/mol HBDC: 4 HBAC: 6 XLogP: 5 TFC: 0 MF: C33H35FN2O5
+CID: 60823
+
+193. ATORVASTATIN CALCIUM; 134523-03-8; Lipitor ...
+MW: 1155.363 g/mol HBDC: 6 HBAC: 12 TFC: 0 MF: C66H68CaF2N4O10
+CID: 60822
+
+194. pravastatin; 81093-37-0; Pravastatina ...
+MW: 424.534 g/mol HBDC: 4 HBAC: 7 XLogP: 1.6 TFC: 0 MF: C23H36O7
+CID: 54687
+
+195. simvastatin; 79902-63-9; Zocor ...
+MW: 418.574 g/mol HBDC: 1 HBAC: 5 XLogP: 4.7 TFC: 0 MF: C25H38O5
+CID: 54454
+
+196. lovastatin; 75330-75-5; mevinolin ...
+MW: 404.547 g/mol HBDC: 1 HBAC: 5 XLogP: 4.3 TFC: 0 MF: C24H36O5
+CID: 53232
+
+197. Beclobrate; 55937-99-0; Beclobrato [Spanish] ...
+MW: 346.851 g/mol HBDC: 0 HBAC: 3 XLogP: 5.8 TFC: 0 MF: C20H23ClO3
+CID: 51348
+
+198. Etofylline clofibrate; THEOFIBRATE; 54504-70-0 ...
+MW: 420.850 g/mol HBDC: 0 HBAC: 6 XLogP: 2.3 TFC: 0 MF: C19H21ClN4O5
+CID: 41109
+
+199. bezafibrate; 41859-67-0; Bezalip ...
+MW: 361.822 g/mol HBDC: 2 HBAC: 4 XLogP: 3.8 TFC: 0 MF: C19H20ClNO4
+CID: 39042
+
+200. HALOFENATE; 26718-25-2; MK 185 ...
+MW: 415.793 g/mol HBDC: 1 HBAC: 7 XLogP: 4.3 TFC: 0 MF: C19H17ClF3NO4
+CID: 33584
+
+201. CHOLINE HYDROXIDE; 123-41-1; Gossypine ...
+MW: 121.180 g/mol HBDC: 2 HBAC: 2 TFC: 0 MF: C5H15NO2
+CID: 31255
+
+202. Methyl clofenapate; CLOFENAPATE; 21340-68-1 ...
+MW: 304.770 g/mol HBDC: 0 HBAC: 3 XLogP: 4.7 TFC: 0 MF: C17H17ClO3
+CID: 30602
+
+203. TIADENOL; Thiadenol; Fonlipol ...
+MW: 294.512 g/mol HBDC: 2 HBAC: 4 XLogP: 3.8 TFC: 0 MF: C14H30O2S2
+CID: 23403
+
+204. BUTOXAMINE HYDROCHLORIDE; Butoxamine HCl; 5696-15-1 ...
+MW: 303.827 g/mol HBDC: 3 HBAC: 4 TFC: 0 MF: C15H26ClNO3
+CID: 21909
+
+205. Nafenopin; 3771-19-5; Melipan ...
+MW: 310.393 g/mol HBDC: 1 HBAC: 3 XLogP: 4.9 TFC: 0 MF: C20H22O3
+CID: 19592
+
+206. Butaxamine; Butaxamina; Butaxaminum ...
+MW: 267.369 g/mol HBDC: 2 HBAC: 4 XLogP: 2 TFC: 0 MF: C15H25NO3
+CID: 18026
+
+207. Diallyl trisulfide; ALLYL TRISULFIDE; 2050-87-5 ...
+MW: 178.326 g/mol HBDC: 0 HBAC: 3 XLogP: 2.6 TFC: 0 MF: C6H10S3
+CID: 16315
+
+208. Betaine hydrochloride; 590-46-5; Betaine chloride ...
+MW: 153.606 g/mol HBDC: 1 HBAC: 3 TFC: 0 MF: C5H12ClNO2
+CID: 11545
+
+209. AY 9944; AY 9944 dihydrochloride; 366-93-8 ...
+MW: 464.296 g/mol HBDC: 4 HBAC: 2 TFC: 0 MF: C22H30Cl4N2
+CID: 9704
+
+210. Choline tartrate; CHOLINE BITARTRATE; Choline hydrogen tartrate ...
+MW: 253.251 g/mol HBDC: 4 HBAC: 7 TFC: 0 MF: C9H19NO7
+CID: 6900
+
+211. sitostanol; Fucostanol; Stigmastan-3-ol ...
+MW: 416.734 g/mol HBDC: 1 HBAC: 1 XLogP: 10.2 TFC: 0 MF: C29H52O
+CID: 6743
+
+212. TRIPARANOL; Metasqualene; MER 29 ...
+MW: 438.008 g/mol HBDC: 1 HBAC: 3 XLogP: 6.2 TFC: 0 MF: C27H32ClNO2
+CID: 6536
+
+213. CHOLINE CHLORIDE; 67-48-1; Hepacholine ...
+MW: 139.623 g/mol HBDC: 1 HBAC: 2 TFC: 0 MF: C5H14ClNO
+CID: 6209
+
+214. xanthurenic acid; 59-00-7; 4,8-Dihydroxyquinoline-2-carboxylic acid ...
+MW: 205.169 g/mol HBDC: 3 HBAC: 5 XLogP: 0.9 TFC: 0 MF: C10H7NO4
+CID: 5699
+
+215. Pirinixic acid; 50892-23-4; WY-14643 ...
+MW: 323.795 g/mol HBDC: 2 HBAC: 6 XLogP: 4.2 TFC: 0 MF: C14H14ClN3O2S
+CID: 5694
+
+216. d-Sesamin; DESAMIN; PSEUDO CUBEBIN ...
+MW: 354.358 g/mol HBDC: 0 HBAC: 6 XLogP: 2.7 TFC: 0 MF: C20H18O6
+CID: 5204
+
+217. Pyricarbate; pyridinol carbamate; Parmidine ...
+MW: 253.258 g/mol HBDC: 2 HBAC: 5 XLogP: 0.2 TFC: 0 MF: C11H15N3O4
+CID: 4990
+
+218. probucol; Lorelco; 23288-49-5 ...
+MW: 516.843 g/mol HBDC: 2 HBAC: 4 XLogP: 11.3 TFC: 0 MF: C31H48O2S2
+CID: 4912
+
+219. niceritrol; Perycit; Pentaerythritol tetranicotinate ...
+MW: 556.531 g/mol HBDC: 0 HBAC: 12 XLogP: 2.3 TFC: 0 MF: C29H24N4O8
+CID: 4476
+
+220. gemfibrozil; 25812-30-0; Lopid ...
+MW: 250.338 g/mol HBDC: 1 HBAC: 3 XLogP: 3.8 TFC: 0 MF: C15H22O3
+CID: 3463
+
+221. fenofibrate; 49562-28-9; Procetofen ...
+MW: 360.834 g/mol HBDC: 0 HBAC: 4 XLogP: 5.2 TFC: 0 MF: C20H21ClO4
+CID: 3339
+
+222. clofibric acid; 882-09-7; 2-(4-Chlorophenoxy)-2-methylpropanoic acid ...
+MW: 214.645 g/mol HBDC: 1 HBAC: 3 XLogP: 2.6 TFC: 0 MF: C10H11ClO3
+CID: 2797
+
+223. clofibrate; 637-07-0; Ethyl clofibrate ...
+MW: 242.699 g/mol HBDC: 0 HBAC: 3 XLogP: 3.3 TFC: 0 MF: C12H15ClO3
+CID: 2796
+
+224. Ciprofibrate; 52214-84-3; Lipanor ...
+MW: 289.152 g/mol HBDC: 1 HBAC: 3 XLogP: 3.4 TFC: 0 MF: C13H14Cl2O3
+CID: 2763
+
+225. benfluorex; Benfluramate; Mediator ...
+MW: 351.369 g/mol HBDC: 1 HBAC: 6 XLogP: 4.6 TFC: 0 MF: C19H20F3NO2
+CID: 2318
+
+226. 4'-Chlorodiazepam; 14439-61-3; 4-Chlorodiazepam ...
+MW: 319.185 g/mol HBDC: 0 HBAC: 2 XLogP: 3.8 TFC: 0 MF: C16H12Cl2N2O
+CID: 1688
+
+227. MEGLUTOL; 3-Hydroxy-3-methylglutaric acid; 503-49-1 ...
+MW: 162.141 g/mol HBDC: 3 HBAC: 5 XLogP: -1.2 TFC: 0 MF: C6H10O5
+CID: 1662
+
+228. nicotinic acid; niacin; 59-67-6 ...
+MW: 123.111 g/mol HBDC: 1 HBAC: 3 XLogP: 0.4 TFC: 0 MF: C6H5NO2
+CID: 938
+
+229. nicotinate; pyridine-3-carboxylate; 3-pyridinecarboxylate ...
+MW: 122.103 g/mol HBDC: 0 HBAC: 3 XLogP: 0.9 TFC: -1 MF: C6H4NO2-
+CID: 937
+
+230. choline sulfate; 2-(trimethylammonio)ethyl sulfate; 4858-96-2 ...
+MW: 183.222 g/mol HBDC: 0 HBAC: 4 XLogP: -0.9 TFC: 0 MF: C5H13NO4S
+CID: 485
+
+231. choline; Choline ion; Bilineurine ...
+MW: 104.173 g/mol HBDC: 1 HBAC: 1 XLogP: -0.4 TFC: 1 MF: C5H14NO+
+CID: 305
+
+232. TRIMETHYL GLYCINE; Cystadane; N,N,N-trimethylglycinium ...
+MW: 118.156 g/mol HBDC: 1 HBAC: 2 XLogP: -0.1 TFC: 1 MF: C5H12NO2+
+CID: 248
+
+233. betaine; 107-43-7; glycine betaine ...
+MW: 117.148 g/mol HBDC: 0 HBAC: 2 XLogP: 0.5 TFC: 0 MF: C5H11NO2
+CID: 247

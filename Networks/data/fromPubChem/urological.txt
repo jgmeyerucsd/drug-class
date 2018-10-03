@@ -1,0 +1,292 @@
+
+1. 242478-38-2
+MW: 480.561 g/mol HBDC: 2 HBAC: 7 TFC: 0 MF: C27H32N2O6
+CID: 133687147
+
+2. Solifenacin succinate; 242478-38-2
+MW: 480.561 g/mol HBDC: 2 HBAC: 7 TFC: 0 MF: C27H32N2O6
+CID: 129626586
+
+3. 405T024
+MW: 428.977 g/mol HBDC: 2 HBAC: 3 TFC: 1 MF: C25H31ClNO3+
+CID: 123134378
+
+4. Tolterodine tartrate; KS-1121; 124937-52-6 ...
+MW: 475.582 g/mol HBDC: 5 HBAC: 8 TFC: 0 MF: C26H37NO7
+CID: 91809622
+
+5. Oxybutynin AL; 5-hydroxypenta-2,4-diynal; 504408-49-5
+MW: 94.069 g/mol HBDC: 1 HBAC: 2 XLogP: 0.6 TFC: 0 MF: C5H2O2
+CID: 86217377
+
+6. UNII-L13V8793FQ; L13V8793FQ; Mepartricin A ...
+MW: 1141.359 g/mol HBDC: 12 HBAC: 21 XLogP: 3.6 TFC: 0 MF: C60H88N2O19
+CID: 76969110
+
+7. UNII-21G4VMN6C9; Mepartricin B; 21G4VMN6C9 ...
+MW: 1127.332 g/mol HBDC: 12 HBAC: 21 XLogP: 2.9 TFC: 0 MF: C59H86N2O19
+CID: 76963508
+
+8. Mepartricin A; DTXSID40872304; 62534-68-3
+MW: 1141.359 g/mol HBDC: 12 HBAC: 21 XLogP: 3.6 TFC: 0 MF: C60H88N2O19
+CID: 73161212
+
+9. Ipertrofan; Tricangine; Tricandil ...
+MW: 1141.359 g/mol HBDC: 12 HBAC: 21 XLogP: 3.7 TFC: 0 MF: C60H88N2O19
+CID: 56842231
+
+10. acetildenafil; 831217-01-7; Hongdenafil ...
+MW: 466.586 g/mol HBDC: 1 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34N6O3
+CID: 29918992
+
+11. Tolterodine tartrate; 124937-52-6; CHEBI:32245 ...
+MW: 475.582 g/mol HBDC: 5 HBAC: 8 TFC: 0 MF: C26H37NO7
+CID: 25137865
+
+12. Flomax; Harnal; CHEBI:9399 ...
+MW: 444.971 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C20H29ClN2O5S
+CID: 25137847
+
+13. homosildenafil; Homo Sildenafil; 642928-07-2 ...
+MW: 488.607 g/mol HBDC: 1 HBAC: 7 XLogP: 1.8 TFC: 0 MF: C23H32N6O4S
+CID: 24756844
+
+14. UNII-7359P0A2QF; Corynanthine tartrate; 7359P0A2QF ...
+MW: 504.536 g/mol HBDC: 6 HBAC: 10 TFC: 0 MF: C25H32N2O9
+CID: 24721101
+
+15. VARDENAFIL CITRATE; Vardenafil dihydrochloride; 224789-15-5 ...
+MW: 680.730 g/mol HBDC: 5 HBAC: 14 TFC: 0 MF: C29H40N6O11S
+CID: 23581791
+
+16. 242478-38-2; SCHEMBL6478242; BCP21989 ...
+MW: 480.561 g/mol HBDC: 2 HBAC: 7 TFC: 0 MF: C27H32N2O6
+CID: 23154427
+
+17. darifenacin hydrochloride; SCHEMBL1973347
+MW: 463.018 g/mol HBDC: 2 HBAC: 3 TFC: 0 MF: C28H31ClN2O2
+CID: 10173934
+
+18. Vardenafil hydrochloride; Vardenafil HCL; 224785-91-5 ...
+MW: 525.065 g/mol HBDC: 2 HBAC: 7 TFC: 0 MF: C23H33ClN6O4S
+CID: 10142962
+
+19. sildenafil lactate; SCHEMBL743207
+MW: 564.658 g/mol HBDC: 3 HBAC: 10 TFC: 0 MF: C25H36N6O7S
+CID: 10030798
+
+20. Mirabegron; 223673-61-8; Myrbetriq ...
+MW: 396.509 g/mol HBDC: 4 HBAC: 6 XLogP: 2.1 TFC: 0 MF: C21H24N4O2S
+CID: 9865528
+
+21. Fesoterodine fumarate; 286930-03-8; Toviaz ...
+MW: 527.658 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C30H41NO7
+CID: 9849808
+
+22. Tolterodine tartrate; 124937-52-6; (R)-2-(3-(Diisopropylamino)-1-phenylpropyl)-4-methylphenol 2,3-dihydroxysuccinate ...
+MW: 475.582 g/mol HBDC: 5 HBAC: 8 TFC: 0 MF: C26H37NO7
+CID: 9847786
+
+23. sildenafil nitrate; UNII-8B699ZY1CH; 8B699ZY1CH ...
+MW: 537.592 g/mol HBDC: 2 HBAC: 10 TFC: 0 MF: C22H31N7O7S
+CID: 9807232
+
+24. Fesoterodine; Toviaz; 286930-02-7 ...
+MW: 411.586 g/mol HBDC: 1 HBAC: 4 XLogP: 5.5 TFC: 0 MF: C26H37NO3
+CID: 6918558
+
+25. Vardenafil hydrochloride trihydrate; 330808-88-3; Vardenafil HCl Trihydrate ...
+MW: 579.110 g/mol HBDC: 5 HBAC: 10 TFC: 0 MF: C23H39ClN6O7S
+CID: 6918463
+
+26. Tamsolusin Hydrochloride; rac Tamsulosin Hydrochloride; 80223-99-0 ...
+MW: 444.971 g/mol HBDC: 3 HBAC: 7 TFC: 0 MF: C20H29ClN2O5S
+CID: 6917671
+
+27. Mepartricin A; 62534-68-3; methyl (4E,6E,8E,10Z,12Z,14E,16E)-3-[(2R,3S,4S,5S,6R)-4-amino-3,5-dihydroxy-6-methyl-tetrahydropyran-2-yl]oxy-23,27,29,31,33,35,37-heptahydroxy-19-[4-hydroxy-1-methyl-6-[4-(methylamino)phenyl]-6-oxo-hexyl]-18-methyl-21,25-dioxo-20,39-dioxabicyclo[33.3.1]nonatriaconta-4,6,8,10,12,14,16-heptaene-38-carboxylate
+MW: 1141.359 g/mol HBDC: 12 HBAC: 21 XLogP: 3.6 TFC: 0 MF: C60H88N2O19
+CID: 6479653
+
+28. desmethylsildenafil; N-Desmethyl Sildenafil; 139755-82-1 ...
+MW: 460.553 g/mol HBDC: 2 HBAC: 7 XLogP: 1 TFC: 0 MF: C21H28N6O4S
+CID: 6426858
+
+29. TAMSULOSIN HYDROCHLORIDE; 106463-17-6; Tamsulosin HCl ...
+MW: 444.971 g/mol HBDC: 3 HBAC: 7 TFC: 0 MF: C20H29ClN2O5S
+CID: 5362376
+
+30. Silodosin; 160970-54-7; Rapaflo ...
+MW: 495.543 g/mol HBDC: 3 HBAC: 9 XLogP: 3.6 TFC: 0 MF: C25H32F3N3O4
+CID: 5312125
+
+31. Trospium; trospium chloride; UNII-T4Y8ORK057 ...
+MW: 392.519 g/mol HBDC: 1 HBAC: 3 XLogP: 4.4 TFC: 1 MF: C25H30NO3+
+CID: 5284632
+
+32. trospium chloride; 10405-02-4; Sanctura ...
+MW: 427.969 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C25H30ClNO3
+CID: 5284631
+
+33. Prostaglandin E1; alprostadil; 745-65-3 ...
+MW: 354.487 g/mol HBDC: 3 HBAC: 5 XLogP: 3.2 TFC: 0 MF: C20H34O5
+CID: 5280723
+
+34. Hydroxyhomo Sildenafil; hydroxyhomosildenafil; 139755-85-4 ...
+MW: 504.606 g/mol HBDC: 2 HBAC: 8 XLogP: 0.8 TFC: 0 MF: C23H32N6O5S
+CID: 4742795
+
+35. Mepartricin B; DTXSID00872305; 62534-69-4
+MW: 1127.332 g/mol HBDC: 12 HBAC: 21 XLogP: 2.9 TFC: 0 MF: C59H86N2O19
+CID: 3078439
+
+36. Mepartricin A; AC1MHPDH; SpecPlus_000879 ...
+MW: 1141.359 g/mol HBDC: 12 HBAC: 21 XLogP: 3.6 TFC: 0 MF: C60H88N2O19
+CID: 3009010
+
+37. Rauwolscine; alpha-Yohimbine; Corynanthidine ...
+MW: 354.450 g/mol HBDC: 2 HBAC: 4 XLogP: 2.9 TFC: 0 MF: C21H26N2O3
+CID: 643606
+
+38. Darifenacin; Emselex; Enablex ...
+MW: 426.560 g/mol HBDC: 1 HBAC: 3 XLogP: 4.6 TFC: 0 MF: C28H30N2O2
+CID: 444031
+
+39. Darifenacin hydrobromide; darifenacin HBr; 133099-07-7 ...
+MW: 507.472 g/mol HBDC: 2 HBAC: 3 TFC: 0 MF: C28H31BrN2O2
+CID: 444030
+
+40. Solifenacin succinate; 242478-38-2; YM905 ...
+MW: 480.561 g/mol HBDC: 2 HBAC: 7 TFC: 0 MF: C27H32N2O6
+CID: 443937
+
+41. tolterodine; 124937-51-5; (+)-Tolterodine ...
+MW: 325.496 g/mol HBDC: 1 HBAC: 2 XLogP: 5.6 TFC: 0 MF: C22H31NO
+CID: 443879
+
+42. Tolterodine tartrate; 124937-52-6; Detrol LA ...
+MW: 475.582 g/mol HBDC: 5 HBAC: 8 TFC: 0 MF: C26H37NO7
+CID: 443878
+
+43. propiverine hydrochloride; 54556-98-8; Propiverine HCl ...
+MW: 403.947 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C23H30ClNO3
+CID: 441412
+
+44. Flavoxate hydrochloride; 3717-88-2; Flavoxate HCL ...
+MW: 427.925 g/mol HBDC: 1 HBAC: 5 TFC: 0 MF: C24H26ClNO4
+CID: 441345
+
+45. Corynanthine tartrate; NSC-274278; 63989-78-6 ...
+MW: 504.536 g/mol HBDC: 6 HBAC: 10 TFC: 0 MF: C25H32N2O9
+CID: 321676
+
+46. Solifenacin succinate; 242478-38-2; Vesicare ...
+MW: 480.561 g/mol HBDC: 2 HBAC: 7 TFC: 0 MF: C27H32N2O6
+CID: 216457
+
+47. Corynanthine hydrochloride; Rauhimbine; Chlorhydrate de corynanthine ...
+MW: 390.908 g/mol HBDC: 3 HBAC: 4 TFC: 0 MF: C21H27ClN2O3
+CID: 198500
+
+48. Solifenacin; 242478-37-1; Vesicare ...
+MW: 362.473 g/mol HBDC: 0 HBAC: 3 XLogP: 4 TFC: 0 MF: C23H26N2O2
+CID: 154059
+
+49. Solifenacin hydrochloride; 180468-39-7; Solifenacin (hydrochloride) ...
+MW: 398.931 g/mol HBDC: 1 HBAC: 3 TFC: 0 MF: C23H27ClN2O2
+CID: 154058
+
+50. Vardenafil dihydrochloride; Vardenafil hydrochloride; Levitra ...
+MW: 561.523 g/mol HBDC: 3 HBAC: 7 TFC: 0 MF: C23H34Cl2N6O4S
+CID: 147352
+
+51. TAMSULOSIN; 106133-20-4; Tamsulosina ...
+MW: 408.513 g/mol HBDC: 2 HBAC: 7 XLogP: 2.7 TFC: 0 MF: C20H28N2O5S
+CID: 129211
+
+52. Tadalafil; Cialis; 171596-29-5 ...
+MW: 389.411 g/mol HBDC: 1 HBAC: 4 XLogP: 2.3 TFC: 0 MF: C22H19N3O4
+CID: 110635
+
+53. Vardenafil; 224785-90-4; Levitra ...
+MW: 488.607 g/mol HBDC: 1 HBAC: 7 XLogP: 2.5 TFC: 0 MF: C23H32N6O4S
+CID: 110634
+
+54. corynanthine; 483-10-3; Rauhimbine ...
+MW: 354.450 g/mol HBDC: 2 HBAC: 4 XLogP: 2.9 TFC: 0 MF: C21H26N2O3
+CID: 92766
+
+55. Oxybutynin chloride; Oxybutynin hydrochloride; 1508-65-2 ...
+MW: 393.952 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C22H32ClNO3
+CID: 91505
+
+56. Emepronium Bromide; Restenacht; Cetiprin ...
+MW: 362.355 g/mol HBDC: 0 HBAC: 1 TFC: 0 MF: C20H28BrN
+CID: 71820
+
+57. Alfuzosin Hydrochloride; 81403-68-1; Uroxatral ...
+MW: 425.914 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C19H28ClN5O4
+CID: 71764
+
+58. Terazosin hydrochloride dihydrate; 70024-40-7; Magnurol ...
+MW: 459.928 g/mol HBDC: 4 HBAC: 10 TFC: 0 MF: C19H30ClN5O6
+CID: 63016
+
+59. Sildenafil citrate; 171599-83-0; Revatio ...
+MW: 666.703 g/mol HBDC: 5 HBAC: 14 TFC: 0 MF: C28H38N6O11S
+CID: 62853
+
+60. finasteride; 98319-26-7; Proscar ...
+MW: 372.553 g/mol HBDC: 2 HBAC: 2 XLogP: 3 TFC: 0 MF: C23H36N2O2
+CID: 57363
+
+61. Terazosin hydrochloride; 63074-08-8; Terazosin HCl ...
+MW: 423.898 g/mol HBDC: 2 HBAC: 8 TFC: 0 MF: C19H26ClN5O4
+CID: 44383
+
+62. EMEPRONIUM; Emepronum; 27892-33-7 ...
+MW: 282.451 g/mol HBDC: 0 HBAC: 0 XLogP: 4.8 TFC: 1 MF: C20H28N+
+CID: 34055
+
+63. Benzyl DL-mandelate; Benzylin; 890-98-2 ...
+MW: 242.274 g/mol HBDC: 1 HBAC: 3 XLogP: 2.7 TFC: 0 MF: C15H14O3
+CID: 13461
+
+64. Yohimbine; Yohimbin; Quebrachin ...
+MW: 354.450 g/mol HBDC: 2 HBAC: 4 XLogP: 2.9 TFC: 0 MF: C21H26N2O3
+CID: 8969
+
+65. YOHIMBINE HYDROCHLORIDE; 65-19-0; Antagonil ...
+MW: 390.908 g/mol HBDC: 3 HBAC: 4 TFC: 0 MF: C21H27ClN2O3
+CID: 6169
+
+66. PAPAVERINE HYDROCHLORIDE; 61-25-6; Cardiospan ...
+MW: 375.849 g/mol HBDC: 1 HBAC: 5 TFC: 0 MF: C20H22ClNO4
+CID: 6084
+
+67. terazosin; Terazosine; 63590-64-7 ...
+MW: 387.440 g/mol HBDC: 1 HBAC: 8 XLogP: 1.4 TFC: 0 MF: C19H25N5O4
+CID: 5401
+
+68. sildenafil; 139755-83-2; Revatio ...
+MW: 474.580 g/mol HBDC: 1 HBAC: 7 XLogP: 1.5 TFC: 0 MF: C22H30N6O4S
+CID: 5212
+
+69. Propiverine; 60569-19-9; 1-Methylpiperidin-4-yl 2,2-diphenyl-2-propoxyacetate ...
+MW: 367.489 g/mol HBDC: 0 HBAC: 4 XLogP: 4.7 TFC: 0 MF: C23H29NO3
+CID: 4942
+
+70. papaverine; Papaverin; Papanerine ...
+MW: 339.391 g/mol HBDC: 0 HBAC: 5 XLogP: 3.9 TFC: 0 MF: C20H21NO4
+CID: 4680
+
+71. oxybutynin; 5633-20-5; Ditropan ...
+MW: 357.494 g/mol HBDC: 1 HBAC: 4 XLogP: 4.2 TFC: 0 MF: C22H31NO3
+CID: 4634
+
+72. flavoxate; 15301-69-6; Urispas ...
+MW: 391.467 g/mol HBDC: 0 HBAC: 5 XLogP: 4.3 TFC: 0 MF: C24H25NO4
+CID: 3354
+
+73. alfuzosin; 81403-80-7; Alfuzosina ...
+MW: 389.456 g/mol HBDC: 2 HBAC: 8 XLogP: 1.7 TFC: 0 MF: C19H27N5O4
+CID: 2092
