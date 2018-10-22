@@ -28,8 +28,9 @@ def index2smiles(idx_list, number_of_class=3):
     with open(filepath, 'r') as f:
         lines = f.readlines()
     lines = np.array(lines[1:])
-    test_idx_list = filter(lambda x:x not in idx_list, range(len(idx_list)))
-    train_lines, test_lines = lines[idx_list], lines[test_idx_list]
+    idx_list = list(set(idx_list))
+    train_idx_list = filter(lambda x:x not in idx_list, range(len(lines)))
+    train_lines, test_lines = lines[train_idx_list], lines[idx_list]
     train_smiles_list, train_label_list = line_parser(train_lines, number_of_class)
     test_smiles_list, test_label_list = line_parser(test_lines, number_of_class)
     return [train_smiles_list, train_label_list], [test_smiles_list, test_label_list]
