@@ -49,6 +49,9 @@ class RandomForestClassification:
         output_classification_result(y_train=y_train, y_pred_on_train=y_pred_on_train,
                                      y_val=None, y_pred_on_val=None,
                                      y_test=y_test, y_pred_on_test=y_pred_on_test)
+        np.savez('output_{}/num_class_{}_index_{}'.format(mode, number_of_class, index),
+                 y_train=y_train, y_pred_on_train=y_pred_on_train,
+                 y_test=y_test, y_pred_on_test=y_pred_on_test)
 
         self.save_model(model, weight_file)
 
