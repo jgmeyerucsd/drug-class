@@ -31,12 +31,25 @@ def index2smiles(idx_list, number_of_class=3):
     idx_list = list(set(idx_list))
     train_idx_list = filter(lambda x:x not in idx_list, range(len(lines)))
     train_lines, test_lines = lines[train_idx_list], lines[idx_list]
-    train_smiles_list, train_label_list = line_parser(train_lines, number_of_class)
-    test_smiles_list, test_label_list = line_parser(test_lines, number_of_class)
+    train_smiles_list, train_label_list = line_parser_smiles(train_lines, number_of_class)
+    test_smiles_list, test_label_list = line_parser_smiles(test_lines, number_of_class)
     return [train_smiles_list, train_label_list], [test_smiles_list, test_label_list]
 
 
-def line_parser(lines, number_of_class):
+def index2latent(idx_list, number_of_class=3):
+    filepath = '../data_no_overlap/{}cls_ordered_512latents.csv'.format(number_of_class)
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+    lines = np.array(lines[1:])
+    idx_list = list(set(idx_list))
+    train_idx_list = filter(lambda x:x not in idx_list, range(len(lines)))
+    train_lines, test_lines = lines[train_idx_list], lines[idx_list]
+    train_latent_list, train_label_list = line_parser_latent(train_lines, number_of_class)
+    test_latent_list, test_label_list = line_parser_latent(test_lines, number_of_class)
+    return [train_latent_list, train_label_list], [test_latent_list, test_label_list]
+
+
+def line_parser_smiles(lines, number_of_class):
     smiles_list, label_list = [], []
     for line in lines:
         line = line.strip().split(',')
@@ -46,6 +59,19 @@ def line_parser(lines, number_of_class):
     smiles_list = np.array(smiles_list)
     label_list = np.array(label_list)
     return smiles_list, label_list
+
+
+def line_parser_latent(lines, number_of_class):
+    latent_list, label_list = [], []
+    for line in lines:
+        line = line.strip().split(',')
+        label, latent = line[1], line[3:]
+        latent_list.append(latent)
+        label_list.append(oracle[number_of_class].index(label))
+    latent_list = np.array(latent_list)
+    latent_list.astype(float)
+    label_list = np.array(label_list)
+    return latent_list, label_list
 
 
 def smiles2fps(smiles_list):
@@ -70,3 +96,20 @@ if __name__ == '__main__':
             idx_list = load_index(n, idx)
             [train_smiles_list, train_label_list], [test_smiles_list, test_label_list] = index2smiles(idx_list, n)
             print(len(train_smiles_list), '\t', len(test_smiles_list))
+
+    # check if two files match
+    n = 12
+    filepath_smiles = '../data_no_overlap/pics/{}labels_rmOL_sorted_SMILES.csv'.format(n)
+    filepath_latent = '../data_no_overlap/{}cls_ordered_512latents.csv'.format(n)
+
+    with open(filepath_smiles, 'r') as f:
+        lines_smiles = f.readlines()
+    with open(filepath_latent, 'r') as f:
+        lines_latent = f.readlines()
+
+    for a,b in zip(lines_smiles, lines_latent):
+        a = a.strip().split(',')
+        b = b.strip().split(',')
+
+        if a[1] != b[1]:
+            print(a[1], '\t', b[1], '\t')

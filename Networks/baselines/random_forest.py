@@ -36,13 +36,13 @@ class RandomForestClassification:
                                        verbose=1)
         return model
 
-    def train_and_predict(self, X_train, y_train, X_test, y_test, weight_file):
+    def train_and_predict(self, x_train, y_train, x_test, y_test, weight_file):
         model = self.setup_model()
-        model.fit(X_train, y_train)
+        model.fit(x_train, y_train)
 
-        y_pred_on_train = reshape_data_into_2_dim(model.predict(X_train))
-        if X_test is not None:
-            y_pred_on_test = reshape_data_into_2_dim(model.predict(X_test))
+        y_pred_on_train = reshape_data_into_2_dim(model.predict(x_train))
+        if x_test is not None:
+            y_pred_on_test = reshape_data_into_2_dim(model.predict(x_test))
         else:
             y_pred_on_test = None
 
@@ -59,12 +59,12 @@ class RandomForestClassification:
         y_pred = reshape_data_into_2_dim(model.predict_proba(X_data)[:, 1])
         return y_pred
 
-    def eval_with_existing(self, X_train, y_train, X_test, y_test, weight_file):
+    def eval_with_existing(self, x_train, y_train, x_test, y_test, weight_file):
         model = self.load_model(weight_file)
 
-        y_pred_on_train = reshape_data_into_2_dim(model.predict(X_train))
-        if X_test is not None:
-            y_pred_on_test = reshape_data_into_2_dim(model.predict(X_test))
+        y_pred_on_train = reshape_data_into_2_dim(model.predict(x_train))
+        if x_test is not None:
+            y_pred_on_test = reshape_data_into_2_dim(model.predict(x_test))
         else:
             y_pred_on_test = None
 
@@ -98,15 +98,20 @@ def demo_random_forest_classification():
     }
 
     idx_list = load_index(number_of_class, index)
-    [train_smiles_list, train_label_list], [test_smiles_list, test_label_list] = index2smiles(idx_list, number_of_class)
-    train_fps_list, test_fps_list = smiles2fps(train_smiles_list), smiles2fps(test_smiles_list)
-    print(train_fps_list.shape, '\t', train_label_list.shape)
-    print(test_fps_list.shape, '\t', test_label_list.shape)
-    X_train, y_train, X_test, y_test = train_fps_list, train_label_list, test_fps_list, test_label_list
+    if mode == 'fingerprints':
+        [train_smiles_list, y_train], [test_smiles_list, y_test] = index2smiles(idx_list, number_of_class)
+        x_train, x_test = smiles2fps(train_smiles_list), smiles2fps(test_smiles_list)
+    elif mode == 'latent':
+        [x_train, y_train], [x_test, y_test] = index2latent(idx_list, number_of_class)
+    else:
+        raise ValueError('Mode {} not included.'.format(mode))
+
+    print(x_train.shape, '\t', y_train.shape)
+    print(x_test.shape, '\t', y_test.shape)
 
     task = RandomForestClassification(conf=conf)
-    task.train_and_predict(X_train, y_train, X_test, y_test, weight_file)
-    task.eval_with_existing(X_train, y_train, X_test, y_test, weight_file)
+    task.train_and_predict(x_train, y_train, x_test, y_test, weight_file)
+    task.eval_with_existing(x_train, y_train, x_test, y_test, weight_file)
     return
 
 if __name__ == '__main__':
@@ -114,9 +119,12 @@ if __name__ == '__main__':
     parser.add_argument('--weight_file', dest='weight_file', required=True)
     parser.add_argument('--number_of_class', type=int, dest='number_of_class', default=3, required=False)
     parser.add_argument('--index', type=int, dest='index', default=1, required=False)
+    parser.add_argument('--mode', type=str, dest='mode', default='fingerprints', required=False)
+
     given_args = parser.parse_args()
     weight_file = given_args.weight_file
     number_of_class = given_args.number_of_class
     index = given_args.index
+    mode = given_args.mode
 
     demo_random_forest_classification()
