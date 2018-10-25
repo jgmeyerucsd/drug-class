@@ -13,7 +13,7 @@ done
 
 
 
-n_list=(12)
+n_list=(3 5 12)
 index_list=(1 2 3 4 5 6 7 8 9 10)
 
 mode=latent

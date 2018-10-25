@@ -1,6 +1,7 @@
 from __future__ import print_function
 
 import numpy as np
+import pandas as pd
 from rdkit.Chem import MolFromSmiles, MolToSmiles
 from rdkit import Chem
 from rdkit.Chem import AllChem
@@ -37,7 +38,7 @@ def index2smiles(idx_list, number_of_class=3):
 
 
 def index2latent(idx_list, number_of_class=3):
-    filepath = '../data_no_overlap/{}cls_ordered_512latents.csv'.format(number_of_class)
+    filepath = '../data_no_overlap/latents_{}cls_v2_sorted.csv'.format(number_of_class)
     with open(filepath, 'r') as f:
         lines = f.readlines()
     lines = np.array(lines[1:])
@@ -96,6 +97,21 @@ if __name__ == '__main__':
             idx_list = load_index(n, idx)
             [train_smiles_list, train_label_list], [test_smiles_list, test_label_list] = index2smiles(idx_list, n)
             print(len(train_smiles_list), '\t', len(test_smiles_list))
+
+    # Put Fingerprints into csv files
+    for n in [3, 5, 12]:
+        with open('../data_no_overlap/pics/{}labels_rmOL_sorted_SMILES.csv'.format(n), 'r') as f:
+            lines = f.readlines()
+        lines = lines[1:]
+        idx = range(len(lines))
+        [temp_smiles_list, temp_list], [smiles_list, label_list] = index2smiles(idx, number_of_class=n)
+        fps_array = smiles2fps(smiles_list).astype(int).astype(str)
+        fps_list = []
+        for i in range(len(fps_array)):
+            fps_list.append(''.join(fps_array[i]))
+        print(len(fps_list), '\t', len(label_list))
+        df = pd.DataFrame({'Fingerprints': fps_list, 'label': label_list})
+        df.to_csv('../data_no_overlap/fingerprints_{}cls.csv.gz'.format(n), index=None, compression='gzip')
 
     # check if two files match
     n = 12

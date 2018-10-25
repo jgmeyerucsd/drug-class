@@ -103,7 +103,7 @@ if __name__ == '__main__':
         print()
 
     mode = 'latent'
-    for number_of_class in [12]:
+    for number_of_class in [3, 5, 12]:
         train_val_list, test_val_list = [], []
         for index in range(1, 6):
             filename = 'output_{}/num_class_{}_index_{}.out'.format(mode, number_of_class, index)
@@ -119,4 +119,6 @@ if __name__ == '__main__':
     confusion(mode='fingerprints', num_of_class=5)
     confusion(mode='fingerprints', num_of_class=12)
 
+    confusion(mode='latent', num_of_class=3)
+    confusion(mode='latent', num_of_class=5)
     confusion(mode='latent', num_of_class=12)
