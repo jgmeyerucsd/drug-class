@@ -106,8 +106,12 @@ def demo_random_forest_classification():
         x_train, x_test = smiles2fps(train_smiles_list), smiles2fps(test_smiles_list)
     elif mode == 'latent':
         [x_train, y_train], [x_test, y_test] = index2latent(idx_list, number_of_class)
+    elif mode == 'latent_minus4':
+        [x_train, y_train], [x_test, y_test] = index2latent_minus4(idx_list, number_of_class)
     else:
         raise ValueError('Mode {} not included.'.format(mode))
+    x_train, y_train = x_train.astype(float), y_train.astype(float)
+    x_test, y_test = x_test.astype(float), y_test.astype(float)
 
     print(x_train.shape, '\t', y_train.shape)
     print(x_test.shape, '\t', y_test.shape)

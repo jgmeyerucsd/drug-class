@@ -122,3 +122,5 @@ if __name__ == '__main__':
     confusion(mode='latent', num_of_class=3)
     confusion(mode='latent', num_of_class=5)
     confusion(mode='latent', num_of_class=12)
+
+    confusion(mode='latent_minus4', num_of_class=12)

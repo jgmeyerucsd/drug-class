@@ -23,3 +23,9 @@ for n in "${n_list[@]}"; do
         python random_forest.py --weight_file=xxx.pt --number_of_class=$n --index=$index --mode="$mode" > output_"$mode"/num_class_"$n"_index_"$index".out
     done
 done
+
+mode=latent_minus4
+n=12
+for index in "${index_list[@]}"; do
+        python random_forest.py --weight_file=xxx.pt --number_of_class=$n --index=$index --mode="$mode" > output_"$mode"/num_class_"$n"_index_"$index".out
+done

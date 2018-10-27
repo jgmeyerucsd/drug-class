@@ -50,6 +50,19 @@ def index2latent(idx_list, number_of_class=3):
     return [train_latent_list, train_label_list], [test_latent_list, test_label_list]
 
 
+def index2latent_minus4(idx_list, number_of_class=3):
+    filepath = '../data_no_overlap/latent_{}cls_layerminus4_sorted.csv'.format(number_of_class)
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+    lines = np.array(lines[1:])
+    idx_list = list(set(idx_list))
+    train_idx_list = filter(lambda x:x not in idx_list, range(len(lines)))
+    train_lines, test_lines = lines[train_idx_list], lines[idx_list]
+    train_latent_list, train_label_list = line_parser_latent(train_lines, number_of_class)
+    test_latent_list, test_label_list = line_parser_latent(test_lines, number_of_class)
+    return [train_latent_list, train_label_list], [test_latent_list, test_label_list]
+
+
 def line_parser_smiles(lines, number_of_class):
     smiles_list, label_list = [], []
     for line in lines:
