@@ -108,14 +108,15 @@ if __name__ == '__main__':
     from rdkit.Chem import AllChem
 
     for n in [3, 5, 12]:
-        for idx in range(1, 6):
+        for idx in range(0, 5):
             idx_list = load_index(n, idx)
             [train_smiles_list, train_label_list], [test_smiles_list, test_label_list] = index2smiles(idx_list, n)
             print(len(train_smiles_list), '\t', len(test_smiles_list))
+    print
 
     # Put Fingerprints into csv files
     for n in [3, 5, 12]:
-        with open('../data_no_overlap/pics/{}labels_rmOL_sorted_SMILES.csv'.format(n), 'r') as f:
+        with open('../data_rmsalt_rmol/pics/{}cls_rmsaltol.csv'.format(n), 'r') as f:
             lines = f.readlines()
         lines = lines[1:]
         idx = range(len(lines))
@@ -126,7 +127,7 @@ if __name__ == '__main__':
             fps_list.append(''.join(fps_array[i]))
         print(len(fps_list), '\t', len(label_list))
         df = pd.DataFrame({'Fingerprints': fps_list, 'label': label_list})
-        df.to_csv('../data_no_overlap/fingerprints_{}cls.csv.gz'.format(n), index=None, compression='gzip')
+        df.to_csv('../data_rmsalt_rmol/fingerprints_{}cls.csv.gz'.format(n), index=None, compression='gzip')
 
     # check if two files match
     n = 12
