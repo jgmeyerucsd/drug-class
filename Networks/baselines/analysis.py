@@ -92,7 +92,7 @@ if __name__ == '__main__':
     mode = 'fingerprints'
     for number_of_class in [3, 5, 12]:
         train_val_list, test_val_list = [], []
-        for index in range(1, 6):
+        for index in range(0, 5):
             filename = 'output_{}/num_class_{}_index_{}.out'.format(mode, number_of_class, index)
             train_acc, test_acc = parser(filename)
             train_val_list.append(train_acc)
