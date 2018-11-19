@@ -1,0 +1,1592 @@
+
+1. Allapinin; 97792-45-5; BCP27654
+MW: 665.622 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C32H45BrN2O8
+CID: 134694655
+
+2. Hyoscyamine sulfate; 620-61-1; (S)-((1R,3r,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl) 3-hydroxy-2-phenylpropanoate hemisulfate
+MW: 676.822 g/mol HBDC: 4 HBAC: 12 TFC: 0 MF: C34H48N2O10S
+CID: 134688985
+
+3. FORMOTEROL FUMARATE; 183814-30-4
+MW: 852.997 g/mol HBDC: 12 HBAC: 16 TFC: 0 MF: C42H56N4O14
+CID: 134688726
+
+4. Atropine sulfate; 5908-99-6; (1R,3r,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl 3-hydroxy-2-phenylpropanoate hemisulfate hydrate
+MW: 694.837 g/mol HBDC: 5 HBAC: 13 TFC: 0 MF: C34H50N2O11S
+CID: 134688695
+
+5. (8S,9R,10S,11S,13S,14S,16S,17R)-9-chloro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-3H-cyclopenta[a]phenanthren-3-one
+MW: 408.919 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C22H29ClO5
+CID: 134688323
+
+6. (6S,8S,9R,10S,11S,13S,14S,16R,17R)-S-fluoromethyl 6,9-difluoro-11,17-dihydroxy-10,13,16-trimethyl-3-oxo-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-3H-cyclopenta[a]phenanthrene-17-carbothioate
+MW: 444.509 g/mol HBDC: 2 HBAC: 8 XLogP: 3.2 TFC: 0 MF: C22H27F3O4S
+CID: 134687786
+
+7. lappaconitine hbr; 97792-45-5; AS-35148
+MW: 665.622 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C32H45BrN2O8
+CID: 134129700
+
+8. 
+MW: 408.919 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C22H29ClO5
+CID: 133687604
+
+9. Atropine sulfate; 55-48-1; KS-00000FO4 ...
+MW: 676.822 g/mol HBDC: 4 HBAC: 12 TFC: 0 MF: C34H48N2O10S
+CID: 131632429
+
+10. Butorphanol tartrate; 58786-99-5; KS-00002WTV
+MW: 477.554 g/mol HBDC: 6 HBAC: 9 TFC: 0 MF: C25H35NO8
+CID: 131632115
+
+11. Ipratropium bromide monohydrate; (3-endo,8-syn)-3-(3-Hydroxy-1-oxo-2-phenylpropoxy)-8-methyl-8-(1-methylethyl)-8-azoniabicyclo[3.2.1]octane bromide monohydrate; 66985-17-9
+MW: 430.383 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C20H32BrNO4
+CID: 129318280
+
+12. 
+MW: 408.919 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C22H29ClO5
+CID: 126968472
+
+13. ipratropium bromide
+MW: 412.368 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C20H30BrNO3
+CID: 124080907
+
+14. Lappaconitine hydrobromide; 97792-45-5
+MW: 665.622 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C32H45BrN2O8
+CID: 122362099
+
+15. HYDROCODONE BITARTRATE; hydrocodone bitartrate salt; Morphinan-6-one, 4,5-epoxy-3-methoxy-17-methyl-, (5?)-, [R-(R,R)]-2,3-dihydroxybutanedioate (1:1) ...
+MW: 449.456 g/mol HBDC: 4 HBAC: 10 TFC: 0 MF: C22H27NO9
+CID: 122130905
+
+16. fluticasonepropionate98.5%; (6S,9S,10S,11S,13S,14S,16R,17R)-6,9-DIFLUORO-17-(FLUOROMETHYLSULFANYLCARBONYL)-11,17-DIHYDROXY-10,13,16-TRIMETHYL-6,7,8,11,12,14,15,16-OCTAHYDROCYCLOPENTA[A]PHENANTHREN-3-ONE
+MW: 444.509 g/mol HBDC: 2 HBAC: 8 XLogP: 3.2 TFC: 0 MF: C22H27F3O4S
+CID: 122130768
+
+17. Mometasone Furoate, Formoterol Fumarate Drug Combination; 1609016-84-3
+MW: 1362.355 g/mol HBDC: 13 HBAC: 22 TFC: 0 MF: C69H86Cl2N4O20
+CID: 118987285
+
+18. 97792-45-5; MolPort-039-339-232
+MW: 665.622 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C32H45BrN2O8
+CID: 102004898
+
+19. UNII-PRW3AJJ1UM; PRW3AJJ1UM; Hyoscyamine hydrochloride ...
+MW: 325.833 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C17H24ClNO3
+CID: 92132516
+
+20. Lappaconitine (hydrobromide); Lappaconitine hydrobromide; 97792-45-5 ...
+MW: 665.622 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C32H45BrN2O8
+CID: 91972160
+
+21. Lappaconitine hydrobromide; 97792-45-5
+MW: 665.622 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C32H45BrN2O8
+CID: 91873620
+
+22. UNII-HTD60494V5; Lappaconitine hydrobromide; HTD60494V5 ...
+MW: 665.622 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C32H45BrN2O8
+CID: 90479363
+
+23. UNII-12I91IOS6Z; Aethaphyllinium; Acepifylline ...
+MW: 2508.590 g/mol HBDC: 22 HBAC: 54 TFC: 0 MF: C100H150N46O32
+CID: 76959346
+
+24. HMS3369C01; 51333-22-3
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 73759663
+
+25. Ipratropium (bromide); ipratropium bromide; HY-B0241 ...
+MW: 412.368 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C20H30BrNO3
+CID: 73440751
+
+26. Epinephrine acetate; UNII-M1NJX34RVJ; M1NJX34RVJ ...
+MW: 243.259 g/mol HBDC: 5 HBAC: 6 TFC: 0 MF: C11H17NO5
+CID: 71587364
+
+27. endo-8-Methyl-8-azabicyclo[3.2.1]octan-3-yl 3-hydroxy-2-phenylpropanoate sulfate dihydrate(2:1:2); 73791-47-6; Hyoscyamine sulfate ...
+MW: 712.852 g/mol HBDC: 6 HBAC: 14 TFC: 0 MF: C34H52N2O12S
+CID: 71463801
+
+28. Q-200660; Atropine sulfate anhydrous; Atropine sulfate monohydrate ...
+MW: 307.390 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C17H25NO4
+CID: 67052243
+
+29. Atropine sulfate; 55-48-1; Atropinsulfat ...
+MW: 676.822 g/mol HBDC: 4 HBAC: 12 TFC: 0 MF: C34H48N2O10S
+CID: 60196398
+
+30. Dextromethorphan hydrobromide
+MW: 370.331 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C18H28BrNO2
+CID: 57515976
+
+31. Atropine sulfate; 55-48-1; SCHEMBL34274 ...
+MW: 676.822 g/mol HBDC: 4 HBAC: 10 TFC: 0 MF: C34H48N2O10S
+CID: 57473071
+
+32. Idasal; Vasoxyl hydrochloride; Vasylox hydrochloride ...
+MW: 247.719 g/mol HBDC: 3 HBAC: 4 TFC: 0 MF: C11H18ClNO3
+CID: 57333099
+
+33. Papaveretum; 8002-76-4; DTXSID50230012
+MW: 1033.478 g/mol HBDC: 6 HBAC: 13 TFC: 0 MF: C55H64Cl3N3O10
+CID: 56841906
+
+34. Human adrenomedullin; 148498-78-6; Adrenomedullin (human) ...
+MW: 6028.815 g/mol HBDC: 90 HBAC: 90 XLogP: -28.6 TFC: 0 MF: C264H406N80O77S3
+CID: 56841671
+
+35. Seretide; Advair; Adoair ...
+MW: 916.147 g/mol HBDC: 5 HBAC: 14 TFC: 0 MF: C50H68F3NO9S
+CID: 56841124
+
+36. Budesonide-formoterol mixt; Formoterol-budesonide mixt; 150693-37-1 ...
+MW: 774.952 g/mol HBDC: 6 HBAC: 11 TFC: 0 MF: C44H58N2O10
+CID: 56841116
+
+37. Celestone chronodose; 52081-45-5 (Parent); Betamethasone acetate and betamethasone sodium phosphate ...
+MW: 934.915 g/mol HBDC: 4 HBAC: 15 TFC: 0 MF: C46H59F2Na2O13P
+CID: 56840962
+
+38. FORMOTEROLFUMARATE; aformoterol; Atock ...
+MW: 804.894 g/mol HBDC: 10 HBAC: 14 TFC: 0 MF: C42H52N4O12
+CID: 53477580
+
+39. FORMOTEROL FUMARATE; Formoterol fumarate dihydrate; 183814-30-4 ...
+MW: 840.924 g/mol HBDC: 12 HBAC: 16 TFC: 0 MF: C42H56N4O14
+CID: 53396306
+
+40. Lappaconitine hydrobromide; 97792-45-5; Lappaconite HBr ...
+MW: 665.622 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C32H45BrN2O8
+CID: 51346120
+
+41. 51333-22-3; CTK8F8352; MolPort-006-393-062 ...
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 46780910
+
+42. CTK8F7935; AKOS030242105
+MW: 408.919 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C22H29ClO5
+CID: 46780650
+
+43. Formoterol fumarate dihydrate; FORMOTEROL FUMARATE; 183814-30-4 ...
+MW: 840.924 g/mol HBDC: 12 HBAC: 16 TFC: 0 MF: C42H56N4O14
+CID: 45358055
+
+44. ipratropium; (8S)-Ipratropium; BIDD:GT0659 ...
+MW: 332.464 g/mol HBDC: 1 HBAC: 3 XLogP: 2.6 TFC: 1 MF: C20H30NO3+
+CID: 25897919
+
+45. CHEBI:51176; (1R,2R)-1-benzyl-3-(dimethylamino)-2-methyl-1-phenylpropyl propanoate naphtalene-2-sulfonic acid
+MW: 565.725 g/mol HBDC: 2 HBAC: 7 TFC: 0 MF: C32H39NO6S
+CID: 25137921
+
+46. NCGC00093647-01; CHEMBL1435313
+MW: 408.919 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C22H29ClO5
+CID: 24867475
+
+47. budesonide; NCGC00021318-03; NCGC00089747-02 ...
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 24867460
+
+48. Butorphanol tartrate; levo-BC-2627 tartrate; Torbutrol ...
+MW: 477.554 g/mol HBDC: 6 HBAC: 9 TFC: 0 MF: C25H35NO8
+CID: 24840146
+
+49. Novasmasol; Orciprenaline sulphate; Orciprenaline sulfate ...
+MW: 520.594 g/mol HBDC: 8 HBAC: 10 TFC: 0 MF: C22H36N2O10S
+CID: 24835641
+
+50. fenoterol - ipratropium; Ipratropium - fenoterol; Fenoterol/ipratropium bromide ...
+MW: 715.726 g/mol HBDC: 6 HBAC: 9 TFC: 0 MF: C37H51BrN2O7
+CID: 24776466
+
+51. UNII-SS28YGI1ZQ; SS28YGI1ZQ; 72534-66-8 ...
+MW: 399.868 g/mol HBDC: 5 HBAC: 7 TFC: 0 MF: C19H26ClNO6
+CID: 23724963
+
+52. Hyoscyamine sulfate; 6835-16-1; UNII-F2R8V82B84 ...
+MW: 712.852 g/mol HBDC: 6 HBAC: 14 TFC: 0 MF: C34H52N2O12S
+CID: 23724783
+
+53. Broncoplus; Tioten; Tiofacic sodium ...
+MW: 295.303 g/mol HBDC: 1 HBAC: 6 TFC: 0 MF: C10H10NNaO4S2
+CID: 23691748
+
+54. Acetylcysteine sodium; UNII-NRD80R06FB; Sodium N-acetyl-L-cysteinate ...
+MW: 185.173 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C5H8NNaO3S
+CID: 23678798
+
+55. ACTINOQUINOL SODIUM; 7246-07-3; Sodium 8-Ethoxyquinoline-5-sulfonate ...
+MW: 275.254 g/mol HBDC: 0 HBAC: 5 TFC: 0 MF: C11H10NNaO4S
+CID: 23675748
+
+56. MONTELUKAST SODIUM; 151767-02-1; Singulair ...
+MW: 608.169 g/mol HBDC: 1 HBAC: 5 TFC: 0 MF: C35H35ClNNaO3S
+CID: 23663996
+
+57. Sodium theophylline glycinate; THEOPHYLLINE SODIUM GLYCINATE; Pemophyllin ...
+MW: 277.216 g/mol HBDC: 2 HBAC: 6 TFC: 0 MF: C9H12N5NaO4
+CID: 23663537
+
+58. Hyoscyamine sulfate; Hyoscyamine sulphate; Levsin sulfate ...
+MW: 387.447 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C17H25NO7S
+CID: 23622704
+
+59. UNII-PUV7QM78IU; PUV7QM78IU; d-Epinephrine hydrochloride ...
+MW: 219.665 g/mol HBDC: 5 HBAC: 4 TFC: 0 MF: C9H14ClNO3
+CID: 23616803
+
+60. Clorina; Euclorina; Halamid ...
+MW: 228.646 g/mol HBDC: 1 HBAC: 3 TFC: 1 MF: C7H8ClNNaO2S+
+CID: 22141508
+
+61. Fenoterol Hydrochloride; fenoterol HCl; NSC-292265 ...
+MW: 339.816 g/mol HBDC: 6 HBAC: 5 TFC: 0 MF: C17H22ClNO4
+CID: 21981128
+
+62. HYDROCODONE BITARTRATE; 143-71-5; .codon ...
+MW: 449.456 g/mol HBDC: 4 HBAC: 10 TFC: 0 MF: C22H27NO9
+CID: 20831824
+
+63. Lappaconite Hydrobromide; 97792-45-5; CA0154
+MW: 665.622 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C32H45BrN2O8
+CID: 19429219
+
+64. SCHEMBL1888070; 51333-22-3; BCP04134
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 18647121
+
+65. Celestone Soluspan; Betnesol; Linolosal ...
+MW: 495.436 g/mol HBDC: 4 HBAC: 9 TFC: 1 MF: C22H30FNaO8P+
+CID: 18471829
+
+66. CHEMBL394085; PB-89
+MW: 589.759 g/mol HBDC: 0 HBAC: 8 XLogP: 3.2 TFC: 0 MF: C31H39N7O3S
+CID: 17757983
+
+67. Verlukast sodium; 115103-85-0; MK571 ...
+MW: 537.065 g/mol HBDC: 0 HBAC: 6 TFC: 0 MF: C26H26ClN2NaO3S2
+CID: 16760569
+
+68. budesonide; 51333-22-3; SCHEMBL1786635 ...
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 16759566
+
+69. Ipratropium bromide hydrate; Ipratropium bromide monohydrate; 22254-24-6 ...
+MW: 430.383 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C20H32BrNO4
+CID: 16738693
+
+70. procaterol hydrochloride; Procaterol HCl; OPC 2009 ...
+MW: 326.821 g/mol HBDC: 5 HBAC: 4 TFC: 0 MF: C16H23ClN2O3
+CID: 16219912
+
+71. beclomethasone; SMR000466920; Beclomethasone, >=99% ...
+MW: 408.919 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C22H29ClO5
+CID: 16218996
+
+72. Aminophylline hydrate; UNII-Y7E0LU9ZMS; Y7E0LU9ZMS ...
+MW: 438.449 g/mol HBDC: 5 HBAC: 9 TFC: 0 MF: C16H26N10O5
+CID: 16218860
+
+73. Ularitide; Urodilatin; 115966-23-9 ...
+MW: 3505.967 g/mol HBDC: 60 HBAC: 54 XLogP: -17.1 TFC: 0 MF: C145H234N52O44S3
+CID: 16132416
+
+74. UNII-KK9590R73S; 55557-30-7; KK9590R73S ...
+MW: 565.725 g/mol HBDC: 2 HBAC: 7 TFC: 0 MF: C32H39NO6S
+CID: 16051927
+
+75. Normethadone hydrochloride; Dacartil hydrochloride; Isoamidone I hydrochloride ...
+MW: 331.884 g/mol HBDC: 1 HBAC: 2 TFC: 0 MF: C20H26ClNO
+CID: 12313558
+
+76. Hyoscyamine hydrochloride; UNII-1D5WC802NO; 1D5WC802NO ...
+MW: 325.833 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C17H24ClNO3
+CID: 12310717
+
+77. Hyoscyamine sulfate; Atropinsulfat; Atropine sulfate ...
+MW: 387.447 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C17H25NO7S
+CID: 12310714
+
+78. l-Epinephrine bitartrate; Epinephrine hydrogen tartrate; L-Adrenalin Bitartrate ...
+MW: 333.293 g/mol HBDC: 8 HBAC: 10 TFC: 0 MF: C13H19NO9
+CID: 12309655
+
+79. PHENYLPROPANOLAMINE HYDROCHLORIDE; 53643-20-2; Norpseudoephedrinhydrochlorid ...
+MW: 187.667 g/mol HBDC: 3 HBAC: 2 TFC: 0 MF: C9H14ClNO
+CID: 12218596
+
+80. UNII-LP811J9FA1; LP811J9FA1; Zinc acetylcysteine ...
+MW: 389.746 g/mol HBDC: 4 HBAC: 8 TFC: 0 MF: C10H16N2O6S2Zn
+CID: 12114682
+
+81. B 0385; Beclocort; Beconasol ...
+MW: 408.919 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C22H29ClO5
+CID: 11957468
+
+82. UNII-QK4DYS664X; QK4DYS664X; Aerobid ...
+MW: 887.024 g/mol HBDC: 5 HBAC: 15 TFC: 0 MF: C48H64F2O13
+CID: 11954221
+
+83. OLODATEROL HYDROCHLORIDE; Olodaterol HCl; 869477-96-3 ...
+MW: 422.906 g/mol HBDC: 5 HBAC: 6 TFC: 0 MF: C21H27ClN2O5
+CID: 11711522
+
+84. Atrovent; ipratropium bromide; Aerodose ...
+MW: 412.368 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C20H30BrNO3
+CID: 11553369
+
+85. OLODATEROL; 868049-49-4; BI-1744 ...
+MW: 386.448 g/mol HBDC: 4 HBAC: 6 XLogP: 1.8 TFC: 0 MF: C21H26N2O5
+CID: 11504295
+
+86. Hyoscyamine sulphate; Hyoscyamine sulfate; UNII-OB570Z127K ...
+MW: 676.822 g/mol HBDC: 4 HBAC: 12 TFC: 0 MF: C34H48N2O10S
+CID: 11479437
+
+87. Tiotropium bromide hydrate; 139404-48-1; Tiotropium bromide monohydrate ...
+MW: 490.427 g/mol HBDC: 2 HBAC: 8 TFC: 0 MF: C19H24BrNO5S2
+CID: 11431811
+
+88. Thionitrous acid; S-Nitrosothiol; UNII-852497M0QB ...
+MW: 63.074 g/mol HBDC: 1 HBAC: 3 XLogP: 0.2 TFC: 0 MF: HNOS
+CID: 11389353
+
+89. Aararre; Frenasma; Lomudal ...
+MW: 491.360 g/mol HBDC: 3 HBAC: 11 TFC: 1 MF: C23H16NaO11+
+CID: 10184937
+
+90. CODEINE PHOSPHATE; Codeine phosphate hydrate; SCHEMBL2515523 ...
+MW: 415.379 g/mol HBDC: 5 HBAC: 9 TFC: 0 MF: C18H26NO8P
+CID: 9953630
+
+91. oxeladin citrate; Oxeladin (citrate); 52432-72-1 ...
+MW: 527.611 g/mol HBDC: 4 HBAC: 11 TFC: 0 MF: C26H41NO10
+CID: 9936727
+
+92. Noscapine hydrochloride; Noscapine hydrchloride; Noscapine HCl ...
+MW: 449.884 g/mol HBDC: 1 HBAC: 8 TFC: 0 MF: C22H24ClNO7
+CID: 9933439
+
+93. HYOSCYAMINE HYDROBROMIDE; 306-03-6; Daturine Hydrobromide ...
+MW: 370.287 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C17H24BrNO3
+CID: 9929278
+
+94. Formoterol fumarate dihydrate; eformoterol; 183814-30-4 ...
+MW: 840.924 g/mol HBDC: 12 HBAC: 16 TFC: 0 MF: C42H56N4O14
+CID: 9919001
+
+95. FORMOTEROL FUMARATE; MLS003115739; Oxis ...
+MW: 460.483 g/mol HBDC: 6 HBAC: 9 TFC: 0 MF: C23H28N2O8
+CID: 9912089
+
+96. Salbutamol sulfate; ALBUTEROL SULFATE; Ventolin ...
+MW: 337.387 g/mol HBDC: 6 HBAC: 8 TFC: 0 MF: C13H23NO7S
+CID: 9884233
+
+97. ATROPINE HYDROCHLORIDE; 33952-38-4; Hyoscyamine hydrochloride ...
+MW: 325.833 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C17H24ClNO3
+CID: 9862125
+
+98. Metaproterenol sulfate; SCHEMBL41816; MLS001056758 ...
+MW: 309.333 g/mol HBDC: 6 HBAC: 8 TFC: 0 MF: C11H19NO7S
+CID: 9861452
+
+99. FORMOTEROL FUMARATE; 43229-80-7; Formoterol hemifumarate ...
+MW: 804.894 g/mol HBDC: 10 HBAC: 14 TFC: 0 MF: C42H52N4O12
+CID: 9832292
+
+100. 137018-55-4; U 83836E; CHEMBL3216717 ...
+MW: 593.638 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C30H46Cl2N6O2
+CID: 9808654
+
+101. Isoproterenol sulfate; Isoprenaline sulfate; 6078-56-4 ...
+MW: 309.333 g/mol HBDC: 6 HBAC: 8 TFC: 0 MF: C11H19NO7S
+CID: 9796663
+
+102. L-Hyoscyamine; hyoscyamine; CHEMBL1257084 ...
+MW: 289.375 g/mol HBDC: 1 HBAC: 4 XLogP: 1.8 TFC: 0 MF: C17H23NO3
+CID: 6931560
+
+103. Almitrine bismesylate; Almitrine mesylate; 29608-49-9 ...
+MW: 669.764 g/mol HBDC: 4 HBAC: 15 TFC: 0 MF: C28H37F2N7O6S2
+CID: 6918543
+
+104. Aerobid; Aerospan; Bronalide ...
+MW: 452.519 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C24H33FO7
+CID: 6918452
+
+105. Perforomist; Atimos; Atock ...
+MW: 822.909 g/mol HBDC: 11 HBAC: 15 TFC: 0 MF: C42H54N4O13
+CID: 6917983
+
+106. Procaterol hydrochloride hemihydrate; Meptin; Procaterol Hydrochlorid ...
+MW: 344.836 g/mol HBDC: 6 HBAC: 5 TFC: 0 MF: C16H25ClN2O4
+CID: 6917801
+
+107. Rosaprostol; C18H34O3; Rosaprostolum ...
+MW: 298.467 g/mol HBDC: 2 HBAC: 3 XLogP: 5.7 TFC: 0 MF: C18H34O3
+CID: 6917723
+
+108. Adrenaline bitartrate; (-)-Epinephrine bitartrate; l-Adrenaline bitartrate ...
+MW: 333.293 g/mol HBDC: 8 HBAC: 10 TFC: 0 MF: C13H19NO9
+CID: 6852374
+
+109. VERLUKAST; 120443-16-5; MK-679 ...
+MW: 515.083 g/mol HBDC: 1 HBAC: 6 XLogP: 5.3 TFC: 0 MF: C26H27ClN2O3S2
+CID: 6509849
+
+110. 18833-13-1; ACEFYLLINE PIPERAZINE; EINECS 227-160-6 ...
+MW: 324.341 g/mol HBDC: 3 HBAC: 7 TFC: 0 MF: C13H20N6O4
+CID: 6453414
+
+111. 58660-10-9; Brompheniramine maleate mixture with phenylephrine hydrochloride and phenylpropanolamine hydrochloride; AC1O6AC9 ...
+MW: 826.651 g/mol HBDC: 8 HBAC: 11 TFC: 0 MF: C38H51BrCl2N4O7
+CID: 6449898
+
+112. Rinasek; Trifed; Pseudophedrine hydrochoride mixture with Triprolidine hydrochloride ...
+MW: 516.551 g/mol HBDC: 4 HBAC: 4 TFC: 0 MF: C29H39Cl2N3O
+CID: 6437831
+
+113. BD 40A; FORMOTEROL FUMARATE; Foradil acrolizer ...
+MW: 460.483 g/mol HBDC: 6 HBAC: 9 TFC: 0 MF: C23H28N2O8
+CID: 6437070
+
+114. PHENYLPROPANOLAMINE HYDROCHLORIDE; UNII-184M412SJH; 40626-29-7 ...
+MW: 187.667 g/mol HBDC: 3 HBAC: 2 TFC: 0 MF: C9H14ClNO
+CID: 6433169
+
+115. UNII-GSL05Y1MN6; CODEINE PHOSPHATE; GSL05Y1MN6 ...
+MW: 812.743 g/mol HBDC: 9 HBAC: 17 TFC: 0 MF: C36H50N2O15P2
+CID: 6321303
+
+116. Tulobuterol hydrochloride; 56776-01-3; 2-(tert-butylamino)-1-(2-chlorophenyl)ethanol hydrochloride ...
+MW: 264.190 g/mol HBDC: 3 HBAC: 2 TFC: 0 MF: C12H19Cl2NO
+CID: 5702285
+
+117. Clenbuterol hydrochloride; 21898-19-1; Clenbuterol HCl ...
+MW: 313.647 g/mol HBDC: 4 HBAC: 3 TFC: 0 MF: C12H19Cl3N2O
+CID: 5702273
+
+118. Bromhexine hydrochloride; 611-75-6; Bromhexine HCl ...
+MW: 412.594 g/mol HBDC: 2 HBAC: 2 TFC: 0 MF: C14H21Br2ClN2
+CID: 5702220
+
+119. Fenoterol hydrobromide; 1944-12-3; fenoterol HBr ...
+MW: 384.270 g/mol HBDC: 6 HBAC: 5 TFC: 0 MF: C17H22BrNO4
+CID: 5702161
+
+120. Spectrum2_000623; Spectrum3_000620; Spectrum4_000821 ...
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 5702148
+
+121. ipratropium bromide; AC1NWANR; 66985-17-9 ...
+MW: 412.368 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C20H30BrNO3
+CID: 5702073
+
+122. Levomethorphan; dextromethorphan; Spectrum_000924 ...
+MW: 271.404 g/mol HBDC: 0 HBAC: 2 XLogP: 3.4 TFC: 0 MF: C18H25NO
+CID: 5702040
+
+123. Tiotropium; Spiriva; [3H]tiotropium ...
+MW: 392.508 g/mol HBDC: 1 HBAC: 6 XLogP: 2.3 TFC: 1 MF: C19H22NO4S2+
+CID: 5487427
+
+124. TIOTROPIUM BROMIDE; 136310-93-5; Spiriva ...
+MW: 472.412 g/mol HBDC: 1 HBAC: 7 TFC: 0 MF: C19H22BrNO4S2
+CID: 5487426
+
+125. Dextromethorphan hydrochloride; UNII-351KFH969D; 351KFH969D ...
+MW: 307.862 g/mol HBDC: 1 HBAC: 2 TFC: 0 MF: C18H26ClNO
+CID: 5483943
+
+126. Butorphanol tartrate; Stadol; Stadol NS ...
+MW: 477.554 g/mol HBDC: 6 HBAC: 9 TFC: 0 MF: C25H35NO8
+CID: 5464090
+
+127. Dextromethorphan hydrobromide; 125-69-9; Antussan ...
+MW: 352.316 g/mol HBDC: 1 HBAC: 2 TFC: 0 MF: C18H26BrNO
+CID: 5464025
+
+128. Biocodone; Dicodethal; Dicodrine ...
+MW: 449.456 g/mol HBDC: 4 HBAC: 10 TFC: 0 MF: C22H27NO9
+CID: 5463977
+
+129. Dextromethorphan hydrobromide monohydrate; 6700-34-1; Dextromethorphan hydrobromide ...
+MW: 370.331 g/mol HBDC: 2 HBAC: 3 TFC: 0 MF: C18H28BrNO2
+CID: 5462351
+
+130. Butorphanol tartrate; 58786-99-5; Stadol (TN) ...
+MW: 477.554 g/mol HBDC: 6 HBAC: 9 TFC: 0 MF: C25H35NO8
+CID: 5462346
+
+131. Codeine hydrate; codeine monohydrate; UNII-Q830PW7520 ...
+MW: 317.385 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C18H23NO4
+CID: 5362471
+
+132. l-Methorphan; Levomethorphan; Methorphan ...
+MW: 271.404 g/mol HBDC: 0 HBAC: 2 XLogP: 3.4 TFC: 0 MF: C18H25NO
+CID: 5362449
+
+133. butorphanol; Butorfanol; Butorphanol tartrate ...
+MW: 327.468 g/mol HBDC: 2 HBAC: 3 XLogP: 3.8 TFC: 0 MF: C21H29NO2
+CID: 5361092
+
+134. dextromethorphan; d-Methorphan; delta-Methorphan ...
+MW: 271.404 g/mol HBDC: 0 HBAC: 2 XLogP: 3.4 TFC: 0 MF: C18H25NO
+CID: 5360696
+
+135. RACEMETHORPHAN; SCHEMBL118520; CHEMBL282713
+MW: 271.404 g/mol HBDC: 0 HBAC: 2 XLogP: 3.4 TFC: 0 MF: C18H25NO
+CID: 5359423
+
+136. Ethylmorphine; Codethyline; DIONINE ...
+MW: 313.397 g/mol HBDC: 1 HBAC: 4 XLogP: 1.5 TFC: 0 MF: C19H23NO3
+CID: 5359271
+
+137. CODEINE PHOSPHATE; Tricodein; UNII-2X585M1M3T ...
+MW: 397.364 g/mol HBDC: 4 HBAC: 8 TFC: 0 MF: C18H24NO7P
+CID: 5359227
+
+138. Isocodeine; 509-64-8; 6-Isocodeine ...
+MW: 299.370 g/mol HBDC: 1 HBAC: 4 XLogP: 1.1 TFC: 0 MF: C18H21NO3
+CID: 5324288
+
+139. hyoscyamine; SR-05000001654; AC1NSWSM ...
+MW: 289.375 g/mol HBDC: 1 HBAC: 4 XLogP: 1.8 TFC: 0 MF: C17H23NO3
+CID: 5318386
+
+140. PHOLCODINE; Homocodeine; Morpholinylethylmorphine ...
+MW: 398.503 g/mol HBDC: 1 HBAC: 6 XLogP: 0.8 TFC: 0 MF: C23H30N2O4
+CID: 5311356
+
+141. pranlukast hydrate; Pranlukast hemihydrate; 150821-03-7 ...
+MW: 499.527 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C27H25N5O5
+CID: 5311184
+
+142. fluticasone; Fluticasonum; Fluticasona ...
+MW: 444.509 g/mol HBDC: 2 HBAC: 8 XLogP: 3.2 TFC: 0 MF: C22H27F3O4S
+CID: 5311101
+
+143. UNII-74SSN124VK; lobeline; 74SSN124VK ...
+MW: 337.463 g/mol HBDC: 1 HBAC: 3 XLogP: 3.8 TFC: 0 MF: C22H27NO2
+CID: 5288703
+
+144. HYDROCODONE; Dihydrocodeinone; Hydrocodon ...
+MW: 299.370 g/mol HBDC: 0 HBAC: 4 XLogP: 2.2 TFC: 0 MF: C18H21NO3
+CID: 5284569
+
+145. PHENYLEPHRINE HYDROCHLORIDE; 61-76-7; Phenylephrine HCl ...
+MW: 203.666 g/mol HBDC: 4 HBAC: 3 TFC: 0 MF: C9H14ClNO2
+CID: 5284443
+
+146. codeine; Methylmorphine; Codeine anhydrous ...
+MW: 299.370 g/mol HBDC: 1 HBAC: 4 XLogP: 1.1 TFC: 0 MF: C18H21NO3
+CID: 5284371
+
+147. FORMOTEROL FUMARATE; 43229-80-7; Formoterol fumarate (USAN) ...
+MW: 804.894 g/mol HBDC: 10 HBAC: 14 TFC: 0 MF: C42H52N4O12
+CID: 5282416
+
+148. Xylometazoline hydrochloride; 1218-35-5; Xylometazoline HCl ...
+MW: 280.840 g/mol HBDC: 2 HBAC: 1 TFC: 0 MF: C16H25ClN2
+CID: 5282386
+
+149. MK 571; VERLUKAST; 115104-28-4 ...
+MW: 515.083 g/mol HBDC: 1 HBAC: 6 XLogP: 5.3 TFC: 0 MF: C26H27ClN2O3S2
+CID: 5281888
+
+150. montelukast; 158966-92-8; Singulair ...
+MW: 586.187 g/mol HBDC: 2 HBAC: 5 XLogP: 7.7 TFC: 0 MF: C35H36ClNO3S
+CID: 5281040
+
+151. budesonide; Pulmicort; Rhinocort ...
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 5281004
+
+152. MEN 11420; Nepadutant [INN]; MEN-11,420 ...
+MW: 965.031 g/mol HBDC: 14 HBAC: 15 XLogP: -4 TFC: 0 MF: C45H60N10O14
+CID: 3086682
+
+153. Arformoterol; formoterol; (R,R)-Formoterol ...
+MW: 344.411 g/mol HBDC: 4 HBAC: 5 XLogP: 1.8 TFC: 0 MF: C19H24N2O4
+CID: 3083544
+
+154. pirbuterol hydrochloride; (+-)-Pirbuterol hydrochloride; Pirbuterol HCl ...
+MW: 276.761 g/mol HBDC: 5 HBAC: 5 TFC: 0 MF: C12H21ClN2O3
+CID: 3061720
+
+155. Novophyllin; 63907-40-4; AC1MIMSZ ...
+MW: 472.506 g/mol HBDC: 5 HBAC: 8 TFC: 0 MF: C21H28N8O5
+CID: 3048502
+
+156. Dimemorfan; Dimemorphan; dimemorfan phosphate ...
+MW: 255.405 g/mol HBDC: 0 HBAC: 1 XLogP: 3.8 TFC: 0 MF: C18H25N
+CID: 3037918
+
+157. (S,S)-Formoterol; (+)-formoterol; formoterol ...
+MW: 344.411 g/mol HBDC: 4 HBAC: 5 XLogP: 1.8 TFC: 0 MF: C19H24N2O4
+CID: 3034756
+
+158. 51333-22-3; AC1MHWI7; SCHEMBL1130417 ...
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 3033890
+
+159. REPROTEROL HYDROCHLORIDE; Bronchospasmin; Bronchodil ...
+MW: 425.870 g/mol HBDC: 5 HBAC: 7 TFC: 0 MF: C18H24ClN5O5
+CID: 3032600
+
+160. BRN 4733329; Propionic acid, 2-methyl-2-((piperidinomethyl)thio)-; 2-Methyl-2-((piperidinomethyl)thio)propionic acid ...
+MW: 217.327 g/mol HBDC: 1 HBAC: 4 XLogP: -0.2 TFC: 0 MF: C10H19NO2S
+CID: 3021749
+
+161. fominoben hydrochloride; Noleptan; Terion ...
+MW: 438.349 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C21H25Cl2N3O3
+CID: 3015003
+
+162. Potassium citrate monohydrate; 6100-05-6; Tripotassium citrate monohydrate ...
+MW: 324.409 g/mol HBDC: 2 HBAC: 8 TFC: 0 MF: C6H7K3O8
+CID: 2735208
+
+163. 18598-63-5; L-CYSTEINE METHYL ESTER HYDROCHLORIDE; L-Cystein methyl ester hydrochloride ...
+MW: 171.639 g/mol HBDC: 3 HBAC: 4 TFC: 0 MF: C4H10ClNO2S
+CID: 2733208
+
+164. 51333-22-3
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 969510
+
+165. lobeline; Lobelin; L-lobeline free base ...
+MW: 337.463 g/mol HBDC: 1 HBAC: 3 XLogP: 3.8 TFC: 0 MF: C22H27NO2
+CID: 736282
+
+166. PROCATEROL; (R,S)-Procaterol; Procaterolo ...
+MW: 290.363 g/mol HBDC: 4 HBAC: 4 XLogP: 1.5 TFC: 0 MF: C16H22N2O3
+CID: 688563
+
+167. PROCATEROL; CHEMBL1478530; NCGC00024999-02 ...
+MW: 290.363 g/mol HBDC: 4 HBAC: 4 XLogP: 1.5 TFC: 0 MF: C16H22N2O3
+CID: 688561
+
+168. lobeline; Inflatine; Lobeline [INN] ...
+MW: 337.463 g/mol HBDC: 1 HBAC: 3 XLogP: 3.8 TFC: 0 MF: C22H27NO2
+CID: 688025
+
+169. ipratropium; 60205-81-4; N-Isopropylatropine ...
+MW: 332.464 g/mol HBDC: 1 HBAC: 3 XLogP: 2.6 TFC: 1 MF: C20H30NO3+
+CID: 657309
+
+170. ipratropium bromide; 22254-24-6; Ipratropiumbromid ...
+MW: 412.368 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C20H30BrNO3
+CID: 657308
+
+171. Terbutaline sulfate; MLS000069693; SMR000058516 ...
+MW: 323.360 g/mol HBDC: 6 HBAC: 8 TFC: 0 MF: C12H21NO7S
+CID: 657301
+
+172. Atropine sulfate monohydrate; 5908-99-6; Atropini sulfas ...
+MW: 694.837 g/mol HBDC: 5 HBAC: 13 TFC: 0 MF: C34H50N2O11S
+CID: 656678
+
+173. Isoproterenol sulfate; Medihaler Iso; Luf-Iso ...
+MW: 556.624 g/mol HBDC: 12 HBAC: 14 TFC: 0 MF: C22H40N2O12S
+CID: 656677
+
+174. Sodium metabisulfite; Sodium pyrosulfite; 7681-57-4 ...
+MW: 190.095 g/mol HBDC: 0 HBAC: 6 TFC: 0 MF: Na2O5S2
+CID: 656671
+
+175. OXTRIPHYLLINE; Choline theophyllinate; Choline theophylline ...
+MW: 283.332 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C12H21N5O3
+CID: 656652
+
+176. Trimethoquinol; Trimetoquinol hydrochloride; Triquinol ...
+MW: 381.853 g/mol HBDC: 4 HBAC: 6 TFC: 0 MF: C19H24ClNO5
+CID: 656634
+
+177. procaterol hydrochloride; Procaterol HCl; CHEBI:32056 ...
+MW: 326.821 g/mol HBDC: 5 HBAC: 4 TFC: 0 MF: C16H23ClN2O3
+CID: 656601
+
+178. (R)-atropine; (+)-Atropine; (+)-HYOSCYAMINE ...
+MW: 289.375 g/mol HBDC: 1 HBAC: 4 XLogP: 1.8 TFC: 0 MF: C17H23NO3
+CID: 637577
+
+179. Ipratropium bromide monohydrate; AC1LC0MA; 66985-17-9 ...
+MW: 413.376 g/mol HBDC: 2 HBAC: 3 TFC: 1 MF: C20H31BrNO3+
+CID: 592261
+
+180. p-Menthane-3,8-diol; 42822-86-6; para-menthane-3,8-diol ...
+MW: 172.268 g/mol HBDC: 2 HBAC: 2 XLogP: 2.2 TFC: 0 MF: C10H20O2
+CID: 556998
+
+181. FLUTICASONE PROPIONATE; Flovent; 80474-14-2 ...
+MW: 500.573 g/mol HBDC: 1 HBAC: 9 XLogP: 4 TFC: 0 MF: C25H31F3O5S
+CID: 444036
+
+182. Adehl; Nkh 477; Colforsin dapropate hydrochloride ...
+MW: 546.098 g/mol HBDC: 3 HBAC: 9 TFC: 0 MF: C27H44ClNO8
+CID: 444028
+
+183. Finaten; Oleptan; Tussirama ...
+MW: 438.349 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C21H25Cl2N3O3
+CID: 443983
+
+184. tiaramide hydrochloride; 35941-71-0; Tiaramide HCl ...
+MW: 392.295 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C15H19Cl2N3O3S
+CID: 443949
+
+185. Cromakalim; (+/-)-cromakalim; (+)-Cromakalim ...
+MW: 286.331 g/mol HBDC: 1 HBAC: 4 XLogP: 0.8 TFC: 0 MF: C16H18N2O3
+CID: 443423
+
+186. Noscapine hydrochloride; Noscapine HCl; Teletux ...
+MW: 449.884 g/mol HBDC: 1 HBAC: 8 TFC: 0 MF: C22H24ClNO7
+CID: 442329
+
+187. l-Epinephrine hydrochloride; Epinephrine HCl; 55-31-2 ...
+MW: 219.665 g/mol HBDC: 5 HBAC: 4 TFC: 0 MF: C9H14ClNO3
+CID: 441411
+
+188. 922491-06-3; Sch 1000-Br-monohydrate; Ipratropium bromide monohydrate ...
+MW: 430.383 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C20H32BrNO4
+CID: 441337
+
+189. Terbutaline sulfate; 23031-32-5; TERBUTALINE HEMISULFATE ...
+MW: 548.648 g/mol HBDC: 10 HBAC: 12 TFC: 0 MF: C24H40N2O10S
+CID: 441334
+
+190. 5874-97-5; Metaproterenol sulfate; Orciprenaline sulfate ...
+MW: 520.594 g/mol HBDC: 10 HBAC: 12 TFC: 0 MF: C22H36N2O10S
+CID: 441333
+
+191. Euphyllin; Euphylline; Aminodur ...
+MW: 240.267 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C9H16N6O2
+CID: 441189
+
+192. hexoprenaline sulfate; Gynipral; 32266-10-7 ...
+MW: 518.578 g/mol HBDC: 10 HBAC: 12 TFC: 0 MF: C22H34N2O10S
+CID: 325003
+
+193. noscapine; Tusscapine; Terbenol ...
+MW: 413.426 g/mol HBDC: 0 HBAC: 8 XLogP: 2.7 TFC: 0 MF: C22H23NO7
+CID: 275196
+
+194. Oxolamine citrate; 1949-20-8; Oxolamine (citrate) ...
+MW: 437.449 g/mol HBDC: 4 HBAC: 11 TFC: 0 MF: C20H27N3O8
+CID: 264891
+
+195. UNII-Z4241U523E; Gnoscopine; dl-Narcotine ...
+MW: 413.426 g/mol HBDC: 0 HBAC: 8 XLogP: 2.7 TFC: 0 MF: C22H23NO7
+CID: 262535
+
+196. (S)-adrenaline; (+)-adrenaline; UNII-NA71GR3TNV ...
+MW: 183.207 g/mol HBDC: 4 HBAC: 4 XLogP: -1.4 TFC: 0 MF: C9H13NO3
+CID: 247704
+
+197. CV 705; 1-(3,4,5-trimethoxybenzyl)-1,2,3,4-tetrahydroisoquinolin-6-ol hydrochloride(1:1); 38085-10-8 ...
+MW: 365.854 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C19H24ClNO4
+CID: 217067
+
+198. Levopropoxyphene; l-Propoxyphene; (-)-Propoxyphene ...
+MW: 339.479 g/mol HBDC: 0 HBAC: 3 XLogP: 4.2 TFC: 0 MF: C22H29NO2
+CID: 200742
+
+199. dimemorfan phosphate; 36304-84-4; UNII-S203Y5Y1QP ...
+MW: 353.399 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C18H28NO4P
+CID: 198165
+
+200. S-Carboxymethyl-L-cysteine; 638-23-3; Carbocisteine ...
+MW: 179.190 g/mol HBDC: 3 HBAC: 6 XLogP: -3.1 TFC: 0 MF: C5H9NO4S
+CID: 193653
+
+201. Isospaglumic acid; spaglumic acid; NAAG ...
+MW: 304.255 g/mol HBDC: 5 HBAC: 8 XLogP: -2.1 TFC: 0 MF: C11H16N2O8
+CID: 188803
+
+202. UNII-08Y675ZOIT; 08Y675ZOIT; Zy 15109 ...
+MW: 326.544 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C11H14MgN2O8
+CID: 188802
+
+203. ATROPINE; Tropine tropate; dl-Hyoscyamine ...
+MW: 289.375 g/mol HBDC: 1 HBAC: 4 XLogP: 1.8 TFC: 0 MF: C17H23NO3
+CID: 174174
+
+204. Pirbuterol acetate; Pirbuterol acetate [USAN]; 65652-44-0 ...
+MW: 300.355 g/mol HBDC: 5 HBAC: 7 TFC: 0 MF: C14H24N2O5
+CID: 171674
+
+205. (-)-NORPSEUDOEPHEDRINE; UNII-QQ0FVC4PXS; Racemic norpseudoephedrine ...
+MW: 151.209 g/mol HBDC: 2 HBAC: 2 XLogP: 0.8 TFC: 0 MF: C9H13NO
+CID: 162265
+
+206. Isoaminile citrate; Peracon; Perocan citrate ...
+MW: 436.505 g/mol HBDC: 4 HBAC: 9 TFC: 0 MF: C22H32N2O7
+CID: 161602
+
+207. hyoscyamine; L-Hyoscyamine; (-)-Hyoscyamine ...
+MW: 289.375 g/mol HBDC: 1 HBAC: 4 XLogP: 1.8 TFC: 0 MF: C17H23NO3
+CID: 154417
+
+208. nitric oxide; nitrogen monoxide; Mononitrogen monoxide ...
+MW: 30.006 g/mol HBDC: 0 HBAC: 1 XLogP: 0.2 TFC: 0 MF: NO
+CID: 145068
+
+209. dimephosphon; UNII-136CQC28US; 14394-26-4 ...
+MW: 208.194 g/mol HBDC: 0 HBAC: 4 XLogP: -0.3 TFC: 0 MF: C8H17O4P
+CID: 122179
+
+210. Celestone-R; betamethasone acetate phosphate; Pregna-1,4-diene-3,20-dione, 21-(acetyloxy)-9-fluoro-11,17-dihydroxy-16-methyl-, (11beta,16beta)-, mixt. with (11beta,16beta)-9-fluoro-11,17-dihydroxy-16-methyl-21-(phosphonooxy)pregna-1,4-diene-3,20-dione ...
+MW: 906.951 g/mol HBDC: 6 HBAC: 16 TFC: 0 MF: C46H61F2O14P
+CID: 122053
+
+211. Lobeline sulfate; Bantron; 134-64-5 ...
+MW: 772.998 g/mol HBDC: 4 HBAC: 10 TFC: 0 MF: C44H56N2O8S
+CID: 120636
+
+212. Albifylline; Hwa-138; Hwa 138 ...
+MW: 280.328 g/mol HBDC: 2 HBAC: 4 XLogP: 1 TFC: 0 MF: C13H20N4O3
+CID: 115359
+
+213. ONO-RS 411; C27H23N5O4; Pranlukast [BAN:INN] ...
+MW: 481.512 g/mol HBDC: 2 HBAC: 7 XLogP: 4.2 TFC: 0 MF: C27H23N5O4
+CID: 115100
+
+214. Iprafen; Bronchodual; Fenoterol-ipratropium IK6 ...
+MW: 796.638 g/mol HBDC: 7 HBAC: 9 TFC: 0 MF: C37H52Br2N2O7
+CID: 114901
+
+215. Ambroxol hydrochloride; 23828-92-4; Ambroxol HCl ...
+MW: 414.566 g/mol HBDC: 4 HBAC: 3 TFC: 0 MF: C13H19Br2ClN2O
+CID: 108013
+
+216. u-83836e; 2-Methyl aminochroman; U-78517F ...
+MW: 593.638 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C30H46Cl2N6O2
+CID: 107656
+
+217. S-nitrosoglutathione; gsno; SNOG ...
+MW: 336.319 g/mol HBDC: 5 HBAC: 10 XLogP: -4.8 TFC: 0 MF: C10H16N4O7S
+CID: 104858
+
+218. lobeline; (-)-Lobeline; Lobnico ...
+MW: 337.463 g/mol HBDC: 1 HBAC: 3 XLogP: 3.8 TFC: 0 MF: C22H27NO2
+CID: 101616
+
+219. Levcromakalim; Lemakalim; Cromakalim ...
+MW: 286.331 g/mol HBDC: 1 HBAC: 4 XLogP: 0.8 TFC: 0 MF: C16H18N2O3
+CID: 93504
+
+220. Clobutinol hydrochloride; Silomat; Biotertussin ...
+MW: 292.244 g/mol HBDC: 2 HBAC: 2 TFC: 0 MF: C14H23Cl2NO
+CID: 92876
+
+221. Sobrerol; 498-71-5; Soberol ...
+MW: 170.252 g/mol HBDC: 2 HBAC: 2 XLogP: 0.7 TFC: 0 MF: C10H18O2
+CID: 91463
+
+222. Theophylline monohydrate; 5967-84-0; Quibron ...
+MW: 198.182 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C7H10N4O3
+CID: 91268
+
+223. Carbetapentane citrate; Pentoxyverine citrate; 23142-01-0 ...
+MW: 525.595 g/mol HBDC: 4 HBAC: 11 TFC: 0 MF: C26H39NO10
+CID: 90010
+
+224. Etamiphylline camsylate; UNII-02354HXX8X; 19326-29-5 ...
+MW: 511.638 g/mol HBDC: 1 HBAC: 8 TFC: 0 MF: C23H37N5O6S
+CID: 88008
+
+225. Acepifylline; Aethaphyllinium; Dynaphylline ...
+MW: 562.544 g/mol HBDC: 4 HBAC: 12 TFC: 0 MF: C22H30N10O8
+CID: 87819
+
+226. Hexahydrophthalic anhydride; 85-42-7; Hexahydroisobenzofuran-1,3-dione ...
+MW: 154.165 g/mol HBDC: 0 HBAC: 3 XLogP: 1.2 TFC: 0 MF: C8H10O3
+CID: 85689
+
+227. Naphazoline nitrate; 5144-52-5; Privine ...
+MW: 273.292 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C14H15N3O3
+CID: 82332
+
+228. flunisolide; 3385-03-3; Rhinalar ...
+MW: 434.504 g/mol HBDC: 2 HBAC: 7 XLogP: 2.5 TFC: 0 MF: C24H31FO6
+CID: 82153
+
+229. 10402-53-6; EPRAZINONE DIHYDROCHLORIDE; 3-(4-(2-Ethoxy-2-phenylethyl)piperazin-1-yl)-2-methyl-1-phenylpropan-1-one dihydrochloride ...
+MW: 453.448 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C24H34Cl2N2O2
+CID: 73356
+
+230. Diniprofylline; Corverum; Diniprofylline [INN:DCF] ...
+MW: 464.438 g/mol HBDC: 0 HBAC: 9 XLogP: 0.5 TFC: 0 MF: C22H20N6O6
+CID: 71692
+
+231. Cromakalim; Cromakalin; CHEMBL11684 ...
+MW: 286.331 g/mol HBDC: 1 HBAC: 4 XLogP: 0.8 TFC: 0 MF: C16H18N2O3
+CID: 71191
+
+232. Naaxia; N-Acetyl-aspartyl-glutamate; ZY-15106 ...
+MW: 304.255 g/mol HBDC: 5 HBAC: 8 XLogP: -2.1 TFC: 0 MF: C11H16N2O8
+CID: 71120
+
+233. 56695-65-9; 7-(2-hexyl-5-hydroxycyclopentyl)heptanoic acid; Ibi-C83 ...
+MW: 298.467 g/mol HBDC: 2 HBAC: 3 XLogP: 5.7 TFC: 0 MF: C18H34O3
+CID: 68764
+
+234. Guacetisal; 55482-89-8; 2-methoxyphenyl 2-acetoxybenzoate ...
+MW: 286.283 g/mol HBDC: 0 HBAC: 5 XLogP: 2.9 TFC: 0 MF: C16H14O5
+CID: 68749
+
+235. Nedocromil calcium; 101626-68-0; UNII-0983W479HH ...
+MW: 409.407 g/mol HBDC: 0 HBAC: 8 TFC: 0 MF: C19H15CaNO7
+CID: 68731
+
+236. Letosteine; 53943-88-7; Letosteinum ...
+MW: 279.369 g/mol HBDC: 2 HBAC: 7 XLogP: -1 TFC: 0 MF: C10H17NO4S2
+CID: 68707
+
+237. pirbuterol hydrochloride; Exirel; Pirbuterol dihydrochloride ...
+MW: 313.219 g/mol HBDC: 6 HBAC: 5 TFC: 0 MF: C12H22Cl2N2O3
+CID: 68658
+
+238. Fenspiride hydrochloride; Fenspiride HCl; 5053-08-7 ...
+MW: 296.795 g/mol HBDC: 2 HBAC: 3 TFC: 0 MF: C15H21ClN2O2
+CID: 68626
+
+239. Bamifylline hydrochloride; Trentadil; Pulmac ...
+MW: 421.926 g/mol HBDC: 2 HBAC: 5 TFC: 0 MF: C20H28ClN5O3
+CID: 68549
+
+240. Oxymetazoline hydrochloride; 2315-02-8; Oxymetazoline HCl ...
+MW: 296.839 g/mol HBDC: 3 HBAC: 2 TFC: 0 MF: C16H25ClN2O
+CID: 66259
+
+241. Rilmakalim; Rilmakalim [INN]; HOE-234 ...
+MW: 401.477 g/mol HBDC: 1 HBAC: 5 XLogP: 1.9 TFC: 0 MF: C21H23NO5S
+CID: 65966
+
+242. Levodropropizine; 99291-25-5; (S)-3-(4-Phenylpiperazin-1-yl)propane-1,2-diol ...
+MW: 236.315 g/mol HBDC: 2 HBAC: 4 XLogP: 0.6 TFC: 0 MF: C13H20N2O2
+CID: 65859
+
+243. Carebastine; 90729-42-3; Carebastine [INN] ...
+MW: 499.651 g/mol HBDC: 1 HBAC: 5 XLogP: 3.6 TFC: 0 MF: C32H37NO4
+CID: 65820
+
+244. Tretoquinol; Tretoquinol [INN]; UNII-JIO3275WGI ...
+MW: 345.395 g/mol HBDC: 3 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C19H23NO5
+CID: 65772
+
+245. Erdosteine; 84611-23-4; Erdosteinum [Latin] ...
+MW: 249.299 g/mol HBDC: 2 HBAC: 6 XLogP: -0.1 TFC: 0 MF: C8H11NO4S2
+CID: 65632
+
+246. Baicalin; 21967-41-9; Baicalein 7-O-glucuronide ...
+MW: 446.364 g/mol HBDC: 6 HBAC: 11 XLogP: 1.1 TFC: 0 MF: C21H18O11
+CID: 64982
+
+247. hyoscyamine; Cystospaz; L-Hyoscyamine ...
+MW: 289.375 g/mol HBDC: 1 HBAC: 4 XLogP: 1.8 TFC: 0 MF: C17H23NO3
+CID: 64692
+
+248. Hyoscyamine sulfate; 620-61-1; bis(levbid); sulfuric acid ...
+MW: 676.822 g/mol HBDC: 4 HBAC: 12 TFC: 0 MF: C34H48N2O10S
+CID: 64691
+
+249. Atropine sulfate monohydrate; Atropine sulfate; Atropisol ...
+MW: 694.837 g/mol HBDC: 5 HBAC: 13 TFC: 0 MF: C34H50N2O11S
+CID: 64663
+
+250. Doxapram hydrochloride; 113-07-5; Doxapram HCL ...
+MW: 414.974 g/mol HBDC: 1 HBAC: 3 TFC: 0 MF: C24H31ClN2O2
+CID: 64647
+
+251. (22S)-BUDESONIDE; UNII-168L5HT37P; 168L5HT37P ...
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 63006
+
+252. Propadrine hydrochloride; (-)-Norephedrine hydrochloride; l-Norephedrine hydrochloride ...
+MW: 187.667 g/mol HBDC: 3 HBAC: 2 TFC: 0 MF: C9H14ClNO
+CID: 62943
+
+253. fluticasone; S-(fluoromethyl) (6S,9R,10S,11S,13S,14S,16R,17R)-6,9-difluoro-11,17-dihydroxy-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthrene-17-carbothioate; 90566-53-3 ...
+MW: 444.509 g/mol HBDC: 2 HBAC: 8 XLogP: 3.2 TFC: 0 MF: C22H27F3O4S
+CID: 62924
+
+254. ETOXERIDINE; Carbetidine; Atenos ...
+MW: 321.417 g/mol HBDC: 1 HBAC: 5 XLogP: 1.6 TFC: 0 MF: C18H27NO4
+CID: 61122
+
+255. VERLUKAST; AC1L1TSE; SCHEMBL2729252 ...
+MW: 515.083 g/mol HBDC: 1 HBAC: 6 XLogP: 5.3 TFC: 0 MF: C26H27ClN2O3S2
+CID: 60719
+
+256. BIMAKALIM; Bimakalim [INN]; 117545-11-6 ...
+MW: 278.311 g/mol HBDC: 0 HBAC: 3 XLogP: 2.3 TFC: 0 MF: C17H14N2O2
+CID: 60674
+
+257. salmeterol xinafoate; 94749-08-3; Salmetedur ...
+MW: 603.756 g/mol HBDC: 6 HBAC: 8 TFC: 0 MF: C36H45NO7
+CID: 56801
+
+258. Bambuterol; 81732-65-2; Bambuterolum ...
+MW: 367.446 g/mol HBDC: 2 HBAC: 6 XLogP: 1.2 TFC: 0 MF: C18H29N3O5
+CID: 54766
+
+259. BAMBUTEROL HYDROCHLORIDE; 81732-46-9; Bambuterol HCl ...
+MW: 403.904 g/mol HBDC: 3 HBAC: 6 TFC: 0 MF: C18H30ClN3O5
+CID: 54765
+
+260. AZELASTINE HYDROCHLORIDE; AZELASTINE HCl; 79307-93-0 ...
+MW: 418.362 g/mol HBDC: 1 HBAC: 3 TFC: 0 MF: C22H25Cl2N3O
+CID: 54360
+
+261. Stepronin; Tiofacic; 72324-18-6 ...
+MW: 273.321 g/mol HBDC: 2 HBAC: 6 XLogP: 1.7 TFC: 0 MF: C10H11NO4S2
+CID: 54120
+
+262. DOXOFYLLINE; Doxophylline; 69975-86-6 ...
+MW: 266.257 g/mol HBDC: 0 HBAC: 5 XLogP: -0.9 TFC: 0 MF: C11H14N4O4
+CID: 50942
+
+263. NEDOCROMIL SODIUM; 69049-74-7; Alocril ...
+MW: 415.309 g/mol HBDC: 0 HBAC: 8 TFC: 0 MF: C19H15NNa2O7
+CID: 50295
+
+264. NEDOCROMIL; 69049-73-6; Nedocromilum ...
+MW: 371.345 g/mol HBDC: 2 HBAC: 8 XLogP: 2.2 TFC: 0 MF: C19H17NO7
+CID: 50294
+
+265. forskolin; Colforsin; 66575-29-9 ...
+MW: 410.507 g/mol HBDC: 3 HBAC: 7 XLogP: 1 TFC: 0 MF: C22H34O7
+CID: 47936
+
+266. procaterol hydrochloride; 62929-91-3; Lontermin ...
+MW: 326.821 g/mol HBDC: 5 HBAC: 4 TFC: 0 MF: C16H23ClN2O3
+CID: 43091
+
+267. Psxeladine; Silopentol; Tussilisin ...
+MW: 527.611 g/mol HBDC: 4 HBAC: 10 TFC: 0 MF: C26H41NO10
+CID: 40384
+
+268. DOXANTRAZOLE; 51762-95-9; UNII-U5Q9UW0HCH ...
+MW: 312.303 g/mol HBDC: 1 HBAC: 6 XLogP: 1.4 TFC: 0 MF: C14H8N4O3S
+CID: 40119
+
+269. Dexbudesonide; (22R)-Budesonide; UNII-2HI1006KPH ...
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 40000
+
+270. Salbutamol sulfate; ALBUTEROL SULFATE; Salbutamol hemisulfate ...
+MW: 576.702 g/mol HBDC: 10 HBAC: 12 TFC: 0 MF: C26H44N2O10S
+CID: 39859
+
+271. Zipeprol; Zipeprol [INN:DCF]; Zipeprolum [INN-Latin] ...
+MW: 384.520 g/mol HBDC: 1 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C23H32N2O3
+CID: 36910
+
+272. Respilene; ZIPEPROL DIHYDROCHLORIDE; Zitoxil ...
+MW: 457.436 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C23H34Cl2N2O3
+CID: 36909
+
+273. Hyoscyamine hydrochloride; NSC61808; Duboisene ...
+MW: 325.833 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C17H24ClNO3
+CID: 36634
+
+274. Bronalin; Delaprem; Etoscol ...
+MW: 518.578 g/mol HBDC: 8 HBAC: 10 TFC: 0 MF: C22H34N2O10S
+CID: 36094
+
+275. Sobrepin; Lysmucol; C10H18O2 ...
+MW: 170.252 g/mol HBDC: 2 HBAC: 2 XLogP: 0.7 TFC: 0 MF: C10H18O2
+CID: 36089
+
+276. Bitolterol; Bitolterolum; 30392-40-6 ...
+MW: 461.558 g/mol HBDC: 2 HBAC: 6 XLogP: 5.2 TFC: 0 MF: C28H31NO5
+CID: 35330
+
+277. BITOLTEROL MESYLATE; Bitolterol mesilate; Tornalate ...
+MW: 557.658 g/mol HBDC: 3 HBAC: 9 TFC: 0 MF: C29H35NO8S
+CID: 35329
+
+278. ALMITRINE; 27469-53-0; Almitrin ...
+MW: 477.564 g/mol HBDC: 2 HBAC: 9 XLogP: 5.6 TFC: 0 MF: C26H29F2N7
+CID: 33887
+
+279. Terbutaline sulphate; Bricanyl Turbuhaler; Terbutaline sulfate ...
+MW: 548.648 g/mol HBDC: 8 HBAC: 10 TFC: 0 MF: C24H40N2O10S
+CID: 31620
+
+280. ipratropium bromide; Atrovent; Itrop ...
+MW: 412.368 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C20H30BrNO3
+CID: 31098
+
+281. mecysteine; Cysteine methyl ester; Methyl Cysteine ...
+MW: 135.181 g/mol HBDC: 2 HBAC: 4 XLogP: -0.5 TFC: 0 MF: C4H9NO2S
+CID: 29145
+
+282. Chistait; Jeorgen; Pectite ...
+MW: 171.639 g/mol HBDC: 2 HBAC: 4 TFC: 0 MF: C4H10ClNO2S
+CID: 29144
+
+283. (+-)-Trimethoquinol; Tretoquinol dl-form hydrochloride; (+-)-Trimetoquinol hydrochloride ...
+MW: 381.853 g/mol HBDC: 3 HBAC: 6 TFC: 0 MF: C19H24ClNO5
+CID: 29138
+
+284. Trimetoquinol; Trimethoquinol; Inolin ...
+MW: 381.853 g/mol HBDC: 4 HBAC: 6 TFC: 0 MF: C19H24ClNO5
+CID: 29137
+
+285. Etamiphylline; Etamiphyllin; Etaminophylline ...
+MW: 279.344 g/mol HBDC: 0 HBAC: 4 XLogP: 0.3 TFC: 0 MF: C13H21N5O2
+CID: 28329
+
+286. Etamiphyllin hydrochloride; 17140-68-0; Etamiphylline hydrochloride ...
+MW: 315.802 g/mol HBDC: 1 HBAC: 4 TFC: 0 MF: C13H22ClN5O2
+CID: 28328
+
+287. CROMOLYN SODIUM; 15826-37-6; Sodium cromoglycate ...
+MW: 512.334 g/mol HBDC: 1 HBAC: 11 TFC: 0 MF: C23H14Na2O11
+CID: 27503
+
+288. Clobutinol; Clobutinol [INN]; 14860-49-2 ...
+MW: 255.786 g/mol HBDC: 1 HBAC: 2 XLogP: 3.2 TFC: 0 MF: C14H22ClNO
+CID: 26937
+
+289. Norephedrine; phenylpropanolamine; Rhindecon ...
+MW: 151.209 g/mol HBDC: 2 HBAC: 2 XLogP: 0.8 TFC: 0 MF: C9H13NO
+CID: 26934
+
+290. Reproterol; 54063-54-6; Reproterol [INN:BAN] ...
+MW: 389.412 g/mol HBDC: 4 HBAC: 7 XLogP: -0.5 TFC: 0 MF: C18H23N5O5
+CID: 25654
+
+291. Sellaite; Afluon; Magnesium fluoride (MgF2) ...
+MW: 62.302 g/mol HBDC: 0 HBAC: 2 TFC: 0 MF: F2Mg
+CID: 24546
+
+292. Isoetharine mesylate salt; ISOETHARINE MESYLATE; 7279-75-6 ...
+MW: 335.415 g/mol HBDC: 5 HBAC: 7 TFC: 0 MF: C14H25NO6S
+CID: 23702
+
+293. clorprenaline hydrochloride; 6933-90-0; 1-(2-Chlorophenyl)-2-(isopropylamino)ethanol hydrochloride ...
+MW: 250.163 g/mol HBDC: 3 HBAC: 2 TFC: 0 MF: C11H17Cl2NO
+CID: 23360
+
+294. Pipazethate; Pipazetate; Theratuss ...
+MW: 399.509 g/mol HBDC: 0 HBAC: 6 XLogP: 3.4 TFC: 0 MF: C21H25N3O3S
+CID: 22425
+
+295. Selvigon; PIPAZETHATE HYDROCHLORIDE; Pipazetate hydrochloride ...
+MW: 435.967 g/mol HBDC: 1 HBAC: 6 TFC: 0 MF: C21H26ClN3O3S
+CID: 22424
+
+296. 5714-80-7; methyl 2-amino-3-mercaptopropanoate hydrochloride; Mecysteine hydrochloride ...
+MW: 171.639 g/mol HBDC: 3 HBAC: 4 TFC: 0 MF: C4H10ClNO2S
+CID: 21951
+
+297. AMBUPHYLLINE; Bufylline; 5634-34-4 ...
+MW: 269.305 g/mol HBDC: 3 HBAC: 5 TFC: 0 MF: C11H19N5O3
+CID: 21850
+
+298. BECLOMETHASONE DIPROPIONATE; Beclometasone dipropionate; Beconase ...
+MW: 521.047 g/mol HBDC: 1 HBAC: 7 XLogP: 3 TFC: 0 MF: C28H37ClO7
+CID: 21700
+
+299. Cholinophyllin; Cholinophylline; Oxtrimethylline ...
+MW: 284.340 g/mol HBDC: 2 HBAC: 4 TFC: 1 MF: C12H22N5O3+
+CID: 20585
+
+300. beclomethasone; Beclometasone; 4419-39-0 ...
+MW: 408.919 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C22H29ClO5
+CID: 20469
+
+301. Acetosyringone; 2478-38-8; 3',5'-Dimethoxy-4'-hydroxyacetophenone ...
+MW: 196.202 g/mol HBDC: 1 HBAC: 4 XLogP: 0.2 TFC: 0 MF: C10H12O4
+CID: 17198
+
+302. Atropine sulfate; Sulfatropinol; Tropintran ...
+MW: 387.447 g/mol HBDC: 3 HBAC: 8 TFC: 0 MF: C17H25NO7S
+CID: 17184
+
+303. TERPIN HYDRATE; 2451-01-6; Terpin (hydrate) ...
+MW: 190.283 g/mol HBDC: 3 HBAC: 3 TFC: 0 MF: C10H22O3
+CID: 17141
+
+304. Glaucine; d-Glaucine; 475-81-0 ...
+MW: 355.434 g/mol HBDC: 0 HBAC: 5 XLogP: 3.4 TFC: 0 MF: C21H25NO4
+CID: 16754
+
+305. BAMIFYLLINE; 2016-63-9; Bamiphylline ...
+MW: 385.468 g/mol HBDC: 1 HBAC: 5 XLogP: 1.2 TFC: 0 MF: C20H27N5O3
+CID: 16229
+
+306. Methadone hydrochloride; Algolysin; Depridol ...
+MW: 345.911 g/mol HBDC: 1 HBAC: 2 TFC: 0 MF: C21H28ClNO
+CID: 14184
+
+307. Oxolamine; 959-14-8; Broncatar ...
+MW: 245.326 g/mol HBDC: 0 HBAC: 4 XLogP: 2.9 TFC: 0 MF: C14H19N3O
+CID: 13738
+
+308. Potassium citrate; TRIPOTASSIUM CITRATE; 866-84-2 ...
+MW: 306.394 g/mol HBDC: 1 HBAC: 7 TFC: 0 MF: C6H5K3O7
+CID: 13344
+
+309. N-Acetyl-L-cysteine; acetylcysteine; N-Acetylcysteine ...
+MW: 163.191 g/mol HBDC: 3 HBAC: 4 XLogP: 0.4 TFC: 0 MF: C5H9NO3S
+CID: 12035
+
+310. NAPHAZOLINE HYDROCHLORIDE; 550-99-2; Albalon ...
+MW: 246.738 g/mol HBDC: 2 HBAC: 1 TFC: 0 MF: C14H15ClN2
+CID: 11079
+
+311. Tetrahydrozoline hydrochloride; 522-48-5; Tetrahydrozoline HCl ...
+MW: 236.743 g/mol HBDC: 2 HBAC: 1 TFC: 0 MF: C13H17ClN2
+CID: 10648
+
+312. (-)-Norephedrine; l-Norephedrine; Mydriatin ...
+MW: 151.209 g/mol HBDC: 2 HBAC: 2 XLogP: 0.8 TFC: 0 MF: C9H13NO
+CID: 10297
+
+313. Amiphenazole; Amiphenazol; Amifenazol ...
+MW: 191.252 g/mol HBDC: 2 HBAC: 4 XLogP: 1.9 TFC: 0 MF: C9H9N3S
+CID: 10275
+
+314. Normethadone; Phenyldimazone; Desmethylmethadone ...
+MW: 295.426 g/mol HBDC: 0 HBAC: 2 XLogP: 3.5 TFC: 0 MF: C20H25NO
+CID: 10090
+
+315. betamethasone; 378-44-9; Betadexamethasone ...
+MW: 392.467 g/mol HBDC: 3 HBAC: 6 XLogP: 1.9 TFC: 0 MF: C22H29FO5
+CID: 9782
+
+316. PSEUDOEPHEDRINE HYDROCHLORIDE; Pseudoephedrine Hcl; Tussaphed ...
+MW: 201.694 g/mol HBDC: 3 HBAC: 2 TFC: 0 MF: C10H16ClNO
+CID: 9581
+
+317. aminophylline; 317-34-0; Aminophyllin ...
+MW: 420.434 g/mol HBDC: 4 HBAC: 8 TFC: 0 MF: C16H24N10O4
+CID: 9433
+
+318. Norephedrine HCl; PHENYLPROPANOLAMINE HYDROCHLORIDE; Phenylpropanolamine HCl ...
+MW: 187.667 g/mol HBDC: 3 HBAC: 2 TFC: 0 MF: C9H14ClNO
+CID: 9065
+
+319. Isoprenaline sulphate; 299-95-6; Isoprenaline sulfate ...
+MW: 520.594 g/mol HBDC: 10 HBAC: 12 TFC: 0 MF: C22H36N2O10S
+CID: 8239
+
+320. Benzonatate; Benzononatine; Tessalon ...
+MW: 603.750 g/mol HBDC: 1 HBAC: 12 XLogP: 2.4 TFC: 0 MF: C30H53NO11
+CID: 7699
+
+321. Synephrine; Oxedrine; p-Synephrine ...
+MW: 167.208 g/mol HBDC: 3 HBAC: 3 XLogP: -0.6 TFC: 0 MF: C9H13NO2
+CID: 7172
+
+322. PSEUDOEPHEDRINE; (+)-Pseudoephedrine; Isoephedrine ...
+MW: 165.236 g/mol HBDC: 2 HBAC: 2 XLogP: 0.9 TFC: 0 MF: C10H15NO
+CID: 7028
+
+323. TERPIN; trans-Terpin; p-Menthane-1,8-diol ...
+MW: 172.268 g/mol HBDC: 2 HBAC: 2 XLogP: 1.2 TFC: 0 MF: C10H20O2
+CID: 6651
+
+324. Isoaminile; Aprecon; Isoaminil ...
+MW: 244.382 g/mol HBDC: 0 HBAC: 2 XLogP: 3.6 TFC: 0 MF: C16H24N2
+CID: 6481
+
+325. DIPHEMANIL METHYLSULFATE; Diphemanil; 62-97-5 ...
+MW: 389.510 g/mol HBDC: 0 HBAC: 4 TFC: 0 MF: C21H27NO4S
+CID: 6126
+
+326. Methacholine chloride; 62-51-1; Acetyl-beta-methylcholine chloride ...
+MW: 195.687 g/mol HBDC: 0 HBAC: 3 TFC: 0 MF: C8H18ClNO2
+CID: 6114
+
+327. phenylephrine; L-Phenylephrine; 59-42-7 ...
+MW: 167.208 g/mol HBDC: 3 HBAC: 3 XLogP: -0.3 TFC: 0 MF: C9H13NO2
+CID: 6041
+
+328. Atropine sulfate; Sulfatropinol; Tropintran ...
+MW: 676.822 g/mol HBDC: 4 HBAC: 12 TFC: 0 MF: C34H48N2O10S
+CID: 5927
+
+329. 329-63-5; DL-ADRENALINE HYDROCHLORIDE; 4-(1-Hydroxy-2-(methylamino)ethyl)benzene-1,2-diol hydrochloride ...
+MW: 219.665 g/mol HBDC: 5 HBAC: 4 TFC: 0 MF: C9H14ClNO3
+CID: 5924
+
+330. epinephrine; adrenaline; l-Adrenaline ...
+MW: 183.207 g/mol HBDC: 4 HBAC: 4 XLogP: -1.4 TFC: 0 MF: C9H13NO3
+CID: 5816
+
+331. Epinephrine bitartrate; 51-42-3; Epinephrine acid tartrate ...
+MW: 333.293 g/mol HBDC: 8 HBAC: 10 TFC: 0 MF: C13H19NO9
+CID: 5815
+
+332. Isoprenaline hydrochloride; 51-30-9; ISOPROTERENOL HYDROCHLORIDE ...
+MW: 247.719 g/mol HBDC: 5 HBAC: 4 TFC: 0 MF: C11H18ClNO3
+CID: 5807
+
+333. zardaverine; 101975-10-4; Zardaverina ...
+MW: 268.220 g/mol HBDC: 1 HBAC: 6 XLogP: 2.2 TFC: 0 MF: C12H10F2N2O3
+CID: 5723
+
+334. zafirlukast; 107753-78-6; Accolate ...
+MW: 575.680 g/mol HBDC: 2 HBAC: 6 XLogP: 5.5 TFC: 0 MF: C31H33N3O6S
+CID: 5717
+
+335. xylometazoline; Xylomethazoline; Otrivine ...
+MW: 244.382 g/mol HBDC: 1 HBAC: 1 XLogP: 3.2 TFC: 0 MF: C16H24N2
+CID: 5709
+
+336. u-83836e; 122003-11-6; AC1L1KRK ...
+MW: 520.722 g/mol HBDC: 1 HBAC: 8 XLogP: 5.4 TFC: 0 MF: C30H44N6O2
+CID: 5624
+
+337. tulobuterol; 41570-61-0; 2-(tert-Butylamino)-1-(2-chlorophenyl)ethanol ...
+MW: 227.732 g/mol HBDC: 2 HBAC: 2 XLogP: 2.3 TFC: 0 MF: C12H18ClNO
+CID: 5606
+
+338. Inolin; CHEMBL299175; 1-[(3,4,5-trimethoxyphenyl)methyl]-1,2,3,4-tetrahydroisoquinoline-6,7-diol ...
+MW: 345.395 g/mol HBDC: 3 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C19H23NO5
+CID: 5581
+
+339. TIARAMIDE; tialamide; 32527-55-2 ...
+MW: 355.837 g/mol HBDC: 1 HBAC: 5 XLogP: 1 TFC: 0 MF: C15H18ClN3O3S
+CID: 5469
+
+340. theobromine; 83-67-0; 3,7-Dimethylxanthine ...
+MW: 180.167 g/mol HBDC: 1 HBAC: 3 XLogP: -0.8 TFC: 0 MF: C7H8N4O2
+CID: 5429
+
+341. Tetryzoline; tetrahydrozoline; Tetryzolin ...
+MW: 200.285 g/mol HBDC: 1 HBAC: 1 XLogP: 1.8 TFC: 0 MF: C13H16N2
+CID: 5419
+
+342. terbutaline; Terbutalin; 23031-25-6 ...
+MW: 225.288 g/mol HBDC: 4 HBAC: 4 XLogP: 0.9 TFC: 0 MF: C12H19NO3
+CID: 5403
+
+343. Salmeterol; 89365-50-4; Serevent ...
+MW: 415.574 g/mol HBDC: 4 HBAC: 5 XLogP: 3.9 TFC: 0 MF: C25H37NO4
+CID: 5152
+
+344. proxyphylline; 603-00-9; Proxiphylline ...
+MW: 238.247 g/mol HBDC: 1 HBAC: 4 XLogP: -0.8 TFC: 0 MF: C10H14N4O3
+CID: 4977
+
+345. PROCATEROL; Meptin; Procaterolo [DCIT] ...
+MW: 290.363 g/mol HBDC: 4 HBAC: 4 XLogP: 1.5 TFC: 0 MF: C16H22N2O3
+CID: 4916
+
+346. Pranlukast; 103177-37-3; Azlaire ...
+MW: 481.512 g/mol HBDC: 2 HBAC: 7 XLogP: 4.2 TFC: 0 MF: C27H23N5O4
+CID: 4887
+
+347. PIRBUTEROL; Maxair; pyrbuterol ...
+MW: 240.303 g/mol HBDC: 4 HBAC: 5 XLogP: -0.1 TFC: 0 MF: C12H20N2O3
+CID: 4845
+
+348. phenylpropanolamine; 2-Amino-1-phenyl-1-propanol; (1S,2R)-(+)-Norephedrine ...
+MW: 151.209 g/mol HBDC: 2 HBAC: 2 XLogP: 0.8 TFC: 0 MF: C9H13NO
+CID: 4786
+
+349. oxymetazoline; Oxymethazoline; Oximetazolinum ...
+MW: 260.381 g/mol HBDC: 2 HBAC: 2 XLogP: 2.9 TFC: 0 MF: C16H24N2O
+CID: 4636
+
+350. Oxeladin; Oxeladina; Oxeladine ...
+MW: 335.488 g/mol HBDC: 0 HBAC: 4 XLogP: 4 TFC: 0 MF: C20H33NO3
+CID: 4619
+
+351. oxatomide; 60607-34-3; Tinset ...
+MW: 426.564 g/mol HBDC: 1 HBAC: 3 XLogP: 4.1 TFC: 0 MF: C27H30N4O
+CID: 4615
+
+352. NARCOTINE; Gnoscopine; dl-Narcotine ...
+MW: 413.426 g/mol HBDC: 0 HBAC: 8 XLogP: 2.7 TFC: 0 MF: C22H23NO7
+CID: 4544
+
+353. naphazoline; 835-31-4; 2-(naphthalen-1-ylmethyl)-4,5-dihydro-1H-imidazole ...
+MW: 210.280 g/mol HBDC: 1 HBAC: 1 XLogP: 2.1 TFC: 0 MF: C14H14N2
+CID: 4436
+
+354. methadone; dl-Methadone; Dolophine ...
+MW: 309.453 g/mol HBDC: 0 HBAC: 2 XLogP: 3.9 TFC: 0 MF: C21H27NO
+CID: 4095
+
+355. metaproterenol; ORCIPRENALINE; Alupent ...
+MW: 211.261 g/mol HBDC: 4 HBAC: 4 XLogP: 0.7 TFC: 0 MF: C11H17NO3
+CID: 4086
+
+356. Methyl 2-amino-3-sulfanylpropanoate; 44641-43-2; Methyl DL-cysteinate ...
+MW: 135.181 g/mol HBDC: 2 HBAC: 4 XLogP: -0.5 TFC: 0 MF: C4H9NO2S
+CID: 4040
+
+357. Mabuterol; 56341-08-3; Mabuterol [INN] ...
+MW: 310.745 g/mol HBDC: 3 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C13H18ClF3N2O
+CID: 3995
+
+358. lobeline; Inflatine; Lobelin ...
+MW: 337.463 g/mol HBDC: 1 HBAC: 3 XLogP: 3.8 TFC: 0 MF: C22H27NO2
+CID: 3945
+
+359. khellin; 82-02-0; Visammin ...
+MW: 260.245 g/mol HBDC: 0 HBAC: 5 XLogP: 2.3 TFC: 0 MF: C14H12O5
+CID: 3828
+
+360. isoproterenol; Isoprenaline; Isoprenalin ...
+MW: 211.261 g/mol HBDC: 4 HBAC: 4 XLogP: -0.6 TFC: 0 MF: C11H17NO3
+CID: 3779
+
+361. isoetharine; Isoetarine; Isoetarin ...
+MW: 239.315 g/mol HBDC: 4 HBAC: 4 XLogP: 1.7 TFC: 0 MF: C13H21NO3
+CID: 3762
+
+362. ipratropium; Aerovent; Apovent ...
+MW: 332.464 g/mol HBDC: 1 HBAC: 3 XLogP: 2.6 TFC: 1 MF: C20H30NO3+
+CID: 3746
+
+363. ibudilast; 50847-11-5; Ketas ...
+MW: 230.311 g/mol HBDC: 0 HBAC: 2 XLogP: 3 TFC: 0 MF: C14H18N2O
+CID: 3671
+
+364. L-Hyoscyamine; hyoscyamine; Daturine ...
+MW: 289.375 g/mol HBDC: 1 HBAC: 4 XLogP: 1.8 TFC: 0 MF: C17H23NO3
+CID: 3661
+
+365. HEXOPRENALINE; 3215-70-1; Ipradol ...
+MW: 420.506 g/mol HBDC: 8 HBAC: 8 XLogP: 1.1 TFC: 0 MF: C22H32N2O6
+CID: 3609
+
+366. guaifenesin; 93-14-1; Guaiphenesin ...
+MW: 198.218 g/mol HBDC: 2 HBAC: 4 XLogP: 1.4 TFC: 0 MF: C10H14O4
+CID: 3516
+
+367. formoterol; eformoterol; Formoterolum ...
+MW: 344.411 g/mol HBDC: 4 HBAC: 5 XLogP: 1.8 TFC: 0 MF: C19H24N2O4
+CID: 3410
+
+368. FOMINOBEN; 18053-31-1; UNII-TJ2KK6NYJS ...
+MW: 401.891 g/mol HBDC: 1 HBAC: 4 XLogP: 2.4 TFC: 0 MF: C21H24ClN3O3
+CID: 3407
+
+369. Nisolid; Soluzione; Aerobid M ...
+MW: 434.504 g/mol HBDC: 2 HBAC: 7 XLogP: 2.5 TFC: 0 MF: C24H31FO6
+CID: 3379
+
+370. fenspiride; 5053-06-5; Fenspirid ...
+MW: 260.337 g/mol HBDC: 1 HBAC: 3 XLogP: 2.1 TFC: 0 MF: C15H20N2O2
+CID: 3344
+
+371. fenoterol; Phenoterol; Fenoterolum ...
+MW: 303.358 g/mol HBDC: 5 HBAC: 5 XLogP: 2 TFC: 0 MF: C17H21NO4
+CID: 3343
+
+372. Eprazinone; 10402-90-1; 3-(4-(2-Ethoxy-2-phenylethyl)piperazin-1-yl)-2-methyl-1-phenylpropan-1-one ...
+MW: 380.532 g/mol HBDC: 0 HBAC: 4 XLogP: 3.7 TFC: 0 MF: C24H32N2O2
+CID: 3245
+
+373. dyphylline; Diprophylline; 479-18-5 ...
+MW: 254.246 g/mol HBDC: 2 HBAC: 5 XLogP: -1.8 TFC: 0 MF: C10H14N4O4
+CID: 3182
+
+374. dropropizine; 17692-31-8; 3-(4-phenylpiperazin-1-yl)propane-1,2-diol ...
+MW: 236.315 g/mol HBDC: 2 HBAC: 4 XLogP: 0.6 TFC: 0 MF: C13H20N2O2
+CID: 3169
+
+375. doxapram; 309-29-5; Dopram ...
+MW: 378.516 g/mol HBDC: 0 HBAC: 3 XLogP: 3.3 TFC: 0 MF: C24H30N2O2
+CID: 3156
+
+376. dextromethorphan; Levomethorphan; CHEMBL22207 ...
+MW: 271.404 g/mol HBDC: 0 HBAC: 2 XLogP: 3.4 TFC: 0 MF: C18H25NO
+CID: 3008
+
+377. cromolyn; Cromoglicic acid; 16110-51-3 ...
+MW: 468.370 g/mol HBDC: 3 HBAC: 11 XLogP: 1.9 TFC: 0 MF: C23H16O11
+CID: 2882
+
+378. CLORPRENALINE; 3811-25-4; isoprofenamine ...
+MW: 213.705 g/mol HBDC: 2 HBAC: 2 XLogP: 2.1 TFC: 0 MF: C11H16ClNO
+CID: 2810
+
+379. clenbuterol; Planipart; 37148-27-9 ...
+MW: 277.189 g/mol HBDC: 3 HBAC: 3 XLogP: 2.2 TFC: 0 MF: C12H18Cl2N2O
+CID: 2783
+
+380. cirazoline; Cirazoline [INN]; 59939-16-1 ...
+MW: 216.284 g/mol HBDC: 1 HBAC: 2 XLogP: 1.8 TFC: 0 MF: C13H16N2O
+CID: 2765
+
+381. cilostazol; 73963-72-1; Pletal ...
+MW: 369.469 g/mol HBDC: 1 HBAC: 5 XLogP: 3.1 TFC: 0 MF: C20H27N5O2
+CID: 2754
+
+382. carbetapentane; Pentoxyverine; 77-23-6 ...
+MW: 333.472 g/mol HBDC: 0 HBAC: 4 XLogP: 3.8 TFC: 0 MF: C20H31NO3
+CID: 2562
+
+383. Torbugesic; L-3,14-dihydroxy-N-(cyclobutylmethyl)morphinan; AC1L1DSH ...
+MW: 327.468 g/mol HBDC: 2 HBAC: 3 XLogP: 3.8 TFC: 0 MF: C21H29NO2
+CID: 2487
+
+384. (R)-Budesonide; 5-hydroxy-6b-(hydroxyacetyl)-4a,6a-dimethyl-8-propyl-4a,4b,5,6,6a,6b,9a,10,10a,10b,11,12-dodecahydro-2H-naphtho[2',1':4,5]indeno[1,2-d][1,3]dioxol-2-one; 51333-22-3 ...
+MW: 430.541 g/mol HBDC: 2 HBAC: 6 XLogP: 2.5 TFC: 0 MF: C25H34O6
+CID: 2462
+
+385. SERATRODAST; 112665-43-7; Bronica ...
+MW: 354.446 g/mol HBDC: 1 HBAC: 4 XLogP: 4.4 TFC: 0 MF: C22H26O4
+CID: 2449
+
+386. bromhexine; 3572-43-8; Bromhexinum ...
+MW: 376.136 g/mol HBDC: 1 HBAC: 2 XLogP: 4.3 TFC: 0 MF: C14H20Br2N2
+CID: 2442
+
+387. bemegride; 64-65-3; 3-Ethyl-3-methylglutarimide ...
+MW: 155.197 g/mol HBDC: 1 HBAC: 2 XLogP: 0.7 TFC: 0 MF: C8H13NO2
+CID: 2310
+
+388. beclomethasone; Pregna-1,4-diene-3,20-dione, 9-chloro-11,17,21-trihydroxy-16-methyl-, (11.beta.,16.beta.)-; AC1L1DDX ...
+MW: 408.919 g/mol HBDC: 3 HBAC: 5 XLogP: 2.2 TFC: 0 MF: C22H29ClO5
+CID: 2308
+
+389. Aldecin; Qvar; Beconase AQ ...
+MW: 521.047 g/mol HBDC: 1 HBAC: 7 XLogP: 3 TFC: 0 MF: C28H37ClO7
+CID: 2307
+
+390. azelastine; 58581-89-8; Azelastina ...
+MW: 381.904 g/mol HBDC: 0 HBAC: 3 XLogP: 4.4 TFC: 0 MF: C22H24ClN3O
+CID: 2267
+
+391. theophylline; 58-55-9; 1,3-Dimethylxanthine ...
+MW: 180.167 g/mol HBDC: 1 HBAC: 3 XLogP: 0 TFC: 0 MF: C7H8N4O2
+CID: 2153
+
+392. ambroxol; 18683-91-5; 107814-37-9 ...
+MW: 378.108 g/mol HBDC: 3 HBAC: 3 XLogP: 2.6 TFC: 0 MF: C13H18Br2N2O
+CID: 2132
+
+393. Salbutamol; albuterol; 18559-94-9 ...
+MW: 239.315 g/mol HBDC: 4 HBAC: 4 XLogP: 0.3 TFC: 0 MF: C13H21NO3
+CID: 2083
+
+394. methacholine; Acetylmethylcholine; Mecholin ...
+MW: 160.237 g/mol HBDC: 0 HBAC: 2 XLogP: 0.6 TFC: 1 MF: C8H18NO2+
+CID: 1993
+
+395. ETOFYLLINE; 519-37-9; 7-(2-Hydroxyethyl)theophylline ...
+MW: 224.220 g/mol HBDC: 1 HBAC: 4 XLogP: -1.2 TFC: 0 MF: C9H12N4O3
+CID: 1892
+
+396. ENPROFYLLINE; 3-Propylxanthine; 3-n-Propylxanthine ...
+MW: 194.194 g/mol HBDC: 2 HBAC: 3 XLogP: 0.3 TFC: 0 MF: C8H10N4O2
+CID: 1676
+
+397. carbocysteine; S-(Carboxymethyl)cysteine; Broncodeterge ...
+MW: 179.190 g/mol HBDC: 3 HBAC: 6 XLogP: -3.1 TFC: 0 MF: C5H9NO4S
+CID: 1080
+
+398. DL-Adrenaline; 329-65-7; Racepinephrine ...
+MW: 183.207 g/mol HBDC: 4 HBAC: 4 XLogP: -1.4 TFC: 0 MF: C9H13NO3
+CID: 838
