@@ -1,4 +1,4 @@
-# Code and Data to accompany
+### Code and data to accompany:
 # "Learning Molecule Drug Function from Structure Representations and Deep Neural Networks or Random Forests"
 
 ### Models
