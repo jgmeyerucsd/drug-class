@@ -7,11 +7,28 @@ The folder 'MFP_RF' contains the code for the molecular fingerprint + random for
 
 ### Datasets
 
-All the data is available from the 'data' folder, including the raw lists downloaded from pubchem (data/frompubchem/), the SMILES strings by class (data/SMILES/), the pictures in folders organized by class (data/pics/), and the csv files containing the pngpath, class, and SMILES string (data/pics/12cls_rmsaltol.csv, data/pics/5cls_rmsaltol.csv, data/pics/3cls_rmsaltol.csv). 
+All the data is available from the 'data' folder, including:
+1. Raw lists downloaded from pubchem (data/frompubchem/), 
+2. SMILES strings by class (data/SMILES/)
+3. Pictures organized in folders by class (data/pics/)
+
+
+##### For the IMG+CNN models
+Files containing the examples (path to png and SMILES string) and their class annotation are in data/pics/ 
+1. data/pics/12cls_rmsaltol.csv
+2. data/pics/5cls_rmsaltol.csv
+3. data/pics/3cls_rmsaltol.csv
+
+##### For the MFP+RF models
+The file containing molecular fingerprints is: data/fingerprints_12cls.csv
+
 
 ### Validation sets
 
-The indexes of validation lines for the 5 validation sets in the above-mentioned example/class list files are in the same folder and named 12cls_val_ids[0-4].csv, 5cls_val_ids[0-4].csv, and 3cls_val_ids[0-4].csv.
+The indexes of validation lines for the 5 validation sets in the above-mentioned example/class list files are in the same folder and named by the subtask:
+1. 12cls_val_ids[0-4].csv
+2. 5cls_val_ids[0-4].csv
+3. 3cls_val_ids[0-4].csv
 
 
 
