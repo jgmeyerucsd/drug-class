@@ -14,8 +14,7 @@ oracle = {
 
 
 def load_index(number_of_class=3, idx=1):
-    filepath = '../data_no_overlap/pics/{}cls_val_ids{}.csv'.format(number_of_class, idx)
-    filepath = '../data_rmsalt_rmol/pics/{}cls_val_ids{}.csv'.format(number_of_class, idx)
+    filepath = '../data/pics/{}cls_val_ids{}.csv'.format(number_of_class, idx)
     idx_list = []
     with open(filepath, 'r') as f:
         lines = f.readlines()
@@ -26,8 +25,7 @@ def load_index(number_of_class=3, idx=1):
 
 
 def index2smiles(idx_list, number_of_class=3):
-    filepath = '../data_no_overlap/pics/{}labels_rmOL_sorted_SMILES.csv'.format(number_of_class)
-    filepath = '../data_rmsalt_rmol/pics/{}cls_rmsaltol.csv'.format(number_of_class)
+    filepath = '../data/pics/{}cls_rmsaltol.csv'.format(number_of_class)
     with open(filepath, 'r') as f:
         lines = f.readlines()
     lines = np.array(lines[1:])
@@ -112,11 +110,11 @@ if __name__ == '__main__':
             idx_list = load_index(n, idx)
             [train_smiles_list, train_label_list], [test_smiles_list, test_label_list] = index2smiles(idx_list, n)
             print(len(train_smiles_list), '\t', len(test_smiles_list))
-    print
+    print()
 
     # Put Fingerprints into csv files
     for n in [3, 5, 12]:
-        with open('../data_rmsalt_rmol/pics/{}cls_rmsaltol.csv'.format(n), 'r') as f:
+        with open('../data/pics/{}cls_rmsaltol.csv'.format(n), 'r') as f:
             lines = f.readlines()
         lines = lines[1:]
         idx = range(len(lines))
@@ -127,7 +125,7 @@ if __name__ == '__main__':
             fps_list.append(''.join(fps_array[i]))
         print(len(fps_list), '\t', len(label_list))
         df = pd.DataFrame({'Fingerprints': fps_list, 'label': label_list})
-        df.to_csv('../data_rmsalt_rmol/fingerprints_{}cls.csv.gz'.format(n), index=None, compression='gzip')
+        df.to_csv('../data/fingerprints_{}cls.csv.gz'.format(n), index=None, compression='gzip')
 
     # check if two files match
     n = 12
