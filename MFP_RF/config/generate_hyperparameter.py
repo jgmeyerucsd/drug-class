@@ -11,8 +11,7 @@ def generate_hyperparameter_for_random_forest():
         'enrichment_factor': {
             'ratio_list': [0.02, 0.01, 0.0015, 0.001]
         },
-        'random_seed': 1337,
-        'label_name_list': ['PriA-SSB AS Activity']
+        'random_seed': 1337
     }
 
     hyperparameter_sets = {
