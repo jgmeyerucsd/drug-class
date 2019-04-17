@@ -33,9 +33,6 @@ if __name__ == '__main__':
                 record[test_id][hyper_id] = []
 
         for hyper_id in range(216):
-            # TODO: debugging
-            if hyper_id in [187]:
-                continue
             for idx in range(20):
                 test_id = idx / 4
                 val_id = idx % 4 + (idx % 4 >= test_id)
