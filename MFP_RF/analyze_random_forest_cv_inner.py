@@ -36,7 +36,7 @@ if __name__ == '__main__':
             for idx in range(20):
                 test_id = idx / 4
                 val_id = idx % 4 + (idx % 4 >= test_id)
-                file_path = 'output_fingerprints/num_class_{}_id_{}_index_{}.out'.format(class_num, hyper_id, idx)
+                file_path = 'output_fingerprints_cv/num_class_{}_id_{}_index_{}.out'.format(class_num, hyper_id, idx)
                 train_acc, val_acc, test_acc = extract(file_path)
                 record[test_id][hyper_id].append(val_acc)
 
