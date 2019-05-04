@@ -37,18 +37,24 @@ class RandomForestClassification:
                                        verbose=1)
         return model
 
-    def train_and_predict(self, x_train, y_train, x_test, y_test, weight_file):
+    def train_and_predict(self, x_train, y_train, x_val, y_val, x_test, y_test, weight_file):
         model = self.setup_model()
         model.fit(x_train, y_train)
 
         y_pred_on_train = reshape_data_into_2_dim(model.predict(x_train))
+
+        if x_val is not None:
+            y_pred_on_val = reshape_data_into_2_dim(model.predict(x_val))
+        else:
+            y_pred_on_val = None
+
         if x_test is not None:
             y_pred_on_test = reshape_data_into_2_dim(model.predict(x_test))
         else:
             y_pred_on_test = None
 
         output_classification_result(y_train=y_train, y_pred_on_train=y_pred_on_train,
-                                     y_val=None, y_pred_on_val=None,
+                                     y_val=y_val, y_pred_on_val=y_pred_on_val,
                                      y_test=y_test, y_pred_on_test=y_pred_on_test)
         np.savez('output_{}/num_class_{}_index_{}'.format(mode, number_of_class, index),
                  y_train=y_train, y_pred_on_train=y_pred_on_train,
@@ -63,17 +69,23 @@ class RandomForestClassification:
         y_pred = reshape_data_into_2_dim(model.predict_proba(X_data)[:, 1])
         return y_pred
 
-    def eval_with_existing(self, x_train, y_train, x_test, y_test, weight_file):
+    def eval_with_existing(self, x_train, y_train, x_val, y_val, x_test, y_test, weight_file):
         model = self.load_model(weight_file)
 
         y_pred_on_train = reshape_data_into_2_dim(model.predict(x_train))
+
+        if x_val is not None:
+            y_pred_on_val = reshape_data_into_2_dim(model.predict(x_val))
+        else:
+            y_pred_on_val = None
+
         if x_test is not None:
             y_pred_on_test = reshape_data_into_2_dim(model.predict(x_test))
         else:
             y_pred_on_test = None
 
         output_classification_result(y_train=y_train, y_pred_on_train=y_pred_on_train,
-                                     y_val=None, y_pred_on_val=None,
+                                     y_val=y_val, y_pred_on_val=y_pred_on_val,
                                      y_test=y_test, y_pred_on_test=y_pred_on_test)
 
         return
@@ -104,25 +116,20 @@ def demo_random_forest_classification():
     #     'random_seed': 1337
     # }
 
-    idx_list = load_index(number_of_class, index)
-    if mode == 'fingerprints':
-        [train_smiles_list, y_train], [test_smiles_list, y_test] = index2smiles(idx_list, number_of_class)
-        x_train, x_test = smiles2fps(train_smiles_list), smiles2fps(test_smiles_list)
-    elif mode == 'latent':
-        [x_train, y_train], [x_test, y_test] = index2latent(idx_list, number_of_class)
-    elif mode == 'latent_minus4':
-        [x_train, y_train], [x_test, y_test] = index2latent_minus4(idx_list, number_of_class)
-    else:
-        raise ValueError('Mode {} not included.'.format(mode))
+    val_idx_list, test_idx_list = load_index_valid(number_of_class, index)
+    [train_smiles_list, y_train], [val_smiles_list, y_val], [test_smiles_list, y_test] = index2smiles_valid(val_idx_list, test_idx_list, number_of_class)
+    x_train, x_val, x_test = smiles2fps(train_smiles_list), smiles2fps(val_smiles_list), smiles2fps(test_smiles_list)
     x_train, y_train = x_train.astype(float), y_train.astype(float)
+    x_val, y_val = x_val.astype(float), y_val.astype(float)
     x_test, y_test = x_test.astype(float), y_test.astype(float)
 
     print(x_train.shape, '\t', y_train.shape)
+    print(x_val.shape, '\t', y_val.shape)
     print(x_test.shape, '\t', y_test.shape)
 
     task = RandomForestClassification(conf=conf)
-    task.train_and_predict(x_train, y_train, x_test, y_test, weight_file)
-    task.eval_with_existing(x_train, y_train, x_test, y_test, weight_file)
+    task.train_and_predict(x_train, y_train, x_val, y_val, x_test, y_test, weight_file)
+    task.eval_with_existing(x_train, y_train, x_val, y_val, x_test, y_test, weight_file)
     return
 
 
