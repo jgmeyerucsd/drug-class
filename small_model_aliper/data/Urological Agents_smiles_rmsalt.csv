@@ -1,0 +1,9 @@
+COC(=O)[C@H]1[C@H]2C[C@@H]3c4[nH]c5cc(OC)ccc5c4CCN3C[C@H]2C[C@@H](OC(=O)/C=C/c2cc(OC)c(OC)c(OC)c2)[C@@H]1OC
+NC(=O)C(c1ccccc1)(c1ccccc1)[C@@H]1CCN(CCc2ccc3c(c2)CCO3)C1
+COc1cc2nc(N3CCN(C(=O)C4CCCO4)CC3)nc(N)c2cc1OC
+CC(C)(C)NC(=O)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4NC(=O)C=C[C@]4(C)[C@H]3CC[C@]12C
+CCOC(=O)Oc1c(OC)cc(C(=O)O[C@@H]2C[C@@H]3CN4CCc5c([nH]c6cc(OC)ccc56)[C@H]4C[C@@H]3[C@H](C(=O)OC)[C@H]2OC)cc1OC
+COc1ccc2c3c([nH]c2c1)[C@H]1C[C@H]2[C@H](C[C@@H](O)[C@H](OC)[C@H]2C(=O)O)CN1CC3
+COc1cc2nc(N(C)CCCNC(=O)C3CCCO3)nc(N)c2cc1OC
+COC(=O)[C@@H]1[C@@H](O)CC[C@H]2CN3CCc4c([nH]c5ccccc45)[C@@H]3C[C@H]12
+COC(=O)[C@H]1[C@@H](O)CC[C@H]2CN3CCc4c([nH]c5ccccc45)[C@@H]3C[C@@H]21
