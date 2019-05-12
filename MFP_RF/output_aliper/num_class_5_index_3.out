@@ -1,0 +1,15 @@
+loading from ../small_model_aliper/data
+(521, 1024) 	 (521,)
+(58, 1024) 	 (58,)
+train accuracy: 0.406909788868
+train balanced accuracy: 0.395843005511
+train matthews corrcoef: 0.231222472293
+test accuracy: 0.465517241379
+test balanced accuracy: 0.438183385242
+test matthews corrcoef: 0.324359628609
+train accuracy: 0.406909788868
+train balanced accuracy: 0.395843005511
+train matthews corrcoef: 0.231222472293
+test accuracy: 0.465517241379
+test balanced accuracy: 0.438183385242
+test matthews corrcoef: 0.324359628609

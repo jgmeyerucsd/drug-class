@@ -1,0 +1,15 @@
+loading from allsingleclass6955_stratkfoldsplits
+(5558, 1024) 	 (5558,)
+(1397, 1024) 	 (1397,)
+train accuracy: 0.446563512055
+train balanced accuracy: 0.541682376164
+train matthews corrcoef: 0.37289081949
+test accuracy: 0.420901932713
+test balanced accuracy: 0.453692415561
+test matthews corrcoef: 0.338980697941
+train accuracy: 0.446563512055
+train balanced accuracy: 0.541682376164
+train matthews corrcoef: 0.37289081949
+test accuracy: 0.420901932713
+test balanced accuracy: 0.453692415561
+test matthews corrcoef: 0.338980697941
