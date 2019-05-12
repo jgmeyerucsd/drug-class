@@ -50,7 +50,7 @@ class RandomForestClassification:
         output_classification_result(y_train=y_train, y_pred_on_train=y_pred_on_train,
                                      y_val=None, y_pred_on_val=None,
                                      y_test=y_test, y_pred_on_test=y_pred_on_test)
-        np.savez('output_allsingleclass/num_class_{}_index_{}'.format(number_of_class, index),
+        np.savez('output_aliper/num_class_{}_index_{}'.format(number_of_class, index),
                  y_train=y_train, y_pred_on_train=y_pred_on_train,
                  y_test=y_test, y_pred_on_test=y_pred_on_test)
 
@@ -88,7 +88,6 @@ class RandomForestClassification:
         model = joblib.load(weight_file)
         return model
 
-
 def load_index(number_of_class=3, idx=1):
     filepath = '../data/pics/{}cls_val_ids{}.csv'.format(number_of_class, idx)
     idx_list = []
@@ -101,12 +100,14 @@ def load_index(number_of_class=3, idx=1):
 
 
 def index2smiles(idx_list, number_of_class=3):
-    print('loading from allsingleclass6955_stratkfoldsplits')
-    filepath = '../data/allsingleclass6955_stratkfoldsplits/{}cls_rmsaltol.csv'.format(number_of_class)
+    print('loading from ../small_model_aliper/data')
+    filepath = '../small_model_aliper/data/{}cls_aliper.csv'.format(number_of_class)
     with open(filepath, 'r') as f:
         lines = f.readlines()
     lines = np.array(lines[1:])
+    print('{} lines in all'.format(len(lines)))
     idx_list = list(set(idx_list))
+    print(idx_list)
     train_idx_list = filter(lambda x:x not in idx_list, range(len(lines)))
     train_lines, test_lines = lines[train_idx_list], lines[idx_list]
     train_smiles_list, train_label_list = line_parser_smiles(train_lines, number_of_class)
