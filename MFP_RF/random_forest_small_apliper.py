@@ -89,7 +89,7 @@ class RandomForestClassification:
         return model
 
 def load_index(number_of_class=3, idx=1):
-    filepath = '../data/pics/{}cls_val_ids{}.csv'.format(number_of_class, idx)
+    filepath = '../small_model_aliper/data/{}cls_aliper_10fold{}.csv'.format(number_of_class, idx)
     idx_list = []
     with open(filepath, 'r') as f:
         lines = f.readlines()
@@ -97,6 +97,26 @@ def load_index(number_of_class=3, idx=1):
         idx = int(line)
         idx_list.append(idx)
     return idx_list
+
+
+oracle = {
+    3: ['Antineoplastic Agents', 'Cardiovascular Agents', 'Central Nervous System Agents'],
+    5: ['Gastrointestinal Agents', 'Cardiovascular Agents', 'Antineoplastic Agents', 'Anti Infective Agents', 'Central Nervous System Agents'],
+    12: ['Hematologic Agents', 'Cardiovascular Agents', 'Reproductive Control Agents', 'Anti Inflammatory Agents', 'Dermatologic Agents', 'Urological Agents', 'Respiratory System Agents', 'Anti Infective Agents', 'Gastrointestinal Agents', 'Central Nervous System Agents', 'Antineoplastic Agents', 'Lipid Regulating Agents']
+}
+
+
+def line_parser_smiles(lines, number_of_class):
+    smiles_list, label_list = [], []
+    for line in lines:
+        line = line.strip().split(',')
+        label, smiles = line[1], line[2]
+        smiles_list.append(smiles)
+        print(label)
+        label_list.append(oracle[number_of_class].index(label))
+    smiles_list = np.array(smiles_list)
+    label_list = np.array(label_list)
+    return smiles_list, label_list
 
 
 def index2smiles(idx_list, number_of_class=3):

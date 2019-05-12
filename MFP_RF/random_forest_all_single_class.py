@@ -90,7 +90,7 @@ class RandomForestClassification:
 
 
 def load_index(number_of_class=3, idx=1):
-    filepath = '../data/pics/{}cls_val_ids{}.csv'.format(number_of_class, idx)
+    filepath = '../data/allsingleclass6955_stratkfoldsplits/{}cls_newskf{}.csv'.format(number_of_class, idx)
     idx_list = []
     with open(filepath, 'r') as f:
         lines = f.readlines()
