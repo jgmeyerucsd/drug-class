@@ -112,7 +112,6 @@ def line_parser_smiles(lines, number_of_class):
         line = line.strip().split(',')
         label, smiles = line[1], line[2]
         smiles_list.append(smiles)
-        print(label)
         label_list.append(oracle[number_of_class].index(label))
     smiles_list = np.array(smiles_list)
     label_list = np.array(label_list)
@@ -125,9 +124,7 @@ def index2smiles(idx_list, number_of_class=3):
     with open(filepath, 'r') as f:
         lines = f.readlines()
     lines = np.array(lines[1:])
-    print('{} lines in all'.format(len(lines)))
     idx_list = list(set(idx_list))
-    print(idx_list)
     train_idx_list = filter(lambda x:x not in idx_list, range(len(lines)))
     train_lines, test_lines = lines[train_idx_list], lines[idx_list]
     train_smiles_list, train_label_list = line_parser_smiles(train_lines, number_of_class)
