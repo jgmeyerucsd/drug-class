@@ -1,7 +1,7 @@
 from __future__ import print_function
 
 import numpy as np
-from sklearn.metrics import accuracy_score, roc_auc_score, matthews_corrcoef#, balanced_accuracy_score
+from sklearn.metrics import accuracy_score, roc_auc_score, matthews_corrcoef, balanced_accuracy_score
 from sklearn.preprocessing import OneHotEncoder
 
 
@@ -39,7 +39,7 @@ def output_classification_result(y_train, y_pred_on_train,
     if y_train is not None:
         print('train accuracy: {}'.format(accuracy_score(y_true=y_train, y_pred=y_pred_on_train)))
         # print('train multiclass AUC[ROC]: {}'.format(multiclass_roc_auc_score(y_true=y_train, y_prob=y_pred_on_train, AVERAGE='weighted')))
-        # print('train balanced accuracy: {}'.format(balanced_accuracy_score(y_true=y_train, y_pred=y_pred_on_train)))
+        print('train balanced accuracy: {}'.format(balanced_accuracy_score(y_true=y_train, y_pred=y_pred_on_train)))
         print('train matthews corrcoef: {}'.format(matthews_corrcoef(y_true=y_train, y_pred=y_pred_on_train)))
 
     if y_val is not None:
@@ -51,7 +51,7 @@ def output_classification_result(y_train, y_pred_on_train,
     if y_test is not None:
         print('test accuracy: {}'.format(accuracy_score(y_true=y_test, y_pred=y_pred_on_test)))
         # print('test multiclass AUC[ROC]: {}'.format(multiclass_roc_auc_score(y_true=y_test, y_prob=y_pred_on_test, AVERAGE='weighted')))
-        # print('test balanced accuracy: {}'.format(balanced_accuracy_score(y_true=y_test, y_pred=y_pred_on_test)))
+        print('test balanced accuracy: {}'.format(balanced_accuracy_score(y_true=y_test, y_pred=y_pred_on_test)))
         print('test matthews corrcoef: {}'.format(matthews_corrcoef(y_true=y_test, y_pred=y_pred_on_test)))
 
     return
