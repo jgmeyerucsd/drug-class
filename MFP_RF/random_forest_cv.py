@@ -105,16 +105,6 @@ def demo_random_forest_classification():
     json_file = 'config/random_forest_classification/{}.json'.format(json_id)
     with open(json_file) as f:
         conf = json.load(f)
-    # conf = {
-    #     'max_features': 'log2',
-    #     'n_estimators': 4000,
-    #     'min_samples_leaf': 1,
-    #     'class_weight': 'balanced',
-    #     'enrichment_factor': {
-    #         'ratio_list': [0.02, 0.01, 0.0015, 0.001]
-    #     },
-    #     'random_seed': 1337
-    # }
 
     val_idx_list, test_idx_list = load_index_valid(number_of_class, index)
     [train_smiles_list, y_train], [val_smiles_list, y_val], [test_smiles_list, y_test] = index2smiles_valid(val_idx_list, test_idx_list, number_of_class)
