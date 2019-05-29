@@ -17,7 +17,6 @@ def output_classification_result(y_train, y_pred_on_train,
     print('train accuracy: {}'.format(accuracy_score(y_true=y_train, y_pred=y_pred_on_train)))
     if y_val is not None:
         print('val accuracy: {}'.format(accuracy_score(y_true=y_val, y_pred=y_pred_on_val)))
-
     if y_test is not None:
         print('test accuracy: {}'.format(accuracy_score(y_true=y_test, y_pred=y_pred_on_test)))
     return

@@ -2,6 +2,7 @@ from __future__ import print_function
 
 from data_loader import *
 import argparse
+import json
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
@@ -89,16 +90,19 @@ class RandomForestClassification:
 
 
 def demo_random_forest_classification():
-    conf = {
-        'max_features': 'log2',
-        'n_estimators': 4000,
-        'min_samples_leaf': 1,
-        'class_weight': 'balanced',
-        'enrichment_factor': {
-            'ratio_list': [0.02, 0.01, 0.0015, 0.001]
-        },
-        'random_seed': 1337
-    }
+    json_file = 'config/random_forest_classification/{}.json'.format(json_id)
+    with open(json_file) as f:
+        conf = json.load(f)
+    # conf = {
+    #     'max_features': 'log2',
+    #     'n_estimators': 4000,
+    #     'min_samples_leaf': 1,
+    #     'class_weight': 'balanced',
+    #     'enrichment_factor': {
+    #         'ratio_list': [0.02, 0.01, 0.0015, 0.001]
+    #     },
+    #     'random_seed': 1337
+    # }
 
     idx_list = load_index(number_of_class, index)
     if mode == 'fingerprints':
@@ -121,17 +125,20 @@ def demo_random_forest_classification():
     task.eval_with_existing(x_train, y_train, x_test, y_test, weight_file)
     return
 
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--weight_file', dest='weight_file', required=True)
-    parser.add_argument('--number_of_class', type=int, dest='number_of_class', default=3, required=False)
-    parser.add_argument('--index', type=int, dest='index', default=1, required=False)
-    parser.add_argument('--mode', type=str, dest='mode', default='fingerprints', required=False)
+    parser.add_argument('--weight_file', required=True)
+    parser.add_argument('--number_of_class', type=int, default=3)
+    parser.add_argument('--index', type=int, default=0)
+    parser.add_argument('--json_id', type=int, default=0)
+    parser.add_argument('--mode', type=str, default='fingerprints')
 
     given_args = parser.parse_args()
     weight_file = given_args.weight_file
     number_of_class = given_args.number_of_class
     index = given_args.index
     mode = given_args.mode
+    json_id = given_args.json_id
 
     demo_random_forest_classification()

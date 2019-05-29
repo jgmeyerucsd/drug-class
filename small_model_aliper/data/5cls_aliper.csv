@@ -1,0 +1,580 @@
+pngpath,class,smiles
+Anti Infective Agents/0,Anti Infective Agents,Clc1ccc(C(Cn2ccnc2)OCc2csc3c(Cl)cccc23)c(Cl)c1
+Anti Infective Agents/1,Anti Infective Agents,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)[C@@H]2N[C@@H](COCCOC)O[C@H]([C@H]2C)[C@]1(C)O
+Anti Infective Agents/2,Anti Infective Agents,COc1cccc2c1cc([N+](=O)[O-])c1c(C(=O)O)cc3c(c12)OCO3
+Anti Infective Agents/3,Anti Infective Agents,O=C(N[C@H](CO)[C@H](O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl
+Anti Infective Agents/4,Anti Infective Agents,CC[C@@H](C(=O)[C@@H](C)[C@@H](O)[C@H](C)CCc1ccc(C)c(O)c1C(=O)[O-])[C@H]1O[C@](CC)([C@H]2CC[C@](O)(CC)[C@H](C)O2)C[C@@H]1C
+Anti Infective Agents/5,Anti Infective Agents,CO[C@H]1C=CO[C@@]2(C)Oc3c(C)c(O)c4c(c3C2=O)C(=O)/C(=C\NN2CCN(C)CC2)C(=C4O)NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C
+Anti Infective Agents/6,Anti Infective Agents,C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@H](O)c1ccnc2ccccc12
+Anti Infective Agents/7,Anti Infective Agents,COc1cc(NC(C)CCCN)c2ncccc2c1
+Anti Infective Agents/8,Anti Infective Agents,CC(C)N1CCN(c2ccc(OC[C@H]3CO[C@](Cn4cncn4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1
+Anti Infective Agents/9,Anti Infective Agents,CCCCN(CCCC)CCC(O)c1cc2c(Cl)cc(Cl)cc2c2cc(C(F)(F)F)ccc12
+Anti Infective Agents/10,Anti Infective Agents,CCC(C)[C@H]1O[C@]2(CC[C@@H]1C)C[C@@H]1C[C@@H](C/C=C(\C)[C@@H](OC3C[C@H](OC)C(O[C@H]4C[C@H](OC)[C@@H](O)[C@H](C)O4)[C@H](C)O3)[C@@H](C)/C=C/C=C3\CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2
+Anti Infective Agents/11,Anti Infective Agents,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+Anti Infective Agents/12,Anti Infective Agents,CCCCC[C@H](O)/C=C/[C@H]1C=CC(=O)[C@@H]1CCCCCCC(=O)O
+Anti Infective Agents/13,Anti Infective Agents,CC(O)CO.N[C@@H](C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(CSc3cn[nH]n3)CS[C@H]12)c1ccc(O)cc1
+Anti Infective Agents/14,Anti Infective Agents,CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)c1ccc2ccccc2n1
+Anti Infective Agents/15,Anti Infective Agents,COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O
+Anti Infective Agents/16,Anti Infective Agents,CC(/C=C/C(=O)NO)=C\[C@@H](C)C(=O)c1ccc(N(C)C)cc1
+Anti Infective Agents/17,Anti Infective Agents,COC(=O)Nc1nc2ccc(S(=O)c3ccccc3)cc2[nH]1
+Anti Infective Agents/18,Anti Infective Agents,c1ccc(-c2ccc(C(c3ccccc3)n3ccnc3)cc2)cc1
+Anti Infective Agents/19,Anti Infective Agents,CC(C)CC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CC(C)C)[C@@H](O)CC(=O)N[C@@H](C)C(=O)N[C@@H](CC(C)C)[C@@H](O)CC(=O)O)C(C)C)C(C)C
+Anti Infective Agents/20,Anti Infective Agents,Cc1cc(C2CCCCC2)n(O)c(=O)c1.NCCO
+Anti Infective Agents/21,Anti Infective Agents,CC(C)(C)NC(=O)[C@@H]1CN(Cc2cccnc2)CCN1C[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@H]1c2ccccc2C[C@H]1O
+Anti Infective Agents/22,Anti Infective Agents,Nc1nc(=O)c2ncn(COCCO)c2[nH]1
+Anti Infective Agents/23,Anti Infective Agents,O[C@@H](c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)[C@H]1CCCCN1
+Anti Infective Agents/24,Anti Infective Agents,CC(C)[C@H](N)C(=O)OCCOCn1cnc2c(=O)nc(N)[nH]c21
+Anti Infective Agents/25,Anti Infective Agents,CO[C@H]1O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]([C@H]1C)[C@]42OO3
+Anti Infective Agents/26,Anti Infective Agents,COC(=O)Nc1nc2ccc(Sc3ccccc3)cc2[nH]1
+Anti Infective Agents/27,Anti Infective Agents,NC(=NCCCCCCN=C(N)/N=C(\N)Nc1ccc(Cl)cc1)/N=C(\N)Nc1ccc(Cl)cc1
+Anti Infective Agents/28,Anti Infective Agents,NC(N)=NS(=O)(=O)c1ccc(N)cc1
+Anti Infective Agents/29,Anti Infective Agents,C[C@@H]1CC[C@H]2[C@@H](C)[C@@H](OC(=O)CCC(=O)O)O[C@@H]3O[C@@]4(C)CC[C@@H]1[C@@]23OO4
+Anti Infective Agents/30,Anti Infective Agents,COP(=O)(OC)C(O)C(Cl)(Cl)Cl
+Anti Infective Agents/31,Anti Infective Agents,CN(C)[C@@H]1C(=O)C(C(N)=O)=C(O)[C@@]2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4[C@@](C)(O)C3C[C@@H]12
+Anti Infective Agents/32,Anti Infective Agents,Oc1c(Cl)cc(Cl)c2cccnc12
+Anti Infective Agents/33,Anti Infective Agents,O=C(N/N=C/c1ccc([N+](=O)[O-])o1)c1ccc(O)cc1
+Anti Infective Agents/34,Anti Infective Agents,Oc1c(Cl)cc(Cl)cc1Sc1cc(Cl)cc(Cl)c1O
+Anti Infective Agents/35,Anti Infective Agents,CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]2SC1
+Anti Infective Agents/36,Anti Infective Agents,CN(C)CCn1nnnc1SCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)Cc3csc(N)n3)[C@H]2SC1
+Anti Infective Agents/37,Anti Infective Agents,CC[C@@H]1/C=C/C=C/C[C@H](C)[C@@H](O)[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@H](C)C(=O)[C@H](C)[C@@H](O)[C@H](C)/C=C/C(=O)O[C@H]2[C@@H](C)[C@@H](CC1)O[C@@]1(CC[C@@H](C)[C@@H](C[C@H](C)O)O1)[C@@H]2C
+Anti Infective Agents/38,Anti Infective Agents,C[C@H]1C[C@H](C)C(=O)[C@H]([C@H](O)CC2CC(=O)NC(=O)C2)C1
+Anti Infective Agents/39,Anti Infective Agents,Cc1cc(C(C#N)c2ccc(Cl)cc2)c(Cl)cc1NC(=O)c1cc(I)cc(I)c1O
+Anti Infective Agents/40,Anti Infective Agents,C=C(NC(=O)C(=C)NC(=O)c1csc(C2=NC3c4csc(n4)C4NC(=O)c5csc(n5)C(C(C)(O)C(C)O)NC(=O)C5CSC(=N5)C(=CC)NC(=O)C(C(C)O)NC(=O)c5csc(n5)C3(CC2)NC(=O)C(C)NC(=O)C(=C)NC(=O)C(C)NC(=O)C(C(C)CC)NC2C=Cc3c(C(C)O)cc(nc3C2O)C(=O)OC4C)n1)C(N)=O
+Anti Infective Agents/41,Anti Infective Agents,CCC(CO)NCCNC(CC)CO
+Anti Infective Agents/42,Anti Infective Agents,CO[C@@]1(NC(=O)Cc2cccs2)C(=O)N2C(C(=O)[O-])=C(COC(N)=O)CS[C@@H]21
+Anti Infective Agents/43,Anti Infective Agents,O=c1nc[nH]c2c1ncn2[C@H]1CC[C@@H](CO)O1
+Anti Infective Agents/44,Anti Infective Agents,CCCCCCc1ccc(O)cc1O
+Anti Infective Agents/45,Anti Infective Agents,NC(=O)c1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)n1
+Anti Infective Agents/46,Anti Infective Agents,CC[C@@]1([C@@H]2O[C@@H]([C@H]3O[C@@](O)(CO)[C@H](C)C[C@@H]3C)C[C@@H]2C)CC[C@H]([C@]2(C)CC[C@]3(C[C@H](O)[C@@H](C)[C@@H]([C@@H](C)[C@@H](OC)[C@H](C)C(=O)O)O3)O2)O1
+Anti Infective Agents/47,Anti Infective Agents,Clc1ccc(CCC(Cn2ccnc2)Sc2c(Cl)cccc2Cl)cc1
+Anti Infective Agents/48,Anti Infective Agents,Cc1cc(-n2c(=O)[nH]c(=O)n(C)c2=O)ccc1Oc1ccc(SC(F)(F)F)cc1
+Anti Infective Agents/49,Anti Infective Agents,Cc1cn([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)c(=O)[nH]c1=O
+Anti Infective Agents/50,Anti Infective Agents,COc1ccc(C[C@H]2NC[C@H](O)[C@H]2OC(C)=O)cc1
+Anti Infective Agents/51,Anti Infective Agents,CO[C@H]1/C=C\C=C(/C)C(=O)NC2=CC(=O)C(NCCN(C)C)=C(C[C@@H](C)C[C@H](OC)[C@H](O)[C@@H](C)/C=C(\C)[C@@H]1OC(N)=O)C2=O
+Anti Infective Agents/52,Anti Infective Agents,C=CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N/OCC(=O)O)c3csc(N)n3)[C@H]2SC1
+Anti Infective Agents/53,Anti Infective Agents,CCCCCCC1C(=O)O[C@H](C)[C@H](NC(=O)c2cccc(NC=O)c2O)C(=O)O[C@@H](C)[C@@H]1OC(=O)CC(C)C
+Anti Infective Agents/54,Anti Infective Agents,CC(=O)N1CCN(c2ccc(OC[C@H]3CO[C@](Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1
+Anti Infective Agents/55,Anti Infective Agents,Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C
+Anti Infective Agents/56,Anti Infective Agents,CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1
+Anti Infective Agents/57,Anti Infective Agents,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1
+Anti Infective Agents/58,Anti Infective Agents,O=C(O)c1ccccc1C(=O)Nc1ccc(S(=O)(=O)Nc2nccs2)cc1
+Anti Infective Agents/59,Anti Infective Agents,Cc1cc(N)c2ccccc2[n+]1CCCCCCCCCC[n+]1c(C)cc(N)c2ccccc21
+Anti Infective Agents/60,Anti Infective Agents,C[C@H](Cn1cnc2c(N)ncnc21)OCP(=O)(O)O
+Anti Infective Agents/61,Anti Infective Agents,CCCCCC[C@@H]([C@@H](C)O)n1cnc2c(N)ncnc21
+Anti Infective Agents/62,Anti Infective Agents,NCc1ccc(S(N)(=O)=O)cc1
+Anti Infective Agents/63,Anti Infective Agents,CC(C)(C)CC(C)(C)c1ccc(OCCOCC[N+](C)(C)Cc2ccccc2)cc1
+Anti Infective Agents/64,Anti Infective Agents,O=C1NCCN1c1ncc([N+](=O)[O-])s1
+Anti Infective Agents/65,Anti Infective Agents,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1
+Anti Infective Agents/66,Anti Infective Agents,Nc1ccn([C@@H]2CS[C@H](CO)O2)c(=O)n1
+Anti Infective Agents/67,Anti Infective Agents,CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1
+Anti Infective Agents/68,Anti Infective Agents,Clc1cc(Cl)c(OCC#CI)cc1Cl
+Anti Infective Agents/69,Anti Infective Agents,CC1CCC/C=C\C2CC(O)CC2C(O)/C=C\C(=O)O1
+Anti Infective Agents/70,Anti Infective Agents,Cc1cc(C)cc(OCC2CNC(=O)O2)c1
+Anti Infective Agents/71,Anti Infective Agents,Cc1cn([C@H]2C=C[C@@H](CO)O2)c(=O)[nH]c1=O
+Anti Infective Agents/72,Anti Infective Agents,CCOc1ccc2ccccc2c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)[O-])C(C)(C)S[C@H]12
+Anti Infective Agents/73,Anti Infective Agents,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O
+Anti Infective Agents/74,Anti Infective Agents,CC(N)C12CC3CC(CC(C3)C1)C2
+Anti Infective Agents/75,Anti Infective Agents,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(COC(C)=O)CS[C@H]12)c1csc(N)n1
+Anti Infective Agents/76,Anti Infective Agents,Cc1onc(-c2c(Cl)cccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)[O-])C(C)(C)S[C@H]12
+Anti Infective Agents/77,Anti Infective Agents,CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O
+Anti Infective Agents/78,Anti Infective Agents,Nc1[nH]c(=O)ncc1F
+Anti Infective Agents/79,Anti Infective Agents,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C
+Anti Infective Agents/80,Anti Infective Agents,O=[N+]([O-])c1cc([As](=O)(O)O)ccc1O
+Anti Infective Agents/81,Anti Infective Agents,C[C@@H](c1ncncc1F)[C@](O)(Cn1cncn1)c1ccc(F)cc1F
+Anti Infective Agents/82,Anti Infective Agents,O=C1Nc2ccc(Cl)cc2[C@@](C#CC2CC2)(C(F)(F)F)O1
+Anti Infective Agents/83,Anti Infective Agents,O=C(C[C@@H]1C/C=C/CCC(=O)O[C@H](c2ccccc2)CNC1=O)NCc1ccc(Cl)cc1
+Anti Infective Agents/84,Anti Infective Agents,CSc1nc2cc(Oc3cccc(Cl)c3Cl)c(Cl)cc2[nH]1
+Anti Infective Agents/85,Anti Infective Agents,NC(=O)c1cnccn1
+Anti Infective Agents/86,Anti Infective Agents,CO/N=C(/C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@H]12)c1ccco1
+Anti Infective Agents/87,Anti Infective Agents,Nc1nc(=O)c2ncn(CCC(CO)CO)c2[nH]1
+Anti Infective Agents/88,Anti Infective Agents,CC1CS(=O)(=O)CCN1/N=C/c1ccc([N+](=O)[O-])o1
+Anti Infective Agents/89,Anti Infective Agents,CC(C)(C)c1[nH]cnc1/C=c1\[nH]c(=O)/c(=C/c2ccccc2)[nH]c1=O
+Anti Infective Agents/90,Anti Infective Agents,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1
+Anti Infective Agents/91,Anti Infective Agents,CCCCCC[C@H]1C(=O)O[C@H](C)C(NC(=O)c2cccc(NC=O)c2O)C(=O)O[C@@H](C)[C@@H]1OC(=O)CC(C)C
+Anti Infective Agents/92,Anti Infective Agents,Cc1cccc(C)c1OCC(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[C@H](Cc1ccccc1)NC(=O)[C@H](C(C)C)N1CCCNC1=O
+Anti Infective Agents/93,Anti Infective Agents,NC(=O)c1ncn(C2OC(CO)C(O)C2O)n1
+Anti Infective Agents/94,Anti Infective Agents,Clc1ccc(C(Cn2ccnc2)OCc2ccsc2Cl)c(Cl)c1
+Anti Infective Agents/95,Anti Infective Agents,NC1CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3-c2ccc(F)cc2F)C1
+Anti Infective Agents/96,Anti Infective Agents,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccc(O)cc3)C(=O)N2[C@H]1C(=O)O
+Anti Infective Agents/97,Anti Infective Agents,O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1I
+Anti Infective Agents/98,Anti Infective Agents,N=C(N=C(N)N)N1CCOCC1
+Anti Infective Agents/99,Anti Infective Agents,CC(=O)NC[C@H]1CN(c2ccc(N3CCOCC3)c(F)c2)C(=O)O1
+Anti Infective Agents/100,Anti Infective Agents,CN(C(=O)C(Cl)Cl)c1ccc(OC(=O)c2ccco2)cc1
+Anti Infective Agents/101,Anti Infective Agents,CN(C/C=C/C#CC(C)(C)C)Cc1cccc2ccccc12
+Anti Infective Agents/102,Anti Infective Agents,Cc1cccc(N(C)C(=S)Oc2ccc3ccccc3c2)c1
+Anti Infective Agents/103,Anti Infective Agents,CO[C@H]1CC(O[C@@H]2/C(C)=C/C[C@@H]3C[C@@H](C[C@]4(CC[C@H](C)[C@@H](C5CCCCC5)O4)O3)OC(=O)[C@@H]3C=C(C)/C(=N/O)[C@H]4OC/C(=C\C=C\[C@@H]2C)[C@@]34O)O[C@@H](C)C1O
+Anti Infective Agents/104,Anti Infective Agents,CCCCc1ccc2nc(NC(=O)OC)[nH]c2c1
+Anti Infective Agents/105,Anti Infective Agents,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)OC1OC(=O)c2ccccc21
+Anti Infective Agents/106,Anti Infective Agents,C=C1[C@@H](n2cnc3c(=O)nc(N)[nH]c32)C[C@H](O)[C@H]1CO
+Anti Infective Agents/107,Anti Infective Agents,Clc1ccc(CO/N=C(/Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1
+Anti Infective Agents/108,Anti Infective Agents,CCN(CC)CCNc1ccc(CO)c2sc3ccccc3c(=O)c12
+Anti Infective Agents/109,Anti Infective Agents,Cc1ncc([N+](=O)[O-])n1CC(C)O
+Anti Infective Agents/110,Anti Infective Agents,Oc1ccc(Cl)cc1
+Anti Infective Agents/111,Anti Infective Agents,NCc1ccccc1CC(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(CSc3nnnn3CC(=O)O)CS[C@H]12
+Anti Infective Agents/112,Anti Infective Agents,C=CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\OCC(=O)O)c3csc(N)n3)[C@H]2SC1
+Anti Infective Agents/113,Anti Infective Agents,COCC1=C(C(=O)OC(C)OC(=O)OC(C)C)N2C(=O)[C@@H](NC(=O)/C(=N/OC)c3csc(N)n3)[C@H]2SC1
+Anti Infective Agents/114,Anti Infective Agents,CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@@H](O)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC
+Anti Infective Agents/115,Anti Infective Agents,CCN1CCN(C(=O)N[C@@H](C(=O)N[C@@H]2C(=O)N3[C@@H](C(=O)[O-])C(C)(C)S[C@H]23)c2ccccc2)C(=O)C1=O
+Anti Infective Agents/116,Anti Infective Agents,Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1
+Anti Infective Agents/117,Anti Infective Agents,N[C@@H](C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(Cl)CS[C@H]12)c1ccccc1
+Anti Infective Agents/118,Anti Infective Agents,Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1
+Anti Infective Agents/119,Anti Infective Agents,C=CCc1ccc(O)c(OC)c1
+Anti Infective Agents/120,Anti Infective Agents,Cc1c(O)cccc1C(=O)N[C@@H](CSc1ccccc1)[C@H](O)CN1C[C@H]2CCCC[C@H]2C[C@H]1C(=O)NC(C)(C)C
+Anti Infective Agents/121,Anti Infective Agents,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1
+Anti Infective Agents/122,Anti Infective Agents,CCCOc1ccc2nc(NC(=O)OC)[nH]c2c1
+Anti Infective Agents/123,Anti Infective Agents,CC[C@H](C)[C@H]1O[C@]2(CC[C@@H]1C)C[C@@H]1C[C@@H](CC=C(C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@@H](O)[C@H](C)O4)[C@H](C)O3)[C@@H](C)C=CC=C3CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2
+Anti Infective Agents/124,Anti Infective Agents,CC1(C)S[C@@H]2[C@H](NC(=O)Cc3ccccc3)C(=O)N2[C@H]1C(=O)O
+Anti Infective Agents/125,Anti Infective Agents,COc1ccc(NS(=O)(=O)c2ccc(N)cc2)nn1
+Anti Infective Agents/126,Anti Infective Agents,N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1S(=O)C(F)(F)F
+Anti Infective Agents/127,Anti Infective Agents,O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1C(F)(F)F
+Anti Infective Agents/128,Anti Infective Agents,CN(C)CCc1c[nH]c2ccc(C[C@H]3COC(=O)N3)cc12
+Anti Infective Agents/129,Anti Infective Agents,COC(=O)Nc1nc2ccc(C(=O)c3ccc(F)cc3)cc2[nH]1
+Anti Infective Agents/130,Anti Infective Agents,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1
+Anti Infective Agents/131,Anti Infective Agents,CN1CCCN=C1/C=C/c1cccc(O)c1
+Anti Infective Agents/132,Anti Infective Agents,Nc1ccn([C@H]2CC[C@@H](CO)O2)c(=O)n1
+Anti Infective Agents/133,Anti Infective Agents,CC1(C)S[C@@H]2[C@H](NC(=O)C3(N)CCCCC3)C(=O)N2[C@H]1C(=O)O
+Anti Infective Agents/134,Anti Infective Agents,Cc1cc(C(C)(C)CC(C)(C)C)ccc1OCCOCC[N+](C)(C)Cc1ccccc1
+Anti Infective Agents/135,Anti Infective Agents,Nc1nc(=O)c2ncn(COC(CO)CO)c2[nH]1
+Anti Infective Agents/136,Anti Infective Agents,CC(C)c1nc(CN(C)C(=O)N[C@H](C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1
+Anti Infective Agents/137,Anti Infective Agents,CC1CCC/C=C/C2CC(O)CC2C(O)/C=C/C(=O)O1
+Anti Infective Agents/138,Anti Infective Agents,Clc1ccc(CSC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1
+Anti Infective Agents/139,Anti Infective Agents,N[C@@H](C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(Cl)CC[C@H]12)c1ccccc1
+Anti Infective Agents/140,Anti Infective Agents,CO[C@H]1C=CO[C@@]2(C)Oc3c(C)c(O)c4c(c3C2=O)C(=O)/C(=C\NN2CCN(C3CCCC3)CC2)C(=C4O)NC(=O)C(C)=CC=C[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C
+Antineoplastic Agents/0,Antineoplastic Agents,O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1F
+Antineoplastic Agents/1,Antineoplastic Agents,S=c1ccss1
+Antineoplastic Agents/2,Antineoplastic Agents,N#Cc1ccc(C2CCCc3cncn32)cc1
+Antineoplastic Agents/3,Antineoplastic Agents,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1
+Antineoplastic Agents/4,Antineoplastic Agents,N#C/C(=C/c1ccc(O)c(O)c1)C(N)=O
+Antineoplastic Agents/5,Antineoplastic Agents,COc1ccc(/C=C(\C#N)c2cccnc2)cc1OC
+Antineoplastic Agents/6,Antineoplastic Agents,CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1
+Antineoplastic Agents/7,Antineoplastic Agents,CN1CCN(CCOc2cc(OC3CCOCC3)c3c(Nc4c(Cl)ccc5c4OCO5)ncnc3c2)CC1
+Antineoplastic Agents/8,Antineoplastic Agents,Nc1nc(=S)c2ncn([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)c2[nH]1
+Antineoplastic Agents/9,Antineoplastic Agents,NC(N)=NCc1cccc(I)c1
+Antineoplastic Agents/10,Antineoplastic Agents,COC1=CC23CCCN2CCc2cc4c(cc2C3C1O)OCO4
+Antineoplastic Agents/11,Antineoplastic Agents,CC(C)(C)c1cc(C=C(C#N)C#N)cc(C(C)(C)C)c1O
+Antineoplastic Agents/12,Antineoplastic Agents,Cn1cncc1[C@@](N)(c1ccc(Cl)cc1)c1ccc2c(c1)c(-c1cccc(Cl)c1)cc(=O)n2C
+Antineoplastic Agents/13,Antineoplastic Agents,Cc1cc2ncc(-c3ccccc3)nc2cc1C
+Antineoplastic Agents/14,Antineoplastic Agents,CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)Nc2ccc(O)cc2)C(C)(C)CCC1
+Antineoplastic Agents/15,Antineoplastic Agents,Cc1c2ccncc2c(C)c2c1[nH]c1ccccc12
+Antineoplastic Agents/16,Antineoplastic Agents,O=c1[nH]c(=O)n(C2CCCO2)cc1F
+Antineoplastic Agents/17,Antineoplastic Agents,CC(=O)[C@]1(O)Cc2c(O)c3c(c(O)c2[C@@H](O[C@H]2C[C@H](N)[C@H](O)[C@H](C)O2)C1)C(=O)c1ccccc1C3=O
+Antineoplastic Agents/18,Antineoplastic Agents,COc1cc2c(Oc3ccc4[nH]c(C)cc4c3F)ncnc2cc1OCCCN1CCCC1
+Antineoplastic Agents/19,Antineoplastic Agents,CCCCCCNC(=O)n1cc(F)c(=O)[nH]c1=O
+Antineoplastic Agents/20,Antineoplastic Agents,NC(N)=NC(=O)c1nc(Cl)c(N2CCCCCC2)nc1N
+Antineoplastic Agents/21,Antineoplastic Agents,CCC(=C(c1ccc(O)cc1)c1ccc(OCCN(C)C)cc1)c1ccccc1
+Antineoplastic Agents/22,Antineoplastic Agents,CC(C)CC(NC(=O)C(COC(C)(C)C)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCCC1C(=O)NNC(N)=O
+Antineoplastic Agents/23,Antineoplastic Agents,COC(=O)c1ccc2c(c1)NC(=O)/C2=C(\Nc1ccc(N(C)C(=O)CN2CCN(C)CC2)cc1)c1ccccc1
+Antineoplastic Agents/24,Antineoplastic Agents,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1
+Antineoplastic Agents/25,Antineoplastic Agents,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(C)=O)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1
+Antineoplastic Agents/26,Antineoplastic Agents,O=c1[nH]cc(F)c(=O)[nH]1
+Antineoplastic Agents/27,Antineoplastic Agents,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1
+Antineoplastic Agents/28,Antineoplastic Agents,CC(=O)OC1C(=O)C2(C)C(O)CC3OCC3(OC(C)=O)C2C(OC(=O)c2ccccc2)C2(O)CC(OC(=O)C(O)C(NC(=O)c3ccccc3)c3ccccc3)C(C)=C1C2(C)C
+Antineoplastic Agents/29,Antineoplastic Agents,Nc1cc2c3ccccc3ccc2c2ccccc12
+Antineoplastic Agents/30,Antineoplastic Agents,N#C/C(=C\c1cc(Cl)cc(Cl)c1)c1cccnc1
+Antineoplastic Agents/31,Antineoplastic Agents,Cc1nc(=O)c2cc(CN(C)c3ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)s3)ccc2[nH]1
+Antineoplastic Agents/32,Antineoplastic Agents,O=C(/C=C/c1cccc(S(=O)(=O)Nc2ccccc2)c1)NO
+Antineoplastic Agents/33,Antineoplastic Agents,N#CC(C#N)=Cc1cc(O)c(O)c(O)c1
+Antineoplastic Agents/34,Antineoplastic Agents,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1
+Antineoplastic Agents/35,Antineoplastic Agents,CN(C)N/N=C1\N=CN=C1C(N)=O
+Antineoplastic Agents/36,Antineoplastic Agents,O=C(O[C@@H]1Cc2c(O)cc(O)cc2O[C@@H]1c1ccc(O)c(O)c1)c1cc(O)c(O)c(O)c1
+Antineoplastic Agents/37,Antineoplastic Agents,Nc1ccccc1NC(=O)c1ccc(CNC(=O)OCc2cccnc2)cc1
+Antineoplastic Agents/38,Antineoplastic Agents,C/C(=C\c1ccc(C(=O)O)cc1)c1ccc2c(c1)C(C)(C)CCC2(C)C
+Antineoplastic Agents/39,Antineoplastic Agents,O=C(O)CCCc1ccc(N(CCCl)CCCl)cc1
+Antineoplastic Agents/40,Antineoplastic Agents,CC(O)(CS(=O)(=O)c1ccc(F)cc1)C(=O)Nc1ccc(C#N)c(C(F)(F)F)c1
+Antineoplastic Agents/41,Antineoplastic Agents,C[C@@H](NC(=O)/C(C#N)=C/c1ccc(O)c(O)c1)c1ccccc1
+Antineoplastic Agents/42,Antineoplastic Agents,CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cnccn1)B(O)O
+Antineoplastic Agents/43,Antineoplastic Agents,COc1cc2ncnc(Nc3cccc(Cl)c3)c2cc1OC
+Antineoplastic Agents/44,Antineoplastic Agents,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O[C@@H]2CCCCO2)[C@H](C)O1
+Antineoplastic Agents/45,Antineoplastic Agents,N#C/C(=C\c1ccc(O)c(O)c1)C(=O)Nc1ccccc1
+Antineoplastic Agents/46,Antineoplastic Agents,CC[C@]1(O)CC2CN(CCc3c([nH]c4ccccc34)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@H]3[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]5(CC)C=CCN6CC[C@]43[C@@H]65)C2)C1
+Antineoplastic Agents/47,Antineoplastic Agents,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@@H](O)[C@H](C)O1
+Antineoplastic Agents/48,Antineoplastic Agents,CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O
+Antineoplastic Agents/49,Antineoplastic Agents,CC(C)C[C@@H](C=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)OCc1ccccc1
+Antineoplastic Agents/50,Antineoplastic Agents,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12
+Antineoplastic Agents/51,Antineoplastic Agents,S=C=NCCc1ccccc1
+Antineoplastic Agents/52,Antineoplastic Agents,CC(=O)OC/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C
+Antineoplastic Agents/53,Antineoplastic Agents,C=C1C[C@@H]2[C@H](CC[C@]3(C)C(=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12
+Antineoplastic Agents/54,Antineoplastic Agents,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C
+Antineoplastic Agents/55,Antineoplastic Agents,O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12
+Antineoplastic Agents/56,Antineoplastic Agents,N#C/C(=C\c1ccc(O)c(O)c1)C(=O)c1ccc(O)c(O)c1
+Antineoplastic Agents/57,Antineoplastic Agents,O=C1C(Nc2ccccc2)=CC(=O)c2ncccc21
+Antineoplastic Agents/58,Antineoplastic Agents,N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1
+Antineoplastic Agents/59,Antineoplastic Agents,CN(N=O)C(=O)N[C@H]1[C@@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O
+Antineoplastic Agents/60,Antineoplastic Agents,CC[C@]1(O)C[C@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@H]3[C@@](O)(C(N)=O)[C@H](O)[C@]5(CC)C=CCN6CC[C@]43[C@@H]65)C2)C1
+Antineoplastic Agents/61,Antineoplastic Agents,S=c1nc[nH]c2nc[nH]c12
+Antineoplastic Agents/62,Antineoplastic Agents,c1ccc2c(Cc3c[nH]c4ccccc34)c[nH]c2c1
+Antineoplastic Agents/63,Antineoplastic Agents,S=P(N1CC1)(N1CC1)N1CC1
+Antineoplastic Agents/64,Antineoplastic Agents,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3ccccc3nc2-1
+Antineoplastic Agents/65,Antineoplastic Agents,C/C=C1/C[C@@H](C)[C@](O)(CO)C(=O)OCC2=CCN3CC[C@@H](OC1=O)[C@@H]23
+Antineoplastic Agents/66,Antineoplastic Agents,CS(=O)(=O)OCCCCOS(C)(=O)=O
+Antineoplastic Agents/67,Antineoplastic Agents,CO[C@@H]1[C@H](N(C)C(=O)c2ccccc2)C[C@H]2O[C@]1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4
+Antineoplastic Agents/68,Antineoplastic Agents,O=C1Nc2ccccc2/C1=C1\Nc2ccccc2C1=O
+Antineoplastic Agents/69,Antineoplastic Agents,N#CC(C#N)=Cc1ccc([N+](=O)[O-])c(O)c1
+Antineoplastic Agents/70,Antineoplastic Agents,CCC1=C[C@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2
+Antineoplastic Agents/71,Antineoplastic Agents,CS(=O)CCCCN=C=S
+Antineoplastic Agents/72,Antineoplastic Agents,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1
+Antineoplastic Agents/73,Antineoplastic Agents,CCCCCOC(=O)Nc1nc(=O)n([C@@H]2O[C@H](C)[C@@H](O)[C@H]2O)cc1F
+Antineoplastic Agents/74,Antineoplastic Agents,CC(C)Cn1cnc2c(N)nc3ccccc3c21
+Antineoplastic Agents/75,Antineoplastic Agents,CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1
+Antineoplastic Agents/76,Antineoplastic Agents,N#CC(C#N)=Cc1ccc(O)c(O)c1
+Antineoplastic Agents/77,Antineoplastic Agents,O=C(O)c1ccc2cc(-c3ccc(O)c(C45CC6CC(CC(C6)C4)C5)c3)ccc2c1
+Antineoplastic Agents/78,Antineoplastic Agents,CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1
+Antineoplastic Agents/79,Antineoplastic Agents,COC(=O)/C=C/c1cc(O)ccc1O
+Antineoplastic Agents/80,Antineoplastic Agents,COC(=O)C[C@](O)(CCCC(C)(C)O)C(=O)O[C@@H]1C(OC)=C[C@]23CCCN2CCc2cc4c(cc2[C@H]13)OCO4
+Antineoplastic Agents/81,Antineoplastic Agents,CCC(C)N(C)C(=O)c1cc2ccccc2c(-c2ccccc2Cl)n1
+Antineoplastic Agents/82,Antineoplastic Agents,O=C(O)CCCc1ccccc1
+Antineoplastic Agents/83,Antineoplastic Agents,Cn1nnc2c(C(N)=O)ncn2c1=O
+Antineoplastic Agents/84,Antineoplastic Agents,CN(C)c1nc(N(C)C)nc(N(C)C)n1
+Antineoplastic Agents/85,Antineoplastic Agents,CC[C@]1(O)C[C@@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C=O)[C@H]3[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]5(CC)C=CCN6CC[C@]43[C@@H]65)C2)C1
+Antineoplastic Agents/86,Antineoplastic Agents,Nc1nc(=O)c2c(CCc3ccc(C(=O)N[C@H](CCC(=O)O)C(=O)O)cc3)c[nH]c2[nH]1
+Antineoplastic Agents/87,Antineoplastic Agents,Nc1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1
+Antineoplastic Agents/88,Antineoplastic Agents,COc1cc2ncc(-c3ccccc3)nc2cc1OC
+Antineoplastic Agents/89,Antineoplastic Agents,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1
+Antineoplastic Agents/90,Antineoplastic Agents,CC1(C)CCC(C)(C)c2cc(C(=O)Nc3ccc(C(=O)O)cc3)ccc21
+Antineoplastic Agents/91,Antineoplastic Agents,N#CC(/C=C1/C=CC(=O)C(O)=C1)=C(\N)S
+Antineoplastic Agents/92,Antineoplastic Agents,COc1ccc(C=C(C#N)C#N)cc1
+Antineoplastic Agents/93,Antineoplastic Agents,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CC(O)(C(=O)CO)CC3OC1CC(N)C(O)C(C)O1
+Antineoplastic Agents/94,Antineoplastic Agents,CNC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(C)C)[C@H](CSc1cccs1)C(=O)NO
+Antineoplastic Agents/95,Antineoplastic Agents,CN(C)CCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1.O=C(O)CC(O)(CC(=O)O)C(=O)O
+Antineoplastic Agents/96,Antineoplastic Agents,CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1
+Antineoplastic Agents/97,Antineoplastic Agents,C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@@H]2CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)O1
+Antineoplastic Agents/98,Antineoplastic Agents,Nc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O
+Antineoplastic Agents/99,Antineoplastic Agents,Cc1[nH]c2ccccc2c1CCNCc1ccc(/C=C/C(=O)NO)cc1
+Antineoplastic Agents/100,Antineoplastic Agents,Cc1cc(C)c(/C=C2\C(=O)Nc3ccccc32)[nH]1
+Antineoplastic Agents/101,Antineoplastic Agents,COC(=O)Nc1nc2ccc(C(=O)c3cccs3)cc2[nH]1
+Antineoplastic Agents/102,Antineoplastic Agents,N#C/C(=C\c1ccc(O)c(O)c1)C(=O)NCc1ccccc1
+Antineoplastic Agents/103,Antineoplastic Agents,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12
+Antineoplastic Agents/104,Antineoplastic Agents,O=C(c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F)N1CCN(C(=O)C2CC2)CC1
+Antineoplastic Agents/105,Antineoplastic Agents,C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)O1
+Antineoplastic Agents/106,Antineoplastic Agents,COC(=O)c1ccc(NCc2cc(O)ccc2O)cc1
+Antineoplastic Agents/107,Antineoplastic Agents,CC[C@H](CO)Nc1nc(NCc2ccccc2)c2ncn(C(C)C)c2n1
+Antineoplastic Agents/108,Antineoplastic Agents,OCc1c[nH]c2ccccc12
+Antineoplastic Agents/109,Antineoplastic Agents,CN1CC[C@H](c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)[C@H](O)C1
+Antineoplastic Agents/110,Antineoplastic Agents,O=C(CCCCCCC(=O)Nc1ccccc1)NO
+Cardiovascular Agents/0,Cardiovascular Agents,Cn1c(NCCN(CCO)CCCc2ccc([N+](=O)[O-])cc2)cc(=O)n(C)c1=O
+Cardiovascular Agents/1,Cardiovascular Agents,C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@]5(C)[C@H]6C[C@@H](O)[C@]7(C)[C@@H](C8=CC(=O)OC8)CC[C@]7(O)[C@@H]6CC[C@@H]5C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O
+Cardiovascular Agents/2,Cardiovascular Agents,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NCNS2(=O)=O
+Cardiovascular Agents/3,Cardiovascular Agents,C[C@]12CC[C@H](O)C[C@H]1CC[C@@H]1[C@@H]2C[C@@H](O)[C@]2(C)[C@@H](C3=CC(=O)OC3)CC[C@]12O
+Cardiovascular Agents/4,Cardiovascular Agents,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc2nonc12
+Cardiovascular Agents/5,Cardiovascular Agents,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1c1ccccc1/C=C/C(=O)OC(C)(C)C
+Cardiovascular Agents/6,Cardiovascular Agents,Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2NC1C
+Cardiovascular Agents/7,Cardiovascular Agents,CC(C)OC(=O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCc1ccccc1
+Cardiovascular Agents/8,Cardiovascular Agents,CCOC(=O)[C@H](CCc1ccccc1)N[C@H]1CCc2ccccc2N(CC(=O)O)C1=O
+Cardiovascular Agents/9,Cardiovascular Agents,CC(Cc1ccccc1)NCCC(c1ccccc1)c1ccccc1.CC(O)C(=O)O
+Cardiovascular Agents/10,Cardiovascular Agents,NS(=O)(=O)c1cc2c(cc1Cl)NC(C(Cl)Cl)NS2(=O)=O
+Cardiovascular Agents/11,Cardiovascular Agents,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+Cardiovascular Agents/12,Cardiovascular Agents,Cc1ccc(N(CC2=NCCN2)c2cccc(O)c2)cc1
+Cardiovascular Agents/13,Cardiovascular Agents,CCCN(CCC)CCc1ccc(O)c(O)c1
+Cardiovascular Agents/14,Cardiovascular Agents,CC(C)(O)[C@H]1O[C@H]2CC[C@@]3(C)[C@@](O)(CC[C@H]4Cc5c([nH]c6ccccc56)[C@@]43C)C2=CC1=O
+Cardiovascular Agents/15,Cardiovascular Agents,CC(NCCC(c1ccccc1)c1ccccc1)c1ccccc1
+Cardiovascular Agents/16,Cardiovascular Agents,C[C@](N)(Cc1ccc(O)c(O)c1)C(=O)O
+Cardiovascular Agents/17,Cardiovascular Agents,CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCN1CCOCC1)c1ccccc1S2
+Cardiovascular Agents/18,Cardiovascular Agents,CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)[C@H](C(=O)O)C(C)C
+Cardiovascular Agents/19,Cardiovascular Agents,CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCC(C)CC3)cc2)C1=O
+Cardiovascular Agents/20,Cardiovascular Agents,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1[C@H](C(=O)O)C[C@@H]2CCC[C@@H]21
+Cardiovascular Agents/21,Cardiovascular Agents,COc1cc(OC)c(C(=O)CCCN2CCCC2)c(OC)c1
+Cardiovascular Agents/22,Cardiovascular Agents,CCN[C@H]1C[C@H](C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21
+Cardiovascular Agents/23,Cardiovascular Agents,CC[N+](C)(C)Cc1ccccc1Br
+Cardiovascular Agents/24,Cardiovascular Agents,CC(CCc1ccc(O)cc1)NCCc1ccc(O)c(O)c1
+Cardiovascular Agents/25,Cardiovascular Agents,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O
+Cardiovascular Agents/26,Cardiovascular Agents,COc1ccc(OC)c(C(O)C(C)N)c1
+Cardiovascular Agents/27,Cardiovascular Agents,C[C@H]1CCC[C@@H](C)N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1
+Cardiovascular Agents/28,Cardiovascular Agents,CCCc1nc(C(C)(C)O)c(C(=O)OCc2oc(=O)oc2C)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+Cardiovascular Agents/29,Cardiovascular Agents,CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl
+Cardiovascular Agents/30,Cardiovascular Agents,CCCNCC(O)COc1ccccc1C(=O)CCc1ccccc1
+Cardiovascular Agents/31,Cardiovascular Agents,COc1cc(C(=O)OCCCN2CCCN(CCCOC(=O)c3cc(OC)c(OC)c(OC)c3)CC2)cc(OC)c1OC
+Cardiovascular Agents/32,Cardiovascular Agents,Cc1cccc(C)c1NC(=O)CN1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1
+Cardiovascular Agents/33,Cardiovascular Agents,CCC(=O)O[C@@H](OP(=O)(CCCCc1ccccc1)CC(=O)N1C[C@H](C2CCCCC2)C[C@H]1C(=O)O)C(C)C
+Cardiovascular Agents/34,Cardiovascular Agents,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1Cc2cc(OC)c(OC)cc2C[C@H]1C(=O)O
+Cardiovascular Agents/35,Cardiovascular Agents,NS(=O)(=O)c1cc(C2(O)NC(=O)c3ccccc32)ccc1Cl
+Cardiovascular Agents/36,Cardiovascular Agents,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1
+Cardiovascular Agents/37,Cardiovascular Agents,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC/C=C/c2ccccc2)C1c1cccc([N+](=O)[O-])c1
+Cardiovascular Agents/38,Cardiovascular Agents,Cc1cccc(Nc2ccncc2S(=O)(=O)NC(=O)NC(C)C)c1
+Cardiovascular Agents/39,Cardiovascular Agents,C=CCc1ccccc1OCC(O)CNC(C)C
+Cardiovascular Agents/40,Cardiovascular Agents,CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1
+Cardiovascular Agents/41,Cardiovascular Agents,NCCc1ccc(O)c(O)c1
+Cardiovascular Agents/42,Cardiovascular Agents,CC(C)(C)NC[C@H](O)COc1nsnc1N1CCOCC1
+Cardiovascular Agents/43,Cardiovascular Agents,CCCCC[C@H](O)CC[C@@H]1[C@H]2Cc3cccc(OCC(=O)O)c3C[C@H]2C[C@H]1O
+Cardiovascular Agents/44,Cardiovascular Agents,C=C1/C(=C/C=C2\CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)C[C@@H](O)C[C@@H]1O
+Cardiovascular Agents/45,Cardiovascular Agents,CCN(CC)CCOC(=O)C(Cc1cccc2ccccc12)CC1CCCO1
+Cardiovascular Agents/46,Cardiovascular Agents,NS(=O)(=O)c1cc2c(cc1C(F)(F)F)NC(Cc1ccccc1)NS2(=O)=O
+Cardiovascular Agents/47,Cardiovascular Agents,C(=C/c1ccccc1)\CN1CCN(C(c2ccccc2)c2ccccc2)CC1
+Cardiovascular Agents/48,Cardiovascular Agents,C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@]5(C)[C@H]6C[C@@H](O)[C@]7(C)C(C8=CC(=O)OC8)CC[C@]7(O)[C@@H]6CC[C@@H]5C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O
+Cardiovascular Agents/49,Cardiovascular Agents,NS(=O)(=O)c1cc(C(=O)O)cc(N2CCCC2)c1Oc1ccccc1
+Cardiovascular Agents/50,Cardiovascular Agents,C[C@@H]1Cc2c(Cl)cc(C(=O)N[C@@H](Cc3ccccc3)C(=O)O)c(O)c2C(=O)O1
+Cardiovascular Agents/51,Cardiovascular Agents,O=C(NCC1CCCCN1)c1cc(OCC(F)(F)F)ccc1OCC(F)(F)F
+Cardiovascular Agents/52,Cardiovascular Agents,CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl.O=S(=O)(O)c1ccccc1
+Cardiovascular Agents/53,Cardiovascular Agents,CO[C@@H]1C[C@H](O[C@H]2CC[C@]3(C)C4CC[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)O[C@H](C)[C@@H]1O
+Cardiovascular Agents/54,Cardiovascular Agents,Nc1nc(Nc2ccccc2)nc2c1ncn2C1OC(CO)C(O)C1O
+Cardiovascular Agents/55,Cardiovascular Agents,CC(COc1ccccc1)N(CCCl)Cc1ccccc1
+Cardiovascular Agents/56,Cardiovascular Agents,CC(C)NCC(O)COc1cccc2[nH]ccc12
+Cardiovascular Agents/57,Cardiovascular Agents,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+Cardiovascular Agents/58,Cardiovascular Agents,Nc1nc(N)c2nc(-c3ccccc3)c(N)nc2n1
+Cardiovascular Agents/59,Cardiovascular Agents,COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC
+Cardiovascular Agents/60,Cardiovascular Agents,CCN(CC)C(=O)Nc1ccc(OCC(O)CNC(C)(C)C)c(C(C)=O)c1
+Cardiovascular Agents/61,Cardiovascular Agents,CC(C(O)c1ccc(O)cc1)N1CCC(Cc2ccccc2)CC1
+Cardiovascular Agents/62,Cardiovascular Agents,CC[C@H]1CN2CCC1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12
+Cardiovascular Agents/63,Cardiovascular Agents,CCC1NC(=O)c2cc(S(N)(=O)=O)c(Cl)cc2N1
+Cardiovascular Agents/64,Cardiovascular Agents,CC1=NS(=O)(=O)c2cc(Cl)ccc2N1
+Cardiovascular Agents/65,Cardiovascular Agents,COC(=O)c1c(C)[nH]c(C)c1C(=O)c1ccccc1Cc1ccccc1
+Cardiovascular Agents/66,Cardiovascular Agents,Cc1cc(Cn2cnc3c2CC(C(=O)O)N(C(=O)C(c2ccccc2)c2ccccc2)C3)ccc1N(C)C
+Cardiovascular Agents/67,Cardiovascular Agents,Brc1c(NC2=NCCN2)ccc2nccnc12
+Cardiovascular Agents/68,Cardiovascular Agents,CCC[C@H](N[C@@H](C)C(=O)N1[C@H](C(=O)O)C[C@@H]2CCCC[C@@H]21)C(=O)OCC
+Cardiovascular Agents/69,Cardiovascular Agents,NC(N)=N/N=C/c1c(Cl)cccc1Cl
+Cardiovascular Agents/70,Cardiovascular Agents,CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ccccn1)C(C)C
+Cardiovascular Agents/71,Cardiovascular Agents,COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)C)C1c1cccc([N+](=O)[O-])c1
+Cardiovascular Agents/72,Cardiovascular Agents,COc1ccc(C2Sc3ccccc3N(CCN(C)C)C(=O)C2OC(C)=O)cc1
+Cardiovascular Agents/73,Cardiovascular Agents,CC1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1
+Cardiovascular Agents/74,Cardiovascular Agents,CCCC(=O)Nc1ccc(OCC(O)CNC(C)C)c(C(C)=O)c1
+Cardiovascular Agents/75,Cardiovascular Agents,CN(CCOc1ccc(NS(C)(=O)=O)cc1)CCc1ccc(NS(C)(=O)=O)cc1
+Cardiovascular Agents/76,Cardiovascular Agents,COc1ccccc1Oc1c(NS(=O)(=O)c2ccc(C(C)(C)C)cc2)nc(-c2ncccn2)nc1OCCO
+Cardiovascular Agents/77,Cardiovascular Agents,CCCCCCCCN[C@H](C)[C@@H](O)c1ccc(SC(C)C)cc1
+Cardiovascular Agents/78,Cardiovascular Agents,O=S(=O)(c1cccc2cnccc12)N1CCCNCC1
+Cardiovascular Agents/79,Cardiovascular Agents,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN(C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1
+Cardiovascular Agents/80,Cardiovascular Agents,CC(=O)N(O)[C@@H]1c2cc(C#N)ccc2OC(C)(C)[C@H]1O
+Cardiovascular Agents/81,Cardiovascular Agents,c1ccc(CC2=NCCN2)cc1
+Cardiovascular Agents/82,Cardiovascular Agents,CCOc1nc2cccc(C(=O)OC(C)OC(=O)OC3CCCCC3)c2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+Cardiovascular Agents/83,Cardiovascular Agents,C[C@@H]1O[C@@H](O[C@@H]2C=C3CCC4C(CC[C@]5(C)[C@@H](c6ccc(=O)oc6)CC[C@]45O)[C@@]3(C)CC2)[C@H](O)[C@H](O)[C@H]1O
+Cardiovascular Agents/84,Cardiovascular Agents,CCN(CC)CC1CCCCN1CC(=O)N1c2ccccc2C(=O)Nc2cccnc21
+Cardiovascular Agents/85,Cardiovascular Agents,C#CCN(C)Cc1ccccc1
+Cardiovascular Agents/86,Cardiovascular Agents,C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O
+Cardiovascular Agents/87,Cardiovascular Agents,CCN(CC)CCNC(=O)c1ccc(N)cc1
+Cardiovascular Agents/88,Cardiovascular Agents,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]34CCC(=O)O4)[C@@H]21
+Cardiovascular Agents/89,Cardiovascular Agents,CNC1(C)C2CCC(C2)C1(C)C
+Cardiovascular Agents/90,Cardiovascular Agents,CC(=O)OCC[N+](C)(C)C.[O-][Cl+3]([O-])([O-])[O-]
+Cardiovascular Agents/91,Cardiovascular Agents,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12
+Cardiovascular Agents/92,Cardiovascular Agents,COC(=O)C1=C(C)NC(C)=C(C(=O)OCC(C)C)C1c1ccccc1[N+](=O)[O-]
+Cardiovascular Agents/93,Cardiovascular Agents,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1
+Cardiovascular Agents/94,Cardiovascular Agents,C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1CCC[C@H]1C(=O)O
+Cardiovascular Agents/95,Cardiovascular Agents,CCCc1nc(C(C)(C)O)c(C(=O)O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+Cardiovascular Agents/96,Cardiovascular Agents,CC(=O)N=c1sc(S(N)(=O)=O)nn1C
+Cardiovascular Agents/97,Cardiovascular Agents,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O
+Cardiovascular Agents/98,Cardiovascular Agents,C[C@]12CC[C@H]3[C@@H](C=CC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@]2(O)CCC(=O)O
+Cardiovascular Agents/99,Cardiovascular Agents,CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1
+Cardiovascular Agents/100,Cardiovascular Agents,COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC
+Cardiovascular Agents/101,Cardiovascular Agents,COc1ccc(CCN(C)CCCN2CCc3cc(OC)c(OC)cc3CC2=O)cc1OC
+Cardiovascular Agents/102,Cardiovascular Agents,CCCCCCCCNC(C)C(O)c1ccc(SC(C)C)cc1
+Cardiovascular Agents/103,Cardiovascular Agents,CCS(=O)(=O)N(C)C1c2cc(C#N)ccc2OC(C)(C)C1O
+Cardiovascular Agents/104,Cardiovascular Agents,NC(N)=NC(=O)Cc1c(Cl)cccc1Cl
+Cardiovascular Agents/105,Cardiovascular Agents,CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1
+Cardiovascular Agents/106,Cardiovascular Agents,C[C@]12CC[C@H]3[C@@H](CC[C@]4(O)C[C@@H](O)CC[C@]34C=O)[C@@]1(O)CC[C@@H]2C1=CC(=O)OC1
+Cardiovascular Agents/107,Cardiovascular Agents,OCc1cccnc1
+Cardiovascular Agents/108,Cardiovascular Agents,NC(N)=NC(=O)c1nc(Cl)c(N)nc1N
+Cardiovascular Agents/109,Cardiovascular Agents,CCCc1cc(=O)[nH]c(=S)[nH]1
+Cardiovascular Agents/110,Cardiovascular Agents,COCC(=O)O[C@]1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2[C@@H]1C(C)C
+Cardiovascular Agents/111,Cardiovascular Agents,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1Cc2ccccc2C[C@H]1C(=O)O
+Cardiovascular Agents/112,Cardiovascular Agents,C[C@]12CC[C@H](O)C[C@H]1CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](C3=CC(=O)OC3)CC[C@]12O
+Cardiovascular Agents/113,Cardiovascular Agents,CCC(C)(C)N=C(NC#N)Nc1cccnc1
+Cardiovascular Agents/114,Cardiovascular Agents,CC[C@H]1CN2CCC1C[C@@H]2[C@@H](O)c1ccnc2ccc(OC)cc12
+Cardiovascular Agents/115,Cardiovascular Agents,CC(N=C(NC#N)Nc1ccncc1)C(C)(C)C
+Cardiovascular Agents/116,Cardiovascular Agents,CC(=O)Nc1ccc(OCC(O)CNC(C)C)cc1
+Cardiovascular Agents/117,Cardiovascular Agents,COc1ccc([C@@H]2Sc3ccccc3N(CCN(C)C)C(=O)[C@@H]2OC(C)=O)cc1
+Cardiovascular Agents/118,Cardiovascular Agents,C=C(CC)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl
+Cardiovascular Agents/119,Cardiovascular Agents,Oc1ccc(C2CNCCc3c2cc(O)c(O)c3Cl)cc1
+Cardiovascular Agents/120,Cardiovascular Agents,COc1cc2nc(N3CCN(C(=O)C4COc5ccccc5O4)CC3)nc(N)c2cc1OC
+Cardiovascular Agents/121,Cardiovascular Agents,CC(C)(C)NCC(O)COc1cccc2c1CCC(=O)N2
+Cardiovascular Agents/122,Cardiovascular Agents,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)[C@H](O)[C@H](O)[C@H]1O
+Cardiovascular Agents/123,Cardiovascular Agents,NS(=O)(=O)c1cc2c(cc1Cl)NC=NS2(=O)=O
+Cardiovascular Agents/124,Cardiovascular Agents,NC(N)=NCCNS(=O)(=O)c1cccc2cnccc12
+Central Nervous System Agents/0,Central Nervous System Agents,O=C(CCCN1CCC(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1
+Central Nervous System Agents/1,Central Nervous System Agents,CCNC(=O)N1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1
+Central Nervous System Agents/2,Central Nervous System Agents,CN(C)CCCN1c2ccccc2CCc2ccccc21
+Central Nervous System Agents/3,Central Nervous System Agents,Cc1cccc(C)c1NC(=O)C1CCCCN1C
+Central Nervous System Agents/4,Central Nervous System Agents,Cc1cc(-c2ccccc2)nnc1NCCN1CCOCC1
+Central Nervous System Agents/5,Central Nervous System Agents,O=S1(=O)c2cccc3cccc(c23)N1CCCN1CCN(c2ccc(F)cc2)CC1
+Central Nervous System Agents/6,Central Nervous System Agents,CCC1(c2ccccc2)NC(=O)N(C)C1=O
+Central Nervous System Agents/7,Central Nervous System Agents,CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1
+Central Nervous System Agents/8,Central Nervous System Agents,C[N+]1(C)CCC(OC(=O)C(O)(c2ccccc2)C2CCCC2)C1
+Central Nervous System Agents/9,Central Nervous System Agents,CCCOC(=O)c1cc2c(cn1)[nH]c1ccccc12
+Central Nervous System Agents/10,Central Nervous System Agents,CCCC(CCC)C(=O)O
+Central Nervous System Agents/11,Central Nervous System Agents,CNC(=O)c1cc2c(cn1)[nH]c1ccccc12
+Central Nervous System Agents/12,Central Nervous System Agents,COc1ccc(C2CNC(=O)C2)cc1OC1CCCC1
+Central Nervous System Agents/13,Central Nervous System Agents,CCN(CC)C(C)C(=O)c1ccccc1
+Central Nervous System Agents/14,Central Nervous System Agents,OC1(c2ccc(Cl)c(C(F)(F)F)c2)CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1
+Central Nervous System Agents/15,Central Nervous System Agents,C[C@@]12N[C@@H](Cc3ccccc31)c1ccccc12
+Central Nervous System Agents/16,Central Nervous System Agents,O=C1c2ccccc2S(=O)(=O)N1CCCCN1CCN(c2ncccn2)CC1
+Central Nervous System Agents/17,Central Nervous System Agents,O=C(O)C1=CCCN(CCON=C(c2ccccc2)c2ccccc2)C1
+Central Nervous System Agents/18,Central Nervous System Agents,Cc1ccsc1C(=CCCN1CCC[C@@H](C(=O)O)C1)c1sccc1C
+Central Nervous System Agents/19,Central Nervous System Agents,CN1CCc2cc(Cl)c(O)cc2[C@H]2c3ccccc3CC[C@@H]21
+Central Nervous System Agents/20,Central Nervous System Agents,CCOc1ccccc1OCC1CNCCO1
+Central Nervous System Agents/21,Central Nervous System Agents,O=C1Cc2cc(CCN3CCN(c4nsc5ccccc45)CC3)c(Cl)cc2N1
+Central Nervous System Agents/22,Central Nervous System Agents,C/C=C1\C2C=C(C)CC1(N)c1ccc(=O)[nH]c1C2
+Central Nervous System Agents/23,Central Nervous System Agents,COc1cccc([C@@]2(O)CCCC[C@@H]2CN(C)C)c1
+Central Nervous System Agents/24,Central Nervous System Agents,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1
+Central Nervous System Agents/25,Central Nervous System Agents,CCc1c(C)[nH]c2c1C(=O)C(CN1CCOCC1)CC2
+Central Nervous System Agents/26,Central Nervous System Agents,CN(C)CC/C=C1/c2ccccc2Sc2ccc(Cl)cc21
+Central Nervous System Agents/27,Central Nervous System Agents,C/C=C1/[C@H]2C=C(C)C[C@]1(N)c1ccc(=O)[nH]c1C2
+Central Nervous System Agents/28,Central Nervous System Agents,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1
+Central Nervous System Agents/29,Central Nervous System Agents,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1
+Central Nervous System Agents/30,Central Nervous System Agents,O=c1[nH]c2ccccc2n1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1
+Central Nervous System Agents/31,Central Nervous System Agents,Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2
+Central Nervous System Agents/32,Central Nervous System Agents,CSc1ccc2c(c1)N(CCC1CCCCN1C)c1ccccc1S2
+Central Nervous System Agents/33,Central Nervous System Agents,Cn1c(=O)c2c(ncn2C)n(C)c1=O
+Central Nervous System Agents/34,Central Nervous System Agents,O=C(CCCN1CCN(c2ccccn2)CC1)c1ccc(F)cc1
+Central Nervous System Agents/35,Central Nervous System Agents,CN=C1CN(O)C(c2ccccc2)=c2cc(Cl)ccc2=N1
+Central Nervous System Agents/36,Central Nervous System Agents,NC1=NC(=O)C(c2ccccc2)O1
+Central Nervous System Agents/37,Central Nervous System Agents,CSc1ccc2c(c1)C(N1CCN(C)CC1)Cc1ccccc1S2
+Central Nervous System Agents/38,Central Nervous System Agents,NC(C(=O)O)c1ccc(C(=O)O)c(O)c1
+Central Nervous System Agents/39,Central Nervous System Agents,CCCCOc1ccc(C(=O)CCN2CCCCC2)cc1
+Central Nervous System Agents/40,Central Nervous System Agents,C=CC(N)CCC(=O)O
+Central Nervous System Agents/41,Central Nervous System Agents,CN1CCN(C2=c3ccccc3=Nc3ccc(Cl)cc3N2)CC1
+Central Nervous System Agents/42,Central Nervous System Agents,OCCN1CCN(CC/C=C2/c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1
+Central Nervous System Agents/43,Central Nervous System Agents,COc1cc2c(cc1OC)[C@@]13CCN4CC5=CCO[C@H]6CC(=O)N2[C@H]1[C@H]6[C@H]5C[C@H]43
+Central Nervous System Agents/44,Central Nervous System Agents,CCCCOC(=O)c1ccc(N)cc1
+Central Nervous System Agents/45,Central Nervous System Agents,CCCCCCCCCCC[C@@H](C[C@@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@H](CC(C)C)NC=O
+Central Nervous System Agents/46,Central Nervous System Agents,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21
+Central Nervous System Agents/47,Central Nervous System Agents,Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1
+Central Nervous System Agents/48,Central Nervous System Agents,O=C(CCCN1CCC2(CC1)C(=O)NCN2c1ccccc1)c1ccc(F)cc1
+Central Nervous System Agents/49,Central Nervous System Agents,Clc1ccc2c(c1)C(N1CCNCC1)=Nc1ccccc1O2
+Central Nervous System Agents/50,Central Nervous System Agents,O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1
+Central Nervous System Agents/51,Central Nervous System Agents,OC(CCN1CCCCC1)(c1ccccc1)C1CC2C=CC1C2
+Central Nervous System Agents/52,Central Nervous System Agents,O=C1CC2OCC=C3CN4CC[C@]56c7ccccc7N1C5[C@H]2[C@H]3CC46
+Central Nervous System Agents/53,Central Nervous System Agents,Cn1ccc2cc3c(cc21)CCN3C(=O)Nc1cccnc1
+Central Nervous System Agents/54,Central Nervous System Agents,NS(=O)(=O)c1cccc2c1c([N+](=O)[O-])cc1[nH]c(=O)c(=O)[nH]c12
+Central Nervous System Agents/55,Central Nervous System Agents,CN(C)CCC=C1c2ccccc2CCc2ccccc21
+Central Nervous System Agents/56,Central Nervous System Agents,CNCCCC12CCC(c3ccccc31)c1ccccc12
+Central Nervous System Agents/57,Central Nervous System Agents,CCCNC(C)C(=O)Nc1ccccc1C
+Central Nervous System Agents/58,Central Nervous System Agents,CCCOc1ccc(C(=O)OCCN(CC)CC)cc1N
+Central Nervous System Agents/59,Central Nervous System Agents,CCCCN(CCCC)CCCOC(=O)c1ccc(N)cc1
+Central Nervous System Agents/60,Central Nervous System Agents,Clc1ccc(N2CCN(Cc3c[nH]c4ncccc34)CC2)cc1
+Central Nervous System Agents/61,Central Nervous System Agents,CCNC1(c2cccs2)CCCCC1=O
+Central Nervous System Agents/62,Central Nervous System Agents,C[C@H]1CN(CCCn2c3ccccc3c3ccccc32)C[C@@H](C)N1
+Central Nervous System Agents/63,Central Nervous System Agents,CCc1nn(CCCN2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1
+Central Nervous System Agents/64,Central Nervous System Agents,O=c1[nH]c2cc(Cl)ccc2o1
+Central Nervous System Agents/65,Central Nervous System Agents,CCCn1cnc2c1c(=O)n(CCCCC(C)=O)c(=O)n2C
+Central Nervous System Agents/66,Central Nervous System Agents,CN1CCN2c3ccccc3Cc3ccccc3C2C1
+Central Nervous System Agents/67,Central Nervous System Agents,CC(C)(C)C(O)/C=C/c1ccc2c(c1)OCO2
+Central Nervous System Agents/68,Central Nervous System Agents,CN(C)CC/C=C1\c2ccccc2COc2ccccc21
+Central Nervous System Agents/69,Central Nervous System Agents,CN(C)CC/C=C1/c2ccccc2COc2ccccc21
+Central Nervous System Agents/70,Central Nervous System Agents,O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12
+Central Nervous System Agents/71,Central Nervous System Agents,CCCCc1cc2ccccc2c(OCCN(C)C)n1
+Central Nervous System Agents/72,Central Nervous System Agents,COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2
+Central Nervous System Agents/73,Central Nervous System Agents,CNCCCCOc1ccccc1Cc1ccccc1
+Central Nervous System Agents/74,Central Nervous System Agents,O=C(CCNNC(=O)c1ccncc1)NCc1ccccc1
+Central Nervous System Agents/75,Central Nervous System Agents,OC(CN1CCC(Cc2ccc(F)cc2)CC1)c1ccc(Cl)cc1
+Central Nervous System Agents/76,Central Nervous System Agents,CC1(C)OC(=O)NC1=O
+Central Nervous System Agents/77,Central Nervous System Agents,O=C(O)C1CCCN(CCC=C(c2ccccc2)c2ccccc2)C1
+Central Nervous System Agents/78,Central Nervous System Agents,CC(N)C(=O)OC(C)(C)Cc1ccc(Cl)cc1
+Central Nervous System Agents/79,Central Nervous System Agents,CCC1(C)CC(=O)NC1=O
+Central Nervous System Agents/80,Central Nervous System Agents,Cc1cc(C(=O)NNCc2ccccc2)no1
+Central Nervous System Agents/81,Central Nervous System Agents,CCc1c(C(=O)OC)ncc2[nH]c3cc(OC)c(OC)cc3c12
+Central Nervous System Agents/82,Central Nervous System Agents,CCOc1ccccc1O[C@@H](c1ccccc1)[C@H]1CNCCO1
+Central Nervous System Agents/83,Central Nervous System Agents,Fc1ccc([C@@H]2CCNC[C@H]2COc2ccc3c(c2)OCO3)cc1
+Central Nervous System Agents/84,Central Nervous System Agents,CCCCOc1ccc(OCCCN2CCOCC2)cc1
+Central Nervous System Agents/85,Central Nervous System Agents,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1
+Central Nervous System Agents/86,Central Nervous System Agents,Nc1nc2c(cnn2CCc2ccccc2)c2nc(-c3ccco3)nn12
+Central Nervous System Agents/87,Central Nervous System Agents,NNCCc1ccccc1
+Central Nervous System Agents/88,Central Nervous System Agents,Cc1nc2ccccn2c(=O)c1CCN1CCC(C(=O)c2ccc(F)cc2)CC1
+Central Nervous System Agents/89,Central Nervous System Agents,CN1CCOC(c2ccccc2)c2ccccc2C1
+Central Nervous System Agents/90,Central Nervous System Agents,CC(CN(C)C)CN1c2ccccc2CCc2ccccc21
+Central Nervous System Agents/91,Central Nervous System Agents,NC(=O)C1(N2CCCCC2)CCN(CCCC(=O)c2ccc(F)cc2)CC1
+Central Nervous System Agents/92,Central Nervous System Agents,COc1ccc2c3c1O[C@H]1C[C@@H](O)C=C[C@@]31CCN(C)C2
+Central Nervous System Agents/93,Central Nervous System Agents,CN1Cc2ccccc2[C@@H]2c3cccc4[nH]cc(c34)C[C@H]21
+Central Nervous System Agents/94,Central Nervous System Agents,CN(CCCN1c2ccccc2CCc2ccccc21)CC(=O)c1ccc(Cl)cc1
+Central Nervous System Agents/95,Central Nervous System Agents,CN1C2CCC1CC(OC(c1ccccc1)c1ccccc1)C2
+Central Nervous System Agents/96,Central Nervous System Agents,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2
+Central Nervous System Agents/97,Central Nervous System Agents,OC(CCN1CCCC1)(c1ccccc1)C1CCCCC1
+Central Nervous System Agents/98,Central Nervous System Agents,C#CCN(C)[C@H](C)Cc1ccccc1
+Central Nervous System Agents/99,Central Nervous System Agents,CCN1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC
+Central Nervous System Agents/100,Central Nervous System Agents,CCCN[C@H]1CCc2nc(N)sc2C1
+Central Nervous System Agents/101,Central Nervous System Agents,C=C(C)CN1CC[C@]23c4c5ccc(O)c4O[C@H]2c2[nH]c4ccccc4c2C[C@@]3(O)C1C5
+Central Nervous System Agents/102,Central Nervous System Agents,CN(C)CCOC(=O)COc1ccc(Cl)cc1
+Central Nervous System Agents/103,Central Nervous System Agents,C1CCc2nnnn2CC1
+Central Nervous System Agents/104,Central Nervous System Agents,O=C(O)/C=C1\CCCc2ccccc2C1O
+Central Nervous System Agents/105,Central Nervous System Agents,NS(=O)(=O)Cc1noc2ccccc12
+Central Nervous System Agents/106,Central Nervous System Agents,NC(=O)OCC(COC(N)=O)c1ccccc1
+Central Nervous System Agents/107,Central Nervous System Agents,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O
+Central Nervous System Agents/108,Central Nervous System Agents,c1cnc(N2CCN(Cc3ccc4c(c3)OCO4)CC2)nc1
+Central Nervous System Agents/109,Central Nervous System Agents,COc1ccc(C(=O)N2CCCC2=O)cc1
+Central Nervous System Agents/110,Central Nervous System Agents,CCN(CC)CCOC(=O)C(O)(c1ccccc1)c1ccccc1
+Central Nervous System Agents/111,Central Nervous System Agents,O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1
+Central Nervous System Agents/112,Central Nervous System Agents,Nc1nc2ccc(OC(F)(F)F)cc2s1
+Central Nervous System Agents/113,Central Nervous System Agents,CN1C(=O)CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc21
+Central Nervous System Agents/114,Central Nervous System Agents,CCOC(=O)c1ncc2[nH]c3ccc(OCc4ccccc4)cc3c2c1COC
+Central Nervous System Agents/115,Central Nervous System Agents,CNCCCC1c2ccccc2C=Cc2ccccc21
+Central Nervous System Agents/116,Central Nervous System Agents,CCOC(=O)c1cnc2c(cnn2CC)c1NN=C(C)C
+Central Nervous System Agents/117,Central Nervous System Agents,CCN1C(=O)NC(c2ccccc2)C1=O
+Central Nervous System Agents/118,Central Nervous System Agents,CCCN1CCCC[C@H]1C(=O)Nc1c(C)cccc1C
+Central Nervous System Agents/119,Central Nervous System Agents,CCCOc1cc(N)ccc1C(=O)OCCN(CC)CC
+Central Nervous System Agents/120,Central Nervous System Agents,CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21
+Central Nervous System Agents/121,Central Nervous System Agents,CNCCC=C1c2ccccc2CCc2ccccc21
+Central Nervous System Agents/122,Central Nervous System Agents,CNCCCN1c2ccccc2CCc2ccccc21
+Central Nervous System Agents/123,Central Nervous System Agents,CCN(CCCCOC(=O)c1ccc(OC)c(OC)c1)C(C)Cc1ccc(OC)cc1
+Central Nervous System Agents/124,Central Nervous System Agents,CN1CCN(CC/C=C2\c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1
+Central Nervous System Agents/125,Central Nervous System Agents,OCCN1CCN(CC/C=C2/c3ccccc3Sc3ccc(Cl)cc32)CC1
+Central Nervous System Agents/126,Central Nervous System Agents,O=C1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5
+Central Nervous System Agents/127,Central Nervous System Agents,Cc1ccccc1C(OCCN(C)C)c1ccccc1.O=C(O)CC(O)(CC(=O)O)C(=O)O
+Central Nervous System Agents/128,Central Nervous System Agents,CC[C@@H](C(N)=O)N1CCCC1=O
+Central Nervous System Agents/129,Central Nervous System Agents,CC(C)CC(N(C)C)C1(c2ccc(Cl)cc2)CCC1
+Central Nervous System Agents/130,Central Nervous System Agents,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1
+Central Nervous System Agents/131,Central Nervous System Agents,Clc1ccc(C(c2ccc(Cl)cc2)n2cc[n+](CC(OCc3ccc(Cl)cc3Cl)c3ccc(Cl)cc3Cl)c2)cc1
+Central Nervous System Agents/132,Central Nervous System Agents,O=C1CN(/N=C/c2ccc(-c3ccc([N+](=O)[O-])cc3)o2)C(=O)N1
+Central Nervous System Agents/133,Central Nervous System Agents,CCN(CC)C(=O)/C(C#N)=C/c1cc(O)c(O)c([N+](=O)[O-])c1
+Central Nervous System Agents/134,Central Nervous System Agents,CCOC(=O)c1ncc2[nH]c3cccc(OC(C)C)c3c2c1C
+Central Nervous System Agents/135,Central Nervous System Agents,CN(C)CCN1C(=O)c2ccccc2N(C)c2ccccc21
+Central Nervous System Agents/136,Central Nervous System Agents,O=[N+]([O-])c1cccc2cn[nH]c12
+Central Nervous System Agents/137,Central Nervous System Agents,CCN(CC)C(=O)[C@]1(c2ccccc2)C[C@@H]1CN
+Central Nervous System Agents/138,Central Nervous System Agents,CN1c2ccccc2C(NCCCCCCC(=O)O)c2ccc(Cl)cc2S1(=O)=O
+Central Nervous System Agents/139,Central Nervous System Agents,CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(Br)c1OC
+Central Nervous System Agents/140,Central Nervous System Agents,C=CCN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@@]3(O)[C@H]1C5
+Central Nervous System Agents/141,Central Nervous System Agents,OC(CCCN1CCN(c2ncc(F)cn2)CC1)c1ccc(F)cc1
+Central Nervous System Agents/142,Central Nervous System Agents,COC1=CC(=O)O[C@@H](/C=C/c2ccccc2)C1
+Central Nervous System Agents/143,Central Nervous System Agents,O=C1NCN(c2ccccc2)C12CCN(CCCC(c1ccc(F)cc1)c1ccc(F)cc1)CC2
+Central Nervous System Agents/144,Central Nervous System Agents,CCOC(=O)c1ccc(N)cc1
+Central Nervous System Agents/145,Central Nervous System Agents,CCOC(=O)c1cncn1[C@H](C)c1ccccc1
+Central Nervous System Agents/146,Central Nervous System Agents,NC(=O)N1c2ccccc2C=Cc2ccccc21
+Central Nervous System Agents/147,Central Nervous System Agents,S=C(NC1CCCCC1)N1CCC(c2cnc[nH]2)CC1
+Central Nervous System Agents/148,Central Nervous System Agents,COc1ccc(CC2c3cc(OC)c(OC)cc3CCN2C)cc1OC
+Central Nervous System Agents/149,Central Nervous System Agents,CC(C)(N)Cc1ccccc1
+Central Nervous System Agents/150,Central Nervous System Agents,Oc1ccc2c3c1O[C@H]1[C@@H](O)CC[C@@]4(O)[C@@H](C2)N(CC2CCC2)CC[C@]314
+Central Nervous System Agents/151,Central Nervous System Agents,CNCC[C@H](Oc1cccc2ccccc12)c1cccs1
+Central Nervous System Agents/152,Central Nervous System Agents,C=C(C)[C@H]1[C@@H]2C(=O)O[C@H]1[C@H]1OC(=O)[C@@]34O[C@@H]3C[C@]2(O)[C@@]14C.CC(C)(O)[C@H]1[C@@H]2C(=O)O[C@H]1[C@H]1OC(=O)[C@@]34O[C@@H]3C[C@]2(O)[C@@]14C
+Central Nervous System Agents/153,Central Nervous System Agents,Cc1nc2sccn2c(=O)c1CCN1CCC(=C(c2ccc(F)cc2)c2ccc(F)cc2)CC1
+Central Nervous System Agents/154,Central Nervous System Agents,CC1CCN(CCCC(=O)c2ccc(F)cc2)CC1
+Central Nervous System Agents/155,Central Nervous System Agents,CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC
+Central Nervous System Agents/156,Central Nervous System Agents,O=C1[C@H]2CCCC[C@H]2C(=O)N1CCCCN1CCN(c2nsc3ccccc23)CC1
+Central Nervous System Agents/157,Central Nervous System Agents,CN1C[C@@H](NS(=O)(=O)N(C)C)C[C@@H]2c3cccc4c3c(cn4C)C[C@H]21
+Central Nervous System Agents/158,Central Nervous System Agents,CCCNC(C)C(=O)Nc1c(C)csc1C(=O)OC
+Central Nervous System Agents/159,Central Nervous System Agents,COc1ccc2[nH]cc(CCNC(C)=O)c2c1
+Central Nervous System Agents/160,Central Nervous System Agents,COC1=CC(=O)OC(/C=C/c2ccccc2)C1
+Central Nervous System Agents/161,Central Nervous System Agents,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1
+Central Nervous System Agents/162,Central Nervous System Agents,O=C1NCCN1CCN1CCC(c2cn(-c3ccc(F)cc3)c3ccc(Cl)cc23)CC1
+Central Nervous System Agents/163,Central Nervous System Agents,Cc1ccc(C(=O)c2cc(O)c(O)c([N+](=O)[O-])c2)cc1
+Central Nervous System Agents/164,Central Nervous System Agents,Cc1ccccc1N=C(N)Nc1ccccc1C
+Central Nervous System Agents/165,Central Nervous System Agents,CC(=O)Nc1ccc(O)cc1
+Central Nervous System Agents/166,Central Nervous System Agents,Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2
+Central Nervous System Agents/167,Central Nervous System Agents,CCN(C)C(=O)Oc1cccc([C@H](C)N(C)C)c1
+Central Nervous System Agents/168,Central Nervous System Agents,Clc1ccc(C2CC3CCC2N3)cn1
+Central Nervous System Agents/169,Central Nervous System Agents,CCCCCCC(C)(C)c1ccc(C2CC(O)CCC2CCCO)c(O)c1
+Central Nervous System Agents/170,Central Nervous System Agents,Clc1ccc2nsnc2c1NC1=NCCN1
+Central Nervous System Agents/171,Central Nervous System Agents,Cc1cccc(C(C)c2cnc[nH]2)c1C
+Gastrointestinal Agents/0,Gastrointestinal Agents,O=C(NC(Cc1cc(=O)[nH]c2ccccc12)C(=O)O)c1ccc(Cl)cc1
+Gastrointestinal Agents/1,Gastrointestinal Agents,C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@@]21C
+Gastrointestinal Agents/2,Gastrointestinal Agents,CC(=O)Oc1ccc(C(c2ccc(OC(C)=O)cc2)c2ccccn2)cc1
+Gastrointestinal Agents/3,Gastrointestinal Agents,COCCCOc1ccnc(CS(=O)c2nc3ccccc3[nH]2)c1C
+Gastrointestinal Agents/4,Gastrointestinal Agents,Cc1nc2c(OCc3ccccc3)cccn2c1CC#N
+Gastrointestinal Agents/5,Gastrointestinal Agents,COc1cc(N)c(Cl)cc1C(=O)N[C@H]1CCN(CCCOc2ccc(F)cc2)C[C@H]1OC
+Gastrointestinal Agents/6,Gastrointestinal Agents,CN/C(=C\[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1
+Gastrointestinal Agents/7,Gastrointestinal Agents,CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1
+Gastrointestinal Agents/8,Gastrointestinal Agents,CC1(CN2CCC(n3c(=O)[nH]c4ccccc43)CC2)OCc2ccccc2-n2cccc21
+Gastrointestinal Agents/9,Gastrointestinal Agents,C[C@H](CCC(=O)NCC(=O)O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@@]21C
+Gastrointestinal Agents/10,Gastrointestinal Agents,C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3C(=O)C[C@@H]4CC(=O)CC[C@]4(C)[C@H]3CC(=O)[C@@]21C
+Gastrointestinal Agents/11,Gastrointestinal Agents,O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21
+Gastrointestinal Agents/12,Gastrointestinal Agents,CCC(COC(=O)c1cc(OC)c(OC)c(OC)c1)(c1ccccc1)N(C)C
+Gastrointestinal Agents/13,Gastrointestinal Agents,C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@H]3[C@H](CC[C@@]21C)[C@@]1(C)CC[C@@H](O)C[C@H]1C[C@H]3O
+Gastrointestinal Agents/14,Gastrointestinal Agents,COc1ccc2[n-]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1.COc1ccc2[n-]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1
+Gastrointestinal Agents/15,Gastrointestinal Agents,NC(N)=Nc1nc(CSCC/C(N)=N/S(N)(=O)=O)cs1
+Gastrointestinal Agents/16,Gastrointestinal Agents,NCC1CCC(C(=O)Oc2ccc(CCC(=O)O)cc2)CC1
+Gastrointestinal Agents/17,Gastrointestinal Agents,CC(C)[N+](C)(CCOC(=O)C1c2ccccc2Oc2ccccc21)C(C)C
+Gastrointestinal Agents/18,Gastrointestinal Agents,CCOc1cc(N)c(Cl)cc1C(=O)NCC1CN(Cc2ccc(F)cc2)CCO1
+Gastrointestinal Agents/19,Gastrointestinal Agents,COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1
+Gastrointestinal Agents/20,Gastrointestinal Agents,CN=C(NC#N)NCCSCc1nc[nH]c1C
+Gastrointestinal Agents/21,Gastrointestinal Agents,Cc1[nH]cnc1CN1CCc2c(c3ccccc3n2C)C1=O
+Gastrointestinal Agents/22,Gastrointestinal Agents,CN/C(=C\[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1
+Gastrointestinal Agents/23,Gastrointestinal Agents,COc1ccnc(CS(=O)c2nc3ccc(OC(F)F)cc3[nH]2)c1OC
+Gastrointestinal Agents/24,Gastrointestinal Agents,C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@@]21C
+Gastrointestinal Agents/25,Gastrointestinal Agents,O=C1OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21
+Gastrointestinal Agents/26,Gastrointestinal Agents,C[C@H](CCC(=O)NCC(=O)O)[C@H]1CC[C@H]2[C@H]3[C@H](C[C@H](O)[C@@]21C)[C@@]1(C)CC[C@@H](O)C[C@H]1C[C@H]3O
+Gastrointestinal Agents/27,Gastrointestinal Agents,O=C1c2cccc(O)c2C(=O)c2c(O)cccc21
+Gastrointestinal Agents/28,Gastrointestinal Agents,CC(=O)OCC(=O)NCCCOc1cccc(CN2CCCCC2)c1
+Gastrointestinal Agents/29,Gastrointestinal Agents,CCCCC(C)(C)[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1C/C=C\CCCC(=O)O

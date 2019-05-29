@@ -1,5 +1,7 @@
 ### Code and data to accompany:
-# "Learning Molecule Drug Function from Structure Representations and Deep Neural Networks or Random Forests"
+**[Learning Molecule Drug Function from Structure Representations and Deep Neural Networks or Random Forests](https://doi.org/10.1101/482877)**.
+Jesse G Meyer, Shengchao Liu, Ian J Miller, Anthony Gitter, Joshua J Coon.
+bioRxiv 2018. doi:10.1101/482877
 
 ### Models
 

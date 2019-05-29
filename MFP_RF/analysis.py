@@ -102,6 +102,10 @@ if __name__ == '__main__':
         print('test mean: {}\tstd: {}'.format(np.mean(test_val_list), np.std(test_val_list)))
         print()
 
+    confusion(mode='fingerprints', num_of_class=3)
+    confusion(mode='fingerprints', num_of_class=5)
+    confusion(mode='fingerprints', num_of_class=12)
+
     mode = 'latent'
     for number_of_class in [3, 5, 12]:
         train_val_list, test_val_list = [], []
@@ -114,10 +118,6 @@ if __name__ == '__main__':
         print('train mean: {}\tstd: {}'.format(np.mean(train_val_list), np.std(train_val_list)))
         print('test mean: {}\tstd: {}'.format(np.mean(test_val_list), np.std(test_val_list)))
         print()
-
-    confusion(mode='fingerprints', num_of_class=3)
-    confusion(mode='fingerprints', num_of_class=5)
-    confusion(mode='fingerprints', num_of_class=12)
 
     confusion(mode='latent', num_of_class=3)
     confusion(mode='latent', num_of_class=5)
