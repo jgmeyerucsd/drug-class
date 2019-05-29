@@ -42,20 +42,27 @@ class RandomForestClassification:
         model.fit(x_train, y_train)
 
         y_pred_on_train = reshape_data_into_2_dim(model.predict(x_train))
+        y_pred_proba_on_train = model.predict_proba(x_train)
 
         if x_val is not None:
             y_pred_on_val = reshape_data_into_2_dim(model.predict(x_val))
+            y_pred_proba_on_val = model.predict_proba(x_val)
         else:
-            y_pred_on_val = None
+            y_pred_on_val, y_pred_proba_on_val = None, None
 
         if x_test is not None:
             y_pred_on_test = reshape_data_into_2_dim(model.predict(x_test))
+            y_pred_proba_on_test = model.predict_proba(x_test)
         else:
-            y_pred_on_test = None
+            y_pred_on_test, y_pred_proba_on_test = None, None
 
         output_classification_result(y_train=y_train, y_pred_on_train=y_pred_on_train,
+                                     y_pred_proba_on_train=y_pred_proba_on_train,
                                      y_val=y_val, y_pred_on_val=y_pred_on_val,
-                                     y_test=y_test, y_pred_on_test=y_pred_on_test)
+                                     y_pred_proba_on_val=y_pred_proba_on_val,
+                                     y_test=y_test, y_pred_on_test=y_pred_on_test,
+                                     y_pred_proba_on_test=y_pred_proba_on_test)
+
         np.savez('output_all_single_class_cv/num_class_{}_index_{}'.format(number_of_class, index),
                  y_train=y_train, y_pred_on_train=y_pred_on_train,
                  y_test=y_test, y_pred_on_test=y_pred_on_test)
@@ -64,29 +71,30 @@ class RandomForestClassification:
 
         return
 
-    def predict_with_existing(self, X_data, weight_file):
-        model = self.load_model(weight_file)
-        y_pred = reshape_data_into_2_dim(model.predict_proba(X_data)[:, 1])
-        return y_pred
-
     def eval_with_existing(self, x_train, y_train, x_val, y_val, x_test, y_test, weight_file):
         model = self.load_model(weight_file)
 
         y_pred_on_train = reshape_data_into_2_dim(model.predict(x_train))
+        y_pred_proba_on_train = model.predict_proba(x_train)
 
         if x_val is not None:
             y_pred_on_val = reshape_data_into_2_dim(model.predict(x_val))
+            y_pred_proba_on_val = model.predict_proba(x_val)
         else:
-            y_pred_on_val = None
+            y_pred_on_val, y_pred_proba_on_val = None, None
 
         if x_test is not None:
             y_pred_on_test = reshape_data_into_2_dim(model.predict(x_test))
+            y_pred_proba_on_test = model.predict_proba(x_test)
         else:
-            y_pred_on_test = None
+            y_pred_on_test, y_pred_proba_on_test = None, None
 
         output_classification_result(y_train=y_train, y_pred_on_train=y_pred_on_train,
+                                     y_pred_proba_on_train=y_pred_proba_on_train,
                                      y_val=y_val, y_pred_on_val=y_pred_on_val,
-                                     y_test=y_test, y_pred_on_test=y_pred_on_test)
+                                     y_pred_proba_on_val=y_pred_proba_on_val,
+                                     y_test=y_test, y_pred_on_test=y_pred_on_test,
+                                     y_pred_proba_on_test=y_pred_proba_on_test)
 
         return
 

@@ -12,42 +12,40 @@ def reshape_data_into_2_dim(data):
     return data
 
 
-def multiclass_roc_auc_score(y_true, y_prob, AVERAGE='weighted'):
-    n_classes = int(max(max(y_true), max(y_prob)) + 1)
+def multiclass_roc_auc_score(y_true, y_pred_proba, AVERAGE='weighted'):
+    n_classes = int(max(y_true) + 1)
     y_true = label_binarize(y_true, classes=[x for x in range(n_classes)])
-    y_prob = label_binarize(y_prob, classes=[x for x in range(n_classes)])
-    return roc_auc_score(y_true, y_prob, average=AVERAGE)
+    return roc_auc_score(y_true, y_pred_proba, average=AVERAGE)
 
 
-def multiclass_pr_auc_score(y_true, y_prob, AVERAGE='weighted'):
-    n_classes = int(max(max(y_true), max(y_prob)) + 1)
+def multiclass_pr_auc_score(y_true, y_pred_proba, AVERAGE='weighted'):
+    n_classes = int(max(y_true) + 1)
     y_true = label_binarize(y_true, classes=[x for x in range(n_classes)])
-    y_prob = label_binarize(y_prob, classes=[x for x in range(n_classes)])
-    return average_precision_score(y_true, y_prob, average=AVERAGE)
+    return average_precision_score(y_true, y_pred_proba, average=AVERAGE)
 
 
-def output_classification_result(y_train, y_pred_on_train,
-                                 y_val, y_pred_on_val,
-                                 y_test, y_pred_on_test):
+def output_classification_result(y_train, y_pred_on_train, y_pred_proba_on_train,
+                                 y_val, y_pred_on_val, y_pred_proba_on_val,
+                                 y_test, y_pred_on_test, y_pred_proba_on_test):
     if y_train is not None:
         print('train accuracy: {}'.format(accuracy_score(y_true=y_train, y_pred=y_pred_on_train)))
         print('train balanced accuracy: {}'.format(balanced_accuracy_score(y_true=y_train, y_pred=y_pred_on_train)))
         print('train matthews corrcoef: {}'.format(matthews_corrcoef(y_true=y_train, y_pred=y_pred_on_train)))
-        print('train multiclass ROC-AUC: {}'.format(multiclass_roc_auc_score(y_true=y_train, y_prob=y_pred_on_train, AVERAGE='weighted')))
-        print('train multiclass PR-AUC: {}'.format(multiclass_pr_auc_score(y_true=y_train, y_prob=y_pred_on_train, AVERAGE='weighted')))
+        print('train multiclass ROC-AUC: {}'.format(multiclass_roc_auc_score(y_true=y_train, y_pred_proba=y_pred_proba_on_train, AVERAGE='weighted')))
+        print('train multiclass PR-AUC: {}'.format(multiclass_pr_auc_score(y_true=y_train, y_pred_proba=y_pred_proba_on_train, AVERAGE='weighted')))
 
     if y_val is not None:
         print('val accuracy: {}'.format(accuracy_score(y_true=y_val, y_pred=y_pred_on_val)))
         print('val balanced accuracy: {}'.format(balanced_accuracy_score(y_true=y_val, y_pred=y_pred_on_val)))
         print('val matthews corrcoef: {}'.format(matthews_corrcoef(y_true=y_val, y_pred=y_pred_on_val)))
-        print('train multiclass ROC-AUC: {}'.format(multiclass_roc_auc_score(y_true=y_val, y_prob=y_pred_on_val, AVERAGE='weighted')))
-        print('val multiclass PR-AUC: {}'.format(multiclass_pr_auc_score(y_true=y_val, y_prob=y_pred_on_val, AVERAGE='weighted')))
+        print('train multiclass ROC-AUC: {}'.format(multiclass_roc_auc_score(y_true=y_val, y_pred_proba=y_pred_proba_on_val, AVERAGE='weighted')))
+        print('val multiclass PR-AUC: {}'.format(multiclass_pr_auc_score(y_true=y_val, y_pred_proba=y_pred_proba_on_val, AVERAGE='weighted')))
 
     if y_test is not None:
         print('test accuracy: {}'.format(accuracy_score(y_true=y_test, y_pred=y_pred_on_test)))
         print('test balanced accuracy: {}'.format(balanced_accuracy_score(y_true=y_test, y_pred=y_pred_on_test)))
         print('test matthews corrcoef: {}'.format(matthews_corrcoef(y_true=y_test, y_pred=y_pred_on_test)))
-        print('train multiclass ROC-AUC: {}'.format(multiclass_roc_auc_score(y_true=y_test, y_prob=y_pred_on_test, AVERAGE='weighted')))
-        print('test multiclass PR-AUC: {}'.format(multiclass_pr_auc_score(y_true=y_test, y_prob=y_pred_on_test, AVERAGE='weighted')))
+        print('train multiclass ROC-AUC: {}'.format(multiclass_roc_auc_score(y_true=y_test, y_pred_proba=y_pred_proba_on_test, AVERAGE='weighted')))
+        print('test multiclass PR-AUC: {}'.format(multiclass_pr_auc_score(y_true=y_test, y_pred_proba=y_pred_proba_on_test, AVERAGE='weighted')))
 
     return
