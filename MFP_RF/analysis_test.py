@@ -1,5 +1,6 @@
 if __name__ == '__main__':
-    with open('analyze_random_forest_cv_inner_small_aliper.out', 'r') as f:
+    # with open('analyze_random_forest_cv_inner_small_aliper.out', 'r') as f:
+    with open('analyze_random_forest_cv_inner_all_single_class.out', 'r') as f:
         lines = f.readlines()
 
     idx_set = set()
@@ -12,3 +13,4 @@ if __name__ == '__main__':
         idx_set.add(idx)
 
     print(len(idx_set))
+    print(idx_set)
