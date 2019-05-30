@@ -56,7 +56,7 @@ class RandomForestClassification:
                                      y_test=y_test, y_pred_on_test=y_pred_on_test,
                                      y_pred_proba_on_test=y_pred_proba_on_test)
 
-        np.savez('output_allsingleclass/num_class_{}_index_{}'.format(number_of_class, index),
+        np.savez('output_all_single_class/num_class_{}_index_{}'.format(number_of_class, index),
                  y_train=y_train, y_pred_on_train=y_pred_on_train,
                  y_test=y_test, y_pred_on_test=y_pred_on_test)
 
