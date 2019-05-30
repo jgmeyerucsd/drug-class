@@ -4,11 +4,6 @@ import numpy as np
 
 
 def extract(file_path):
-    # TODO: still have 4 missing
-    import os
-    if not os.path.exists(file_path):
-        return 0, 0, 0
-
     with open(file_path) as f:
         lines = f.readlines()
 
