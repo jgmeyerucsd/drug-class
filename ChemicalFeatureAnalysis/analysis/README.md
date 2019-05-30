@@ -1,0 +1,1 @@
+The file `ChemTreeMap/examples.py` has been modified from the original version provided by the [ChemTreeMap docker container](http://ajing.github.io/ChemTreeMap/). The original third-party code is available under the Apache License,  Copyright © 2016 Jing Lu <ajingnk@gmail.com>
