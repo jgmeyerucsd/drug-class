@@ -31,3 +31,4 @@ if __name__ == '__main__':
             plt.plot(fpr, tpr, label=index_to_label[class_num][x])
         plt.legend()
         plt.savefig('plottings/{}_roc_curve.svg'.format(class_num), type='svg')
+        plt.clf()
