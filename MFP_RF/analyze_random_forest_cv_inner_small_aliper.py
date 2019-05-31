@@ -23,7 +23,7 @@ def extract(file_path):
 
 if __name__ == '__main__':
     class_num_list = [3, 5, 12]
-    K = 90
+    K = 20
 
     for class_num in class_num_list:
         record = {}
