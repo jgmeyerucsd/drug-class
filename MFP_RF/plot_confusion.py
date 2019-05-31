@@ -106,7 +106,10 @@ if __name__ == '__main__':
 
         cnf_matrix = confusion_matrix(y_test, y_pred_on_test)
 
-        plt.figure(figsize=(5, 5))
+        if class_num == 12:
+            plt.figure(figsize=(10, 10))
+        else:
+            plt.figure(figsize=(5, 5))
 
         plot_confusion_matrix(cnf_matrix, classes=oracle[class_num], normalize=True,
                               title='Confusion matrix')
