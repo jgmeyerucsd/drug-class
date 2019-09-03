@@ -63,7 +63,7 @@ class RandomForestClassification:
                                      y_test=y_test, y_pred_on_test=y_pred_on_test,
                                      y_pred_proba_on_test=y_pred_proba_on_test)
 
-        np.savez('output_{}/num_class_{}_index_{}'.format(mode, number_of_class, index),
+        np.savez('output_all_single_class_cv/num_class_{}_index_{}'.format(number_of_class, index),
                  y_train=y_train, y_pred_on_train=y_pred_on_train,
                  y_test=y_test, y_pred_on_test=y_pred_on_test)
 
@@ -71,7 +71,7 @@ class RandomForestClassification:
 
         return
 
-    def eval_with_existing(self, x_train, y_train, x_test, y_test, weight_file):
+    def eval_with_existing(self, x_train, y_train, x_val, y_val, x_test, y_test, weight_file):
         model = self.load_model(weight_file)
 
         y_pred_on_train = reshape_data_into_2_dim(model.predict(x_train))
@@ -107,6 +107,39 @@ class RandomForestClassification:
         from sklearn.externals import joblib
         model = joblib.load(weight_file)
         return model
+
+
+def load_index_valid(number_of_class=3, idx=1):
+    def get_list(idx):
+        filepath = '../data/allsingleclass6955_stratkfoldsplits/{}cls_newskf{}.csv'.format(number_of_class, idx)
+        idx_list = []
+        with open(filepath, 'r') as f:
+            lines = f.readlines()
+        for line in lines:
+            idx = int(line)
+            idx_list.append(idx)
+        return idx_list
+    test_id = idx / 4
+    val_id = idx % 4 + (idx % 4 >= test_id)
+    print('test id: {}\t val id: {}'.format(test_id, val_id))
+    val_list, test_list = get_list(val_id), get_list(test_id)
+    return val_list, test_list
+
+
+def index2smiles_valid(val_idx_list, test_idx_list, number_of_class=3):
+    print('loading from allsingleclass6955_stratkfoldsplits')
+    filepath = '../data/allsingleclass6955_stratkfoldsplits/{}cls_rmsaltol.csv'.format(number_of_class)
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+    lines = np.array(lines[1:])
+    idx_list = list(set(val_idx_list + test_idx_list))
+    train_idx_list = filter(lambda x:x not in idx_list, range(len(lines)))
+    train_lines, val_lines, test_lines = lines[train_idx_list], lines[val_idx_list], lines[test_idx_list]
+
+    train_smiles_list, train_label_list = line_parser_smiles(train_lines, number_of_class)
+    val_smiles_list, val_label_list = line_parser_smiles(val_lines, number_of_class)
+    test_smiles_list, test_label_list = line_parser_smiles(test_lines, number_of_class)
+    return [train_smiles_list, train_label_list], [val_smiles_list, val_label_list], [test_smiles_list, test_label_list]
 
 
 def demo_random_forest_classification():

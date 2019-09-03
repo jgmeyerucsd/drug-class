@@ -37,35 +37,28 @@ class RandomForestClassification:
                                        verbose=1)
         return model
 
-    def train_and_predict(self, x_train, y_train, x_val, y_val, x_test, y_test, weight_file):
+    def train_and_predict(self, x_train, y_train, x_test, y_test, weight_file):
         model = self.setup_model()
         model.fit(x_train, y_train)
 
         y_pred_on_train = reshape_data_into_2_dim(model.predict(x_train))
         y_pred_proba_on_train = model.predict_proba(x_train)
-
-        if x_val is not None:
-            y_pred_on_val = reshape_data_into_2_dim(model.predict(x_val))
-            y_pred_proba_on_val = model.predict_proba(x_val)
-        else:
-            y_pred_on_val, y_pred_proba_on_val = None, None
-
         if x_test is not None:
             y_pred_on_test = reshape_data_into_2_dim(model.predict(x_test))
             y_pred_proba_on_test = model.predict_proba(x_test)
         else:
-            y_pred_on_test, y_pred_proba_on_test = None, None
+            y_pred_on_test = None
+            y_pred_proba_on_test = None
 
         output_classification_result(y_train=y_train, y_pred_on_train=y_pred_on_train,
                                      y_pred_proba_on_train=y_pred_proba_on_train,
-                                     y_val=y_val, y_pred_on_val=y_pred_on_val,
-                                     y_pred_proba_on_val=y_pred_proba_on_val,
+                                     y_val=None, y_pred_on_val=None, y_pred_proba_on_val=None,
                                      y_test=y_test, y_pred_on_test=y_pred_on_test,
                                      y_pred_proba_on_test=y_pred_proba_on_test)
 
-        np.savez('output_{}/num_class_{}_index_{}'.format(mode, number_of_class, index),
-                 y_train=y_train, y_pred_on_train=y_pred_on_train,
-                 y_test=y_test, y_pred_on_test=y_pred_on_test)
+        np.savez('output_all_single_class/num_class_{}_index_{}'.format(number_of_class, index),
+                 y_train=y_train, y_pred_on_train=y_pred_on_train, y_pred_proba_on_train=y_pred_proba_on_train,
+                 y_test=y_test, y_pred_on_test=y_pred_on_test, y_pred_proba_on_test=y_pred_proba_on_test)
 
         self.save_model(model, weight_file)
 
@@ -76,23 +69,16 @@ class RandomForestClassification:
 
         y_pred_on_train = reshape_data_into_2_dim(model.predict(x_train))
         y_pred_proba_on_train = model.predict_proba(x_train)
-
-        if x_val is not None:
-            y_pred_on_val = reshape_data_into_2_dim(model.predict(x_val))
-            y_pred_proba_on_val = model.predict_proba(x_val)
-        else:
-            y_pred_on_val, y_pred_proba_on_val = None, None
-
         if x_test is not None:
             y_pred_on_test = reshape_data_into_2_dim(model.predict(x_test))
             y_pred_proba_on_test = model.predict_proba(x_test)
         else:
-            y_pred_on_test, y_pred_proba_on_test = None, None
+            y_pred_on_test = None
+            y_pred_proba_on_test = None
 
         output_classification_result(y_train=y_train, y_pred_on_train=y_pred_on_train,
                                      y_pred_proba_on_train=y_pred_proba_on_train,
-                                     y_val=y_val, y_pred_on_val=y_pred_on_val,
-                                     y_pred_proba_on_val=y_pred_proba_on_val,
+                                     y_val=None, y_pred_on_val=None, y_pred_proba_on_val=None,
                                      y_test=y_test, y_pred_on_test=y_pred_on_test,
                                      y_pred_proba_on_test=y_pred_proba_on_test)
 
@@ -109,25 +95,50 @@ class RandomForestClassification:
         return model
 
 
+def load_index(number_of_class=3, idx=1):
+    filepath = '../data/allsingleclass6955_stratkfoldsplits/{}cls_newskf{}.csv'.format(number_of_class, idx)
+    idx_list = []
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+    for line in lines:
+        idx = int(line)
+        idx_list.append(idx)
+    return idx_list
+
+
+def index2smiles(idx_list, number_of_class=3):
+    print('loading from allsingleclass6955_stratkfoldsplits')
+    filepath = '../data/allsingleclass6955_stratkfoldsplits/{}cls_rmsaltol.csv'.format(number_of_class)
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+    lines = np.array(lines[1:])
+    idx_list = list(set(idx_list))
+    train_idx_list = filter(lambda x:x not in idx_list, range(len(lines)))
+    train_lines, test_lines = lines[train_idx_list], lines[idx_list]
+    train_smiles_list, train_label_list = line_parser_smiles(train_lines, number_of_class)
+    test_smiles_list, test_label_list = line_parser_smiles(test_lines, number_of_class)
+    return [train_smiles_list, train_label_list], [test_smiles_list, test_label_list]
+
+
 def demo_random_forest_classification():
     json_file = 'config/random_forest_classification/{}.json'.format(json_id)
     with open(json_file) as f:
         conf = json.load(f)
 
-    val_idx_list, test_idx_list = load_index_valid(number_of_class, index)
-    [train_smiles_list, y_train], [val_smiles_list, y_val], [test_smiles_list, y_test] = index2smiles_valid(val_idx_list, test_idx_list, number_of_class)
-    x_train, x_val, x_test = smiles2fps(train_smiles_list), smiles2fps(val_smiles_list), smiles2fps(test_smiles_list)
+    idx_list = load_index(number_of_class, index)
+
+    [train_smiles_list, y_train], [test_smiles_list, y_test] = index2smiles(idx_list, number_of_class)
+    x_train, x_test = smiles2fps(train_smiles_list), smiles2fps(test_smiles_list)
+
     x_train, y_train = x_train.astype(float), y_train.astype(float)
-    x_val, y_val = x_val.astype(float), y_val.astype(float)
     x_test, y_test = x_test.astype(float), y_test.astype(float)
 
     print(x_train.shape, '\t', y_train.shape)
-    print(x_val.shape, '\t', y_val.shape)
     print(x_test.shape, '\t', y_test.shape)
 
     task = RandomForestClassification(conf=conf)
-    task.train_and_predict(x_train, y_train, x_val, y_val, x_test, y_test, weight_file)
-    task.eval_with_existing(x_train, y_train, x_val, y_val, x_test, y_test, weight_file)
+    task.train_and_predict(x_train, y_train, x_test, y_test, weight_file)
+    task.eval_with_existing(x_train, y_train, x_test, y_test, weight_file)
     return
 
 
@@ -137,13 +148,11 @@ if __name__ == '__main__':
     parser.add_argument('--number_of_class', type=int, default=3)
     parser.add_argument('--index', type=int, default=0)
     parser.add_argument('--json_id', type=int, default=0)
-    parser.add_argument('--mode', type=str, default='fingerprints')
 
     given_args = parser.parse_args()
     weight_file = given_args.weight_file
     number_of_class = given_args.number_of_class
     index = given_args.index
-    mode = given_args.mode
     json_id = given_args.json_id
 
     demo_random_forest_classification()

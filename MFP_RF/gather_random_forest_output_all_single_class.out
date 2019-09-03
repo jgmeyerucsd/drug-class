@@ -1,0 +1,21 @@
+class num: 3
+optimal test accuracy: 0.881761594859 +/- 0.0141905067859
+optimal test balanced accuracy: 0.870358422716 +/- 0.0162032665098
+optimal test matthews corrcoef: 0.821991908456 +/- 0.0217229925463
+optimal test multiclass ROC-AUC: 0.97754799427 +/- 0.00382870244262
+optimal test multiclass PR-AUC: 0.962298821248 +/- 0.00597707835951
+
+class num: 5
+optimal test accuracy: 0.870835324123 +/- 0.00699948945978
+optimal test balanced accuracy: 0.821480720168 +/- 0.0182903021862
+optimal test matthews corrcoef: 0.821374293825 +/- 0.00968451349116
+optimal test multiclass ROC-AUC: 0.980974308618 +/- 0.00284104618899
+optimal test multiclass PR-AUC: 0.950002055197 +/- 0.0058200383574
+
+class num: 12
+optimal test accuracy: 0.837688761008 +/- 0.00677286582019
+optimal test balanced accuracy: 0.719366753298 +/- 0.0248276407692
+optimal test matthews corrcoef: 0.797161261055 +/- 0.00831283514083
+optimal test multiclass ROC-AUC: 0.97742348021 +/- 0.0022712199167
+optimal test multiclass PR-AUC: 0.918145354847 +/- 0.0039232949516
+
